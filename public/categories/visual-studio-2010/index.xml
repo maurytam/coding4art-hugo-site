@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Studio 2010 on My New Hugo Site</title>
+    <link>https://example.org/categories/visual-studio-2010/</link>
+    <description>Recent content in Visual Studio 2010 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2013 13:18:12 +0000</lastBuildDate><atom:link href="https://example.org/categories/visual-studio-2010/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to enable Visual Studio Intellisense for NHibernate configuration files</title>
+      <link>https://example.org/archive/2013/08/28/how-to-enable-visual-studio-intellisense-for-nhibernate-configuration-files.aspx</link>
+      <pubDate>Wed, 28 Aug 2013 13:18:12 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/08/28/how-to-enable-visual-studio-intellisense-for-nhibernate-configuration-files.aspx</guid>
+      <description>If you are an NHibernate’s user and you want to benefit of the Intellisense support during the editing of its configuration files in Visual Studio 2010 environment, just copy these 2 files: nhibernate-configuration.xsd and nhibernate-mapping.xsd, from the NHibernate zip into the following folder:
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\Xml\Schemas
+where C:\Program Files (x86)\Microsoft Visual Studio 10.0 is your Visual Studio 2010 installation folder.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #12</title>
+      <link>https://example.org/archive/2010/09/03/link-utili-della-settimana-12.aspx</link>
+      <pubDate>Fri, 03 Sep 2010 20:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/03/link-utili-della-settimana-12.aspx</guid>
+      <description>– Microsoft – Domain Oriented N-Layered .NET 4.0 App Sample
+Per gli amanti (come me) di DDD, ecco un progetto molto interessante riguardante un “DDD N-Layered Architecture Style”, ovvero una applicazione di esempio che mostra uno scenario di business molto semplice che include alcune implementazioni di DDD Design patterns (Repository, UoW, Entity, Aggregate, Value-Object, etc), facendo uso di .Net 4.0, EF 4.0, WCF 4.0, differenti client partendo da WPF e Silverlight.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #10</title>
+      <link>https://example.org/archive/2010/07/30/link-utili-della-settimana-10.aspx</link>
+      <pubDate>Fri, 30 Jul 2010 20:50:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/30/link-utili-della-settimana-10.aspx</guid>
+      <description>– On the Fly Zip and Attach” Windows Live Writer Plugin
+Questo add-in è utile a tutti i bloggers che (come me) usano Windows Live Writer per scrivere e pubblicare i propri posts. Esso permette di selezionare files / directory dal proprio PC, zipparli al volo ed includerli come allegato al proprio post onde permettere al lettore di farne il download. Decisamente da provare.
+– Dynamic LINQ Methods
+Molto molto interessante.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #8</title>
+      <link>https://example.org/archive/2010/07/16/link-utili-della-settimana-8.aspx</link>
+      <pubDate>Fri, 16 Jul 2010 20:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/16/link-utili-della-settimana-8.aspx</guid>
+      <description>– Super cool MSBuild Debugging in Visual Studio IDE
+Questa è una feature eccezionale non ufficialmente supportata. Seguendo il link è possibile scoprire i passi necessari per abilitarla in Visual Studio 2010.
+– Tool di migrazione VB6 –&amp;gt; VB .NET / C# gratuito
+Considerato che è gratuito e che promette bene vale sicuramente la pena provarlo.
+– Visual Studio 2010 Dark background
+Add-in per VS 2010 per impostare dei temi personalizzati circa i colori, tra cui un fantastico Dark</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #6</title>
+      <link>https://example.org/archive/2010/07/02/link-utili-della-settimana-6-again.aspx</link>
+      <pubDate>Fri, 02 Jul 2010 21:43:55 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/02/link-utili-della-settimana-6-again.aspx</guid>
+      <description>– Patch per errore di memoria insufficiente a seguito di cut and copy in Visual Studio 2010
+– Softoria Capture 1.0, tool utilissimo (e free) che permette il capture dell’intero schermo, di finestre e di porzioni di finestre per un successivo “copy and paste”
+– Agilizer, tratto da CodePlex, semplice ma molto utile strumento di gestione di progetti Agili
+– Visual Studio 2010 Architecture Tooling Guidance </description>
+    </item>
+    
+    <item>
+      <title>Installazione di Visual Studio 2010 RC fallita – File &amp;ldquo;vs_setup.msi is invalid&amp;rdquo;</title>
+      <link>https://example.org/archive/2010/02/16/installazione-di-visual-studio-2010-rc-fallita-file.aspx</link>
+      <pubDate>Tue, 16 Feb 2010 04:48:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/02/16/installazione-di-visual-studio-2010-rc-fallita-file.aspx</guid>
+      <description>Installando Visual Studio 2010 RC Premium ottengo questo errore bloccante:
+File vs_setup.msi is invalid.
+Sono in attesa di una risposta dal supporto Microsoft, dove ho aperto un ticket.
+Chissà se qualche lettore di questo blog, occasionale o no, ha già una risposta a questa issue.
+Ci spero!
+UPDATE: La soluzione a questo inconveniente, che pochi sventurati al mondo hanno avuto (cosa che ho riscontrato leggendo i forum Microsoft) è scaricarsi direttamente il file ISO ed installare il tutto da lì, e non utilizzare invece il download dei 4 file separati che compongono l’ISO stesso.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2010 Beta 2</title>
+      <link>https://example.org/archive/2009/10/22/visual-studio-2010-beta-2.aspx</link>
+      <pubDate>Thu, 22 Oct 2009 04:47:40 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/22/visual-studio-2010-beta-2.aspx</guid>
+      <description>Disponibile il download per tutti</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana</title>
+      <link>https://example.org/archive/2009/09/25/link-utili-della-settimana.aspx</link>
+      <pubDate>Fri, 25 Sep 2009 07:28:26 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/09/25/link-utili-della-settimana.aspx</guid>
+      <description>Descrizione di Unity, il framework di Inversion of Control e Dipendency Injection sviluppato dal team di P&amp;amp;P (qui Ã¨ presente la versione 1.2 per Silverlight) 45 passi per diventare agili xVal, libreria per la validazione client side di applicazioni ASP .NET MVC Anti XSS Library ver. 3.1 CodePad .NET 1.0 Beta 2, un editor leggero per provare spezzoni di codice Strongly typed session variables in ASP .NET MVC Visual Studio 2010 e .</description>
+    </item>
+    
+  </channel>
+</rss>

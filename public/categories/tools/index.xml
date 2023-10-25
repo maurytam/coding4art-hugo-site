@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on My New Hugo Site</title>
+    <link>https://example.org/categories/tools/</link>
+    <description>Recent content in Tools on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jan 2013 15:01:06 +0000</lastBuildDate><atom:link href="https://example.org/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HeidiSQL – Free portable client for Sql server and MySql</title>
+      <link>https://example.org/archive/2013/01/29/heidisql-free-portable-client-for-sql-server-and-mysql.aspx</link>
+      <pubDate>Tue, 29 Jan 2013 15:01:06 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/01/29/heidisql-free-portable-client-for-sql-server-and-mysql.aspx</guid>
+      <description>Free portable client for Sql server and MySql.
+This is the software I always needed!
+Features:
+Free for everyone, OpenSource. Connect to multiple servers in one window Connect to servers via commandline Connect via SSH tunnel, or pass SSL settings Create and edit tables, views, stored routines, triggers and scheduled events. Generate nice SQL-exports Export from one server/database directly to another server/database Manage user-privileges Import text-files Export table rows as CSV, HTML, XML, SQL, LaTeX, Wiki Markup and PHP Array Browse and edit table-data using a comfortable grid Bulk edit tables (move to db, change engine, collation etc.</description>
+    </item>
+    
+    <item>
+      <title>Web services Contract First development</title>
+      <link>https://example.org/archive/2012/05/30/web-services-contract-first-development.aspx</link>
+      <pubDate>Wed, 30 May 2012 09:37:58 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2012/05/30/web-services-contract-first-development.aspx</guid>
+      <description>WSCF.blue is a great tool for developing web services in a Contract First mode.
+Develop in such a way means that you start from a WSDL contract that describes everything is concerned with a web service, and only after that you can write code which that contract is based on.
+Working with a WSDL can be a very error-prone task because a WSDL is a XML file. The WSCF.blue tool is able (among other things) building the server code you need from that file.</description>
+    </item>
+    
+    <item>
+      <title>NDepend, a &amp;ldquo;must have&amp;rdquo; tool</title>
+      <link>https://example.org/archive/2010/07/20/ndepend-a-ldquomust-haverdquo-tool.aspx</link>
+      <pubDate>Tue, 20 Jul 2010 21:03:05 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/20/ndepend-a-ldquomust-haverdquo-tool.aspx</guid>
+      <description>Questo è un tool davvero impressionante per cosa riesce a tirar fuori da un assembly .Net, adesso con tanto di add-in per Visual Studio e per Reflector.
+E’ un must per qualsiasi sviluppatore/architetto degno di questo nome.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #7</title>
+      <link>https://example.org/archive/2010/07/09/link-utili-della-settimana-7.aspx</link>
+      <pubDate>Fri, 09 Jul 2010 18:26:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/09/link-utili-della-settimana-7.aspx</guid>
+      <description>– SILF: Silverlight Install and Logging Framework
+– How to Use a VBA Macro to Sum Only Visible Cells Questo me lo appunto perchè davvero utile, e mi chiedo come mai non sia già presente una funzionalità simile in Excel 2007, ovvero la possibilità di sommare solo le celle visibili (vale a dire non filtrate) di un dato range, e non invece tutte le celle, anche quelle filtrate, come invece succede se si usa la classica funzione SUM.</description>
+    </item>
+    
+    <item>
+      <title>Installare Windows 7 da USB</title>
+      <link>https://example.org/archive/2010/01/28/installare-windows-7-da-usb.aspx</link>
+      <pubDate>Thu, 28 Jan 2010 03:52:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/01/28/installare-windows-7-da-usb.aspx</guid>
+      <description>Utile tool per installare Windows 7 da drive USB.
+In sostanza viene copiata l’immagine ISO della installazione di Win7 su un supporto USB rendendo lo stesso bootable, in modo da poter far partire il PC e lanciare l’installazione anche su macchine senza sistema operativo.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana</title>
+      <link>https://example.org/archive/2009/09/25/link-utili-della-settimana.aspx</link>
+      <pubDate>Fri, 25 Sep 2009 07:28:26 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/09/25/link-utili-della-settimana.aspx</guid>
+      <description>Descrizione di Unity, il framework di Inversion of Control e Dipendency Injection sviluppato dal team di P&amp;amp;P (qui Ã¨ presente la versione 1.2 per Silverlight) 45 passi per diventare agili xVal, libreria per la validazione client side di applicazioni ASP .NET MVC Anti XSS Library ver. 3.1 CodePad .NET 1.0 Beta 2, un editor leggero per provare spezzoni di codice Strongly typed session variables in ASP .NET MVC Visual Studio 2010 e .</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Addin – ecco quelli che uso io</title>
+      <link>https://example.org/archive/2009/05/07/visual-studio-addin-ecco-quelli-che-uso-io.aspx</link>
+      <pubDate>Thu, 07 May 2009 10:56:22 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/05/07/visual-studio-addin-ecco-quelli-che-uso-io.aspx</guid>
+      <description>L’utilizzo degli add-in di Visual Studio 2008 consente di incrementare a volte notevolmente la produttività di chi sviluppa, ad esempio rendendo possibile effettuare con pochi click operazioni ripetitive e lunghe. Tratto da Visual Studio Gallery, ecco la serie di add-in, rigorosamente free, che utilizzo giornalmente durante l’attività di sviluppo del software:
+Regionerate, permette di creare in automatico le regioni di codice su un intero file, applicando un layout predefinito o scelto tra i layout forniti.</description>
+    </item>
+    
+    <item>
+      <title>Rilevare codice duplicato</title>
+      <link>https://example.org/archive/2009/03/06/rilevare-codice-duplicato.aspx</link>
+      <pubDate>Fri, 06 Mar 2009 05:56:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/03/06/rilevare-codice-duplicato.aspx</guid>
+      <description>Clone Detective for Visual Studio è una integrazione dell’ambiente Visual Studio (completamente free) in gradi di rilevare porzioni di codice duplicato tra i vari progetti che compongono una solution. Il fine è ambizioso, poichè come dice la stessa presentazione del prodotto presente su CodePlex
+“Having duplicates can easily lead to inconsistencies and often is an indicator for poorly factored code”
+Un componente del genere può davvero essere utilissimo, anche oltre lo scopo che si prefigge.</description>
+    </item>
+    
+    <item>
+      <title>Mole, visualizer integrato per visual studio</title>
+      <link>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</link>
+      <pubDate>Thu, 31 Jul 2008 08:25:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</guid>
+      <description>Segnalo un gran bel Visualizer per Visual Studio 2005/2008. Trattasi di Mole v.4.2, un visualizer in grado di funzionare con diversi oggetti di diverse tipologie di progetto, che comprendono WinForms, WPF, WCF, WF, ASP.NET, XBAP. Io lo trovo molto utile soprattutto per progetti WCF, WPF, dove gli oggetti con cui si ha a che fare sono abbastanza complessi e strutturati. Uno strumento del genere, molto ben fatto e performante, può far risparmiare diversi “mal di testa” quando si effettua il debugging di progetti di questo tipo.</description>
+    </item>
+    
+    <item>
+      <title>Le direttive using devono essere poste all’interno del namespace</title>
+      <link>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</link>
+      <pubDate>Tue, 22 Jul 2008 08:59:42 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</guid>
+      <description>Questo post inizia con una frase tratta da un post di Scott Hanselmann con cui mi trovo completamente d’accordo:
+Credo sia proprio vero, mai fidarsi ciecamente di quello che si legge in giro, soprattutto quando seri dubbi farebbero pensare il contrario.
+Il motivo è presto detto: utilizzo normalmente FxCop come strumento di analisi del codice sorgente, lo trovo molto completo e ben fatto. Spinto dalla curiosità ho voluto utilizzare Source Analysis, un tool gratuito fornito da Microsoft ed integrato nell’IDE di Visual Studio.</description>
+    </item>
+    
+    <item>
+      <title>Xobni – il tool di cui si sentiva la mancanza</title>
+      <link>https://example.org/archive/2008/05/07/xobni-il-tool-di-cui-si-sentiva-la-mancanza.aspx</link>
+      <pubDate>Wed, 07 May 2008 10:09:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/05/07/xobni-il-tool-di-cui-si-sentiva-la-mancanza.aspx</guid>
+      <description>Per chi utilizza Outlook in modo intensivo questo è davvero un must-have tool. Sto parlando di Xobni, un add-in per Outlook 2003/2007 che permette di gestire i messaggi di posta in modo molto efficiente. Tra le sue caratteristiche segnalo:
+Efficientissimo motore di ricerca di messaggi e/o persone con nutrito numero di opzioni; Gestione dei messaggi in thread; Estrazione automatica del numero di telefono del mittente dal messaggio di posta (spettacolare); Ricerca istantanea degli allegati legati ad un particolare mittente; Creazione di mail di invito ad un evento con estrazione automatica dei periodi di disponibilità dal proprio calendario; Statistiche estremamente dettagliate sulle mail scambiate con ogni mittente; Navigazione della mailbox in base al profilo della persona; La feature che personalmente trovo estremamente comoda è la ricerca degli allegati legati ad una particolare persona.</description>
+    </item>
+    
+    <item>
+      <title>Tools di comparazione files</title>
+      <link>https://example.org/archive/2008/04/02/tools-di-comparazione-files.aspx</link>
+      <pubDate>Wed, 02 Apr 2008 10:54:04 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/02/tools-di-comparazione-files.aspx</guid>
+      <description>Tra i tools che ogni buon sviluppatore dovrebbe possedere non può mancare quello forse più classico e scontato, ovvero un software che compara il contenuto di 2 files ed evidenzia le differenze.
+A meno di non voler usare le funzionalità di comparazione presenti nei vari software di controllo del codice sorgente, il compare di files è una operazione abbastanza frequente.
+Ho provato vari tools di comparazione, quello che uso e che a mio parere è uno dei più validi (soprattutto perchè a free :)) è DiffMerge ver.</description>
+    </item>
+    
+    <item>
+      <title>PowerCommands for Visual Studio 2008</title>
+      <link>https://example.org/archive/2008/04/01/powercommands-for-visual-studio-2008.aspx</link>
+      <pubDate>Tue, 01 Apr 2008 09:40:35 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/01/powercommands-for-visual-studio-2008.aspx</guid>
+      <description>Ho installato già da un po’ di tempo i PowerCommands for Visual Studio 2008 (una estensione dell’IDE per aggiungere funzionalità) e devo dire che sono davvero utili.
+Tra le funzionalità più interessanti segnalo:
+–Remove and Sort Usings: a livello di progetto, ordina gli statements using e rimuove automaticamente quelli inutilizzati (disponibile solo per progetti scritti in C#);
+–Collapse projects: come dice lo stesso nome, “collassa” uno o più items (non necessariamente progetti) per migliorare la visione d’insieme della solution;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOLID Principles on My New Hugo Site</title>
+    <link>https://example.org/categories/solid-principles/</link>
+    <description>Recent content in SOLID Principles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jan 2011 16:47:01 +0000</lastBuildDate><atom:link href="https://example.org/categories/solid-principles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dependency Inversion Principle (DIP)</title>
+      <link>https://example.org/archive/2011/01/03/the-dependency-inversion-principle-dip.aspx</link>
+      <pubDate>Mon, 03 Jan 2011 16:47:01 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/01/03/the-dependency-inversion-principle-dip.aspx</guid>
+      <description>The last of SOLID principles about OOD is known as Dependency Inversion Principle (DIP).
+This principle says that:
+High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend upon details. Details should depend upon abstractions.
+This principle, with the OCP principle already discussed, are intended to make software application loosely coupled. This feature is achieved by removing as much as possible dependencies between higher level modules (those usually more general) and the low-level modules (those usually more specific).</description>
+    </item>
+    
+    <item>
+      <title>The Interface Segregation Principle (ISP)</title>
+      <link>https://example.org/archive/2010/12/07/the-interface-segregation-principle-isp.aspx</link>
+      <pubDate>Tue, 07 Dec 2010 14:38:18 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/12/07/the-interface-segregation-principle-isp.aspx</guid>
+      <description>The Interface Segregation Principle (ISP) is another principle about OOD.
+It simply states that:
+If we return back to the first OOD principle, the Single Responsibility Principle, it can be said that this principle should also apply to interfaces or to abstract class, in addition to the concrete classes.
+Therefore, one interface should mean one responsibility, without creating the so-called “fat interfaces”, i.e. interfaces that contain too many methods/properties that relate to more than 1 responsibility.</description>
+    </item>
+    
+    <item>
+      <title>The Liskov Substitution Principle (LSP)</title>
+      <link>https://example.org/archive/2010/12/01/the-liskov-substitution-principle-lsp.aspx</link>
+      <pubDate>Wed, 01 Dec 2010 10:59:07 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/12/01/the-liskov-substitution-principle-lsp.aspx</guid>
+      <description>The Liskov Substitution Principle (LSP) is another principle that has to do with software design and namely with inheritance.
+This principle takes its name from Barbara Liskov, U.S. scientist in computer science.
+This principle simply states that
+“CLASSES THAT USE REFERENCES TO BASE CLASSES MUST BE ABLE TO USE OBJECTS OF DERIVED CLASSES WITHOUT KNOWING IT”
+In other words, if we have a class (say Class C) that use a reference to a base class inside (Class B), then Class C MUST be able to use a reference with ANY derivate class of Class B (present and future), without knowing it and especially without changing the logical behaviour.</description>
+    </item>
+    
+    <item>
+      <title>The second Solid principle: OCP</title>
+      <link>https://example.org/archive/2010/11/26/the-second-solid-principle-ocp.aspx</link>
+      <pubDate>Fri, 26 Nov 2010 10:14:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/11/26/the-second-solid-principle-ocp.aspx</guid>
+      <description>In this post I will speak about the second principle of Object Oriented Design (OOD), i.e. the Open-Closed Principle (OCP). in addition to the first one (SRP) which I have already spoken in my previous post.
+This principle was coined by Bertrand Meyer, the same person who coined the term “design by contract”, to which I devoted an article that you can view on the UgiDotNet site.
+This principle simply states that software entities, i.</description>
+    </item>
+    
+    <item>
+      <title>The first Solid principle: SRP</title>
+      <link>https://example.org/archive/2010/11/22/the-first-solid-principle-srp.aspx</link>
+      <pubDate>Mon, 22 Nov 2010 13:15:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/11/22/the-first-solid-principle-srp.aspx</guid>
+      <description>Some of the principles about the object oriented programming (OOD) deal with design.
+This design principles are known with the acronym of SOLID.
+SOLID stands for:
+(S)ingle Responsibility principle;
+(O)pen closed principle;
+(L)iskov substitution principle;
+(I)nterface segregation principle;
+(D)ipendency inversion principle
+In my opinion, these principles are very important to understand if we are to achieve the greatest benefits of OOP.
+In this post, I’ll speak about the first of these principles, i.</description>
+    </item>
+    
+  </channel>
+</rss>

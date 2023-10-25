@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeProject on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/codeproject/</link>
+    <description>Recent content in CodeProject on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Dec 2012 15:13:53 +0000</lastBuildDate><atom:link href="https://example.org/categories/codeproject/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entity Framework for Oracle is dependent by an environment variable</title>
+      <link>https://example.org/archive/2012/12/05/entity-framework-for-oracle-is-dependent-by-an-environment-variable.aspx</link>
+      <pubDate>Wed, 05 Dec 2012 15:13:53 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2012/12/05/entity-framework-for-oracle-is-dependent-by-an-environment-variable.aspx</guid>
+      <description>Those who using Entity Framework Provider for Oracle have certainly already run into this issue, i.e., the proper functioning of this provider depends on an environment variable! It’s a bit strange, but it’s the truth.
+If you forget (or if you simply don’t know) to setup an environment variable named “TNS_ADMIN” which contains the full path used by Oracle software to search for the “tnsnames” file, which in turn is used for reading the necessary parameters to establish a connection to the database server, attempting to open a connection will fail.</description>
+    </item>
+    
+    <item>
+      <title>Snippets code #1 – Extension method to raise an event via reflection</title>
+      <link>https://example.org/archive/2011/09/25/snippets-code-1-extension-method-to-raise-an-event-via-again.aspx</link>
+      <pubDate>Sun, 25 Sep 2011 20:14:56 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/09/25/snippets-code-1-extension-method-to-raise-an-event-via-again.aspx</guid>
+      <description>This extension method, applied to the object class and then available for all classes, allows to raise any events via reflection, providing as parameters the event name (as a string) and the TEvenArgs generic parameter.
+Example of use:
+Source for code in this example</description>
+    </item>
+    
+  </channel>
+</rss>

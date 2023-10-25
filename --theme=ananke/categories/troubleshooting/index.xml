@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troubleshooting on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2016 17:52:12 +0000</lastBuildDate><atom:link href="https://example.org/categories/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DotNet Core “Unable to load DLL ‘System.Security.Cryptography.Native” error</title>
+      <link>https://example.org/archive/2016/11/25/dotnet-core-unable-to-load-dll-system-security-cryptography-native-error.aspx</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2016/11/25/dotnet-core-unable-to-load-dll-system-security-cryptography-native-error.aspx</guid>
+      <description>I was trying to play with DotNet Core in Visual Studio Code, and I was following the instructions as stated here.
+After installed Brew I installed the latest version of OpenSSL as required by DotNet Core and then I tried to run the classic “Hello World” program, but the command
+dotnet restore
+failed with this error:
+This error has to do with OpenSSL, or even better with Brew that refuseed to correctly link OpenSSL.</description>
+    </item>
+    
+    <item>
+      <title>Blog moved to WordPress</title>
+      <link>https://example.org/archive/2014/09/19/blog-moved-to-wordpress.aspx</link>
+      <pubDate>Thu, 18 Sep 2014 22:10:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2014/09/19/blog-moved-to-wordpress.aspx</guid>
+      <description>It’s long time I don’t write anything on this blog, I was very busy in recent times, but now the time has come and I intend to regain the time lost.
+When I came back to this blog, the first thing I noticed were the look &amp;amp; feel and the software engine on which it was based, SubText, a very old bog software, but still widely used, so I decided to move it to another platform, possibly in step with times, and my choice was WordPress.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2010 compilation message error &amp;ldquo;The exec task needs a command to execute&amp;rdquo;</title>
+      <link>https://example.org/archive/2011/06/06/visual-studio-2010-compilation-message-error-ldquothe-exec-task-needs.aspx</link>
+      <pubDate>Mon, 06 Jun 2011 13:20:14 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/06/06/visual-studio-2010-compilation-message-error-ldquothe-exec-task-needs.aspx</guid>
+      <description>If it happens this strange and cryptic error in Visual Studio 2010 while compiling any project:
+“The exec task needs a command to execute”
+the reason is this: in any pre or post build event, there is a carriage return character to remove, because Visual Studio 2010 poorly digested the carriage return characters in ‘text editor pre-post build events.</description>
+    </item>
+    
+    <item>
+      <title>Installazione di Visual Studio 2010 RC fallita – File &amp;ldquo;vs_setup.msi is invalid&amp;rdquo;</title>
+      <link>https://example.org/archive/2010/02/16/installazione-di-visual-studio-2010-rc-fallita-file.aspx</link>
+      <pubDate>Tue, 16 Feb 2010 04:48:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/02/16/installazione-di-visual-studio-2010-rc-fallita-file.aspx</guid>
+      <description>Installando Visual Studio 2010 RC Premium ottengo questo errore bloccante:
+File vs_setup.msi is invalid.
+Sono in attesa di una risposta dal supporto Microsoft, dove ho aperto un ticket.
+Chissà se qualche lettore di questo blog, occasionale o no, ha già una risposta a questa issue.
+Ci spero!
+UPDATE: La soluzione a questo inconveniente, che pochi sventurati al mondo hanno avuto (cosa che ho riscontrato leggendo i forum Microsoft) è scaricarsi direttamente il file ISO ed installare il tutto da lì, e non utilizzare invece il download dei 4 file separati che compongono l’ISO stesso.</description>
+    </item>
+    
+    <item>
+      <title>L&amp;rsquo;evento page load &amp;egrave; eseguito 2 volte</title>
+      <link>https://example.org/archive/2009/11/15/lrsquoevento-page-load-egrave-eseguito-2-volte.aspx</link>
+      <pubDate>Sun, 15 Nov 2009 05:17:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/11/15/lrsquoevento-page-load-egrave-eseguito-2-volte.aspx</guid>
+      <description>Convertire un progetto ASP .NET dalla versione 1.1 ad una versione successiva del .NET Framework nasconde un inconveniente a cui occorre porre rimedio manualmente.
+L’inconveniente è dovuto alla introduzione delle partial class a partire dalla versione 2.0 del .NET Framework, in contrapposizione al codice generato dal designer nella versione 1.1.
+Questo fa si che importando il codice sorgente nella nuova versione utilizzata ci si ritrovi, ad esempio, con un event handler come questo nel metodo InitializeComponent</description>
+    </item>
+    
+    <item>
+      <title>Visual studio ide crash #2</title>
+      <link>https://example.org/archive/2008/12/09/visual-studio-ide-crash-2.aspx</link>
+      <pubDate>Tue, 09 Dec 2008 06:44:28 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/12/09/visual-studio-ide-crash-2.aspx</guid>
+      <description>Avevo già parlato qui (post immediatamente sotto :-)) di uno strano crash di Visual Studio 2008 SP1, a seguito dell’esecuzione comando “Choose items” della toolbox.
+Il problema sembrava essere dovuto alla presenza dei PowerCommands e di una loro presunta incompatibilità con il Service Pack 1. Infatti per poter tornare alla “normalità” era necessario un’azione estrema, ovvero rimuovere i PowerCommands, ed a quel punto il problema spariva.
+Oggi scopro che attraverso un assemply redirection nel file di configurazione di Visual Studio (devenv.</description>
+    </item>
+    
+    <item>
+      <title>Visual studio 2008 ide crash dopo &#34;Choose items&#34; dalla toolbox</title>
+      <link>https://example.org/archive/2008/09/04/visual-studio-2008-ide-crash-dopo-quot-choose-items-quot.aspx</link>
+      <pubDate>Thu, 04 Sep 2008 15:54:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/09/04/visual-studio-2008-ide-crash-dopo-quot-choose-items-quot.aspx</guid>
+      <description>Qualche giorno fa mi sono imbattuto in uno strano crash di Visual Studio 2008, dopo aver installato il Service Pack 1, vale a dire che il comando “Choose items” della toolbox era capace di mandare in crash l’intero IDE, scrivendo un laconico messaggio nell’Event viewer, del tipo
+NET Runtime version 2.0.50727.3053 – Fatal Execution Engine Error (7A035E00) (80131506)
+di nessuna utilità per la risoluzione del problema, senza possibilità di scampo quindi.</description>
+    </item>
+    
+    <item>
+      <title>Impossibile aggiungere una service reference in visual studio 2008</title>
+      <link>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</link>
+      <pubDate>Mon, 28 Jul 2008 10:03:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</guid>
+      <description>Questo workaround spero sia utile a chi si è trovato nella stessa mia situazione, e cioè che improvvisamente Visual Studio 2008 si rifiuta di aggiungere una Service Reference ad un servizio WCF, dando questo errore:
+The components required to enumerate web references are not installed on this computer. Please re-install Visual studio. Ho poi scoperto che il problema si presentava anche aggiungendo semplici web reference (ASP .NET web services) a progetti creati con Visual Studio 2005.</description>
+    </item>
+    
+    <item>
+      <title>Visual source safe – troubleshooting</title>
+      <link>https://example.org/archive/2008/07/20/visual-source-safe-troubleshooting.aspx</link>
+      <pubDate>Sun, 20 Jul 2008 16:20:43 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/20/visual-source-safe-troubleshooting.aspx</guid>
+      <description>Nel mio lavoro quotidiano come consulente uso spesso e volentieri Visual Source Safe (sigh!) come repository del codice sorgente. Come chi già lo usa sicuramente ben sa, Source Safe è un prodotto ormai datato che si porta dietro un pò di problemi di varia natura. Quindi, non è sempre facile “addomesticarlo” per ottenere quello che si vuole. Appunto un paio di workaround su come evitare certe situazioni che possono portare a problemi:</description>
+    </item>
+    
+    <item>
+      <title>IIS ASP .NET Tab missing</title>
+      <link>https://example.org/archive/2008/06/11/iis-asp-net-tab-missing.aspx</link>
+      <pubDate>Wed, 11 Jun 2008 03:54:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/06/11/iis-asp-net-tab-missing.aspx</guid>
+      <description>Vi è mai capitato che nella console di amministrazione di IIS per una certa web application sparisse il tab ASP .NET senza apparente motivo ?
+A me sì, con tutte le conseguenze del caso, e senza che riuscissi a trovare una soluzione nei forum e user group. Ora finalmente la soluzione esiste.
+E’ spiegata in modo dettagliato in questo post, ed inoltre, come afferma l’autore del post, non esiste nessuna soluzione immediata che pone riparo a questa anomalia.</description>
+    </item>
+    
+    <item>
+      <title>Messaggio di errore Ambiguous match found e httpParseException</title>
+      <link>https://example.org/archive/2008/03/17/messaggio-di-errore-ambiguous-match-found-e-httpparseexception.aspx</link>
+      <pubDate>Mon, 17 Mar 2008 08:58:15 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/03/17/messaggio-di-errore-ambiguous-match-found-e-httpparseexception.aspx</guid>
+      <description>Scenario: web application che utilizza la versione 1.1 di ASP .NET migrata direttamente alla versione 3.5. Dopo la migrazione su una delle pagine ASPX viene sollevato una HttpParseException durante il caricamento della stessa. L’eccezione in questione, come si evince dal nome, viene generata dal runtime di ASP .NET quando il parsing di una pagina ASPX fallisce a runtime. Il messaggio di errore recita “Ambiguous match found”, e quindi non aiuta granchè.</description>
+    </item>
+    
+    <item>
+      <title>Partial rendering troubleshooting</title>
+      <link>https://example.org/archive/2008/03/13/partial-rendering-troubleshooting.aspx</link>
+      <pubDate>Thu, 13 Mar 2008 10:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/03/13/partial-rendering-troubleshooting.aspx</guid>
+      <description>Regola importante: l’update parziale di una pagina ASP .NET 2.0 (o successivi) attraverso l’UpdatePanel di Ajax non funziona in presenza di questo tag nel file di configurazione dell’applicazione (o nel machine.config):
+Infatti, con questa impostazione la proprietà “SupportPartialRendering” dell’oggetto ScriptManager ritorna il valore false.
+Il tag in questione imposta la modalità di rendering dei controlli, es.: in modalità compatibile XHTML (mode=”Transitional” o “Strict”) oppure no (mode=”Legacy”).
+In ASP .NET 1.1 i controlli subivano un rendering non XHTML compatibile, e questo comportamento è stato modificato in ASP .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on My New Hugo Site</title>
+    <link>https://example.org/categories/javascript/</link>
+    <description>Recent content in Javascript on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2013 10:24:20 +0000</lastBuildDate><atom:link href="https://example.org/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript code block formatting</title>
+      <link>https://example.org/archive/2013/04/29/javascript-code-block-formatting.aspx</link>
+      <pubDate>Mon, 29 Apr 2013 10:24:20 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/04/29/javascript-code-block-formatting.aspx</guid>
+      <description>For those who develop applications using C# or Javascript, but I think Java too, (I’m not a Java developer and then I don’t know if what I’m going to say is true for them as well) , there are two kind of writing styles for indentation and code’s blocks formatting .
+These styles, known as K&amp;amp;R (Kernighan &amp;amp; Ritchie) style and Allman style, concern the way the opening curly brace is opened, when defining a block of code.</description>
+    </item>
+    
+    <item>
+      <title>Invocazione di metodo remoto da Javascript</title>
+      <link>https://example.org/archive/2009/08/21/invocazione-di-metodo-remoto-da-javascript.aspx</link>
+      <pubDate>Fri, 21 Aug 2009 10:38:40 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/08/21/invocazione-di-metodo-remoto-da-javascript.aspx</guid>
+      <description>A partire da ASP .NET 3.5 è possibile da JavaScript richiamare un metodo esterno, implementato nella stessa pagina aspx che invoca il codice Javascript, oppure in un ASP .NET XML Web Services (per intenderci, quello in formato .asmx), oppure in un WCF Services (in formato .svc), tutto questo senza passare attraverso il normale ciclo di vita della pagina, ma invocando semplicemente un metodo pubblico di una classe, visto che la pagina aspx è una classe a tutti gli effetti.</description>
+    </item>
+    
+    <item>
+      <title>Aggiornare in JavaScript la pagina chiamante in partial-rendering</title>
+      <link>https://example.org/archive/2009/05/18/aggiornare-in-javascript-la-pagina-chiamante-in-partial-rendering.aspx</link>
+      <pubDate>Mon, 18 May 2009 05:51:27 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/05/18/aggiornare-in-javascript-la-pagina-chiamante-in-partial-rendering.aspx</guid>
+      <description>Mediante JavaScript è possibile eseguire programmaticamente un post della pagina mediante il richiamo della funzione
+In questo caso il post generato è sincrono, ma, come ben spiegato in questo post, è anche possibile effettuarlo asincrono mediante l’utilizzo di un array della classe PageRequestmanager, in questo modo:
+Mediante poi l’utilizzo dell’UpdatePanel otteniamo che a livello programmatico (quindi senza necessariamente l’interazione dell’utente mediante un controllo), possiamo generare un post asincrono con refresh parziale della pagina, mediante il richiamo esplicito della funzione di cui sopra.</description>
+    </item>
+    
+  </channel>
+</rss>

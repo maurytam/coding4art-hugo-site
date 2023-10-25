@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.NET Framework 1.0 / 1.1 / 2.0 on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/.net-framework-1.0-/-1.1-/-2.0/</link>
+    <description>Recent content in .NET Framework 1.0 / 1.1 / 2.0 on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.org/categories/.net-framework-1.0-/-1.1-/-2.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TextBox ReadOnly in .NET 2.0 e successivi</title>
+      <link>https://example.org/archive/2008/02/26/textbox-readonly-in-net-2-0-e-successivi.aspx</link>
+      <pubDate>Tue, 26 Feb 2008 09:13:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/26/textbox-readonly-in-net-2-0-e-successivi.aspx</guid>
+      <description>Il controllo TextBox di una web application dispone della proprietà ReadOnly che, ovviamente, impedisce l’interazione dell’utente con il controllo quando è impostata a True.
+Ma c’è un particolare importantissimo da considerare: a partire dalla versione 2.0 del .NET Framework il contenuto di un textbox in modalità “ReadOnly” è inviato al server durante un postback della pagina, ma il server ignora questo valore; in altre parole il contenuto del textbox viene perso durante un postback.</description>
+    </item>
+    
+    <item>
+      <title>Eccezioni non gestite in ASP .NET 2.0</title>
+      <link>https://example.org/archive/2008/01/10/eccezioni-non-gestite-in-asp-net-2-0.aspx</link>
+      <pubDate>Thu, 10 Jan 2008 18:43:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/01/10/eccezioni-non-gestite-in-asp-net-2-0.aspx</guid>
+      <description>Le eccezioni non gestite generate da una applicazione ASP .NET compilata con la versione 2.0 del .NET Framework sono trattate diversamente da quanto avveniva con le applicazioni ASP .NET compilate con la versione 1.0/1.1. Queste ultime semplicemente ignoravano le eccezioni non gestite sollevate all’esterno del contesto corrente, es. un thread diverso da quello principale, mentre le eccezioni sollevate all’interno del contesto erano trattate normalmente come qualsiasi eccezione non gestita. Con il .</description>
+    </item>
+    
+    <item>
+      <title>Metriche del codice e SourceMonitor</title>
+      <link>https://example.org/archive/2008/01/10/metriche-del-codice-e-sourcemonitor.aspx</link>
+      <pubDate>Thu, 10 Jan 2008 14:21:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/01/10/metriche-del-codice-e-sourcemonitor.aspx</guid>
+      <description>Ho provato SourceMonitor, un interessante tool freeware per effettuare metriche sul codice sorgente scritto in vari linguaggi di programmazione, tra cui C#, C, C++, VB .NET, Delphi.
+Attraverso una interfaccia di gestione molto semplice acquisisce una serie di informazioni, le metriche appunto, analizzando il codice sorgente di un progetto. Queste informazioni possono essere salvate in diversi momenti e nominate (checkpoints), onde poter mettere a confronto metriche di uno stesso progetto create in momenti diversi.</description>
+    </item>
+    
+    <item>
+      <title>Fix applicate dal .NET Framework 2.0 SP1</title>
+      <link>https://example.org/archive/2007/12/24/fix-applicate-dal-net-framework-2-0-sp1.aspx</link>
+      <pubDate>Mon, 24 Dec 2007 13:48:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/12/24/fix-applicate-dal-net-framework-2-0-sp1.aspx</guid>
+      <description>A questo link è disponibile la serie di fix apportate dal Service Pack 1 del .NET Framework 2.0. Per il momento memorizzo il link, ma non appena il tempo me lo permette conto di dargli una lettura.</description>
+    </item>
+    
+    <item>
+      <title>Implementazione esplicita di membri di interfaccia</title>
+      <link>https://example.org/archive/2007/10/25/implementazione-esplicita-di-membri-di-interfaccia.aspx</link>
+      <pubDate>Thu, 25 Oct 2007 10:13:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/10/25/implementazione-esplicita-di-membri-di-interfaccia.aspx</guid>
+      <description>L’implementazione esplicita di una interfaccia presenta caratteristiche significative rispetto ad una implementazione per così dire non esplicita. Ad esempio, si consideri l’interfaccia:
+e la seguente classe che la implementa in modo esplicito:
+Le caratteristiche salienti sono:
+– Il client che consuma la classe Class1 utilizzando una istanza di quest’ultima è impossibilitato a richiamare il metodo Method1 in quanto quest’ultimo NON fa parte dell’interfaccia pubblica della classe (non è visibile con l’intellisense ed il tentativo di richiamare comunque il metodo genera un errore di compilazione).</description>
+    </item>
+    
+    <item>
+      <title>Come terminare un processo corrotto in .NET</title>
+      <link>https://example.org/archive/2007/10/25/come-terminare-un-processo-corrotto-in-net.aspx</link>
+      <pubDate>Thu, 25 Oct 2007 04:54:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/10/25/come-terminare-un-processo-corrotto-in-net.aspx</guid>
+      <description>Da .NET 2.0 in poi è possibile terminare un processo corrotto irreparabilmente attraverso il medodo Environment.Failfast(string message), il quale provvede a:
+Scrivere una entry nell’Application Event Log con il messaggio specificato NON eseguire alcun blocco try-finally ancora in sospeso NON esegue alcun finalizer sugli oggetti ancora in memoria Esegue un dump dell’applicazione Termina il processo I punti 2-3 sono necessari in un contesto simile in quanto la loro esecuzione potrebbe danneggiare risorse usate dall’applicazione stessa.</description>
+    </item>
+    
+    <item>
+      <title>XML Serializer Generator Tool</title>
+      <link>https://example.org/archive/2007/08/18/xml-serializer-generator-tool.aspx</link>
+      <pubDate>Sat, 18 Aug 2007 13:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/08/18/xml-serializer-generator-tool.aspx</guid>
+      <description>La serializzazione XML in .NET è una operazione onerosa in termini di risorse di sistema a causa della creazione a runtime di un assembly temporaneo contenente funzionalità fortemente tipizzate di “reader” e “writer” del tipo da serializzare, le quali comportano un utilizzo intensivo di CodeDom e Reflection. Osservando con il tool Reflector il codice del costruttore della classe XmlSerializer (comprendente vari overloads) è possibile notare tutto ciò unito all’utilizzo del meccanismo di caching dell’assembly temporaneo creato (sembra però che non tutti gli overloads del costruttore facciano uso della cache con conseguente creazione dell’assembly ad ogni utilizzo).</description>
+    </item>
+    
+    <item>
+      <title>Deserializzazione in .NET 2.0</title>
+      <link>https://example.org/archive/2007/02/13/deserializzazione-in-net-2-0.aspx</link>
+      <pubDate>Tue, 13 Feb 2007 18:55:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/02/13/deserializzazione-in-net-2-0.aspx</guid>
+      <description>Il meccanismo di deserializzazione ha subito una modifica (a mio avviso migliorativa) in .NET 2.0 rispetto a quanto avveniva in .NET 1.1. La versione 2.0 ha la capacità di deserializzare un oggetto anche se questo presenta nella sua forma serializzata informazioni aggiuntive (es. membri pubblici) non presenti invece nella particolare versione dell’oggetto che stiamo deserializzando. Mi spiego meglio. Supponiamo che abbiamo la nostra onnipresente classe Person con 3 campi pubblici, ovvero FirstName, LastName e Age, e che alcune istanze di questa classe siano serializzate in formato binario attraverso l’uso della classe BinaryFormatter utilizzando una applicazione scritta in .</description>
+    </item>
+    
+    <item>
+      <title>Uso di reflection per invocare metodi interni</title>
+      <link>https://example.org/archive/2007/01/31/uso-di-reflection-per-invocare-metodi-interni.aspx</link>
+      <pubDate>Wed, 31 Jan 2007 18:48:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/01/31/uso-di-reflection-per-invocare-metodi-interni.aspx</guid>
+      <description>In un post precedente ho parlato dell’uso dell’attributo AllowPartiallyTrustedCallers a proposito della sicurezza applicata all’invocazione di metodi pubblici definiti all’interno di un assembly strong-named. Rimanendo sempre sullo stesso tema, un altro attributo utile a “limitare” i possibili chiamanti di un determinato metodo è StrongNameIdentityPermissionAttribute, usato in questo modo:
+La presenza di questo attributo permette la chiamata al metodo MyMethod dell’esempio solo al codice contenuto in un assembly firmato con strong name e che presenta la chiave pubblica specificata nell’attributo stesso.</description>
+    </item>
+    
+    <item>
+      <title>String intern pool</title>
+      <link>https://example.org/archive/2007/01/24/string-intern-pool.aspx</link>
+      <pubDate>Wed, 24 Jan 2007 19:01:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/01/24/string-intern-pool.aspx</guid>
+      <description>L’Intern pool, di cui non è la prima volta che ne parlo, è un hashtable mantenuto internamente dal CLR contenente stringhe generalmente usate per memorizzare valori costanti. In questo hashtable sono memorizzate le costanti stringa a livello di compilazione ed ogni stringa aggiunta esplicitamente attraverso l’utilizzo del metodo string.Intern, il quale aggiunge una stringa nell’intern pool (quindi nell’hashtable) e ne ritorna il riferimento se la stessa non è già presente, in caso contrario ritorna sempicemente il riferimento ad essa.</description>
+    </item>
+    
+    <item>
+      <title>Verificare che il .NET Framework sia installato e relative versioni</title>
+      <link>https://example.org/archive/2006/12/20/verificare-che-il-net-framework-sia-installato-e-relative-versioni.aspx</link>
+      <pubDate>Wed, 20 Dec 2006 12:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/12/20/verificare-che-il-net-framework-sia-installato-e-relative-versioni.aspx</guid>
+      <description>Per verificare che il .NET Framework sia installato ed eventualmente in quali versioni è possibile procedere in questo modo:
+La semplice presenza del file MSCOREE.DLL (Microsoft .NET Runtime Execution Engine) nella directory %SYSTEMROOT\system32 è sintomo che almeno una versione del CLR è installata La chiave del registry HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft.NETFramework\policy contiene delle sottochiavi, una per ogni versione installata, nella forma vX.X (es. v2.0) La versione 2.0 del .NET Framework contiene una nuova utility denominata CLRVer.</description>
+    </item>
+    
+    <item>
+      <title>App_offline.htm e i 512 byte</title>
+      <link>https://example.org/archive/2006/11/18/app_offline-htm-e-i-512-byte.aspx</link>
+      <pubDate>Sat, 18 Nov 2006 15:09:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/11/18/app_offline-htm-e-i-512-byte.aspx</guid>
+      <description>Nonostante qualche commento negativo letto in Rete, a me il comportamento di ASP .NET 2.0 in presenza del file app_offline.htm nella root della web application mi sembra abbastanza comodo e funzionale. Ricordo che questo file è utile quando si è in fase di manutenzione della propria applicazione web e si vuol fornire un messaggio “user friendly” agli utenti informandoli che l’applicazione non è momentaneamente disponibile, o qualsiasi cosa si voglia. In presenza di un file con tale nome infatti, l’engine di ASP .</description>
+    </item>
+    
+    <item>
+      <title>LinkDemands, il corretto modo di utilizzarlo</title>
+      <link>https://example.org/archive/2006/11/02/linkdemands-il-corretto-modo-di-utilizzarlo.aspx</link>
+      <pubDate>Thu, 02 Nov 2006 12:37:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/11/02/linkdemands-il-corretto-modo-di-utilizzarlo.aspx</guid>
+      <description>Una cosa che non sapevo, e che desidero condividerla con gli (eventuali) lettori di questo blog: un link demand a livello di metodo sovrascrive sempre un link demand a livello di classe anche se trattasi di permessi differenti.
+Esempio, data questa classe:
+Il link demands a livello di metodo effettua l’override di quello a livello di classe, anche se si tratta di permessi differenti. In questo caso il link demands EnvironmentPermission sostituisce il link demands FileIOPermission, con la conseguenza che quest’ultimo permesso non viene richiesto per il metodo in questione.</description>
+    </item>
+    
+    <item>
+      <title>Array bound check: operazione onerosa ?</title>
+      <link>https://example.org/archive/2006/08/29/array-bound-check-operazione-onerosa.aspx</link>
+      <pubDate>Tue, 29 Aug 2006 13:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/08/29/array-bound-check-operazione-onerosa.aspx</guid>
+      <description>Questa è una domanda che mi sono posto anch’io parecchie volte: il controllo dei limiti inferiore e superiore di un array che il compilatore JIT opera durante l’esecuzione di una tipica applicazione .NET è una operazione onerosa o no, e se si di quanto ? Ci si può fare una idea abbastanza significativa leggendo questo post di Rico Mariani, il quale ha effettuato dei test comparati su una applicazione .NET che utilizza il compilatore JIT tradizionale e la stessa applicazione che invece utilizza un compilatore JIT da lui stesso modificato, e precisamente senza il controllo dei limiti degli array (mscorjit.</description>
+    </item>
+    
+    <item>
+      <title>NDOC 2.0 ? No, Sandcastle</title>
+      <link>https://example.org/archive/2006/08/05/ndoc-2-0-no-sandcastle.aspx</link>
+      <pubDate>Sat, 05 Aug 2006 14:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/08/05/ndoc-2-0-no-sandcastle.aspx</guid>
+      <description>La versione di NDOC per il Framework 2.0 sembra che non vedrà mai la luce, almeno leggendo le ultimissime notizie. Peccato, ho usato NDOC su parecchi progetti e devo dire che sono sempre stato soddisfatto dei risultati raggiunti con l’utilizzo di questo tool, soprattutto quando manca il tempo per documentare un progetto usando classiche soluzioni alternative. Però potremo produrre docuntazione “MSDN like” usando Sandcastle, il tool usato internamente da Microsoft per la documentazione tecnica dei progetti che la stessa ha deciso di rendere disponibile al download.</description>
+    </item>
+    
+    <item>
+      <title>.NET Pet Shop 4.0</title>
+      <link>https://example.org/archive/2006/02/18/net-pet-shop-4-0.aspx</link>
+      <pubDate>Sat, 18 Feb 2006 15:27:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/02/18/net-pet-shop-4-0.aspx</guid>
+      <description>E’ disponibile per il download la versione 4.0 di .NET Pet Shop, una applicazione “benchmark” di esempio per confrontare le prestazioni di una applicazione ASP .NET di classe enterprise con una equivalente applicazione J2EE. La versione 4.0 è focalizzata su ASP .NET 2.0 e mostra come ottenere una applicazione robusta riducendo il numero di righe di codice sorgente necessarie.
+In questa versione è possibile vedere all’opera le seguenti caratteristiche della versione 2.</description>
+    </item>
+    
+    <item>
+      <title>Accedere alla porta seriale in .NET 2.0</title>
+      <link>https://example.org/archive/2006/01/31/accedere-alla-porta-seriale-in-net-2-0.aspx</link>
+      <pubDate>Tue, 31 Jan 2006 18:29:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/01/31/accedere-alla-porta-seriale-in-net-2-0.aspx</guid>
+      <description>Nella versione 1.1 del .NET Framework accedere alla porta seriale per poter leggere/scrivere dei dati richiede l’uso delle API di Windows preposte allo scopo. Pertanto è necessario creare una classe wrapper che incapsula l’accesso alle API e fornisce i metodi pubblici necessari alla gestione della porta ed all’invio/ricezione delle informazioni. Nel .NET Framework 2.0 questa classe wrapper è già presente e ne viene fornito un esempio di utilizzo attraverso uno snippet code presente nell’elenco degli snippet code di Visual Studio 2005.</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Library 2.0</title>
+      <link>https://example.org/archive/2006/01/23/enterprise-library-2-0.aspx</link>
+      <pubDate>Mon, 23 Jan 2006 05:08:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/01/23/enterprise-library-2-0.aspx</guid>
+      <description>Finalmente ha visto la luce la versione 2.0 della famosissima Enterprise Library, completamente rivista e ridisegnata in funzione della versione 2.0 del .NET Framework. Coloro che come me hanno utilizzato la versione disegnata per il .NET Framework 1.1 avranno certamente apprezzato la flessibilità e facilità di utilizzo che questi componenti forniscono allo sviluppatore e, caratteristica molto importante, la capacità di integrarsi in modo estremamente rapido in applicazioni reali</description>
+    </item>
+    
+  </channel>
+</rss>

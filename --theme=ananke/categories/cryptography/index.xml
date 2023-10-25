@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/cryptography/</link>
+    <description>Recent content in Cryptography on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2009 03:50:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Link utili della settimana #1</title>
+      <link>https://example.org/archive/2009/10/09/link-utili-della-settimana-2.aspx</link>
+      <pubDate>Fri, 09 Oct 2009 03:50:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/09/link-utili-della-settimana-2.aspx</guid>
+      <description>– &amp;lt;a href=&amp;ldquo;http://www.galasoft.ch/mvvm/getstarted/&amp;quot; target=&amp;rdquo;_blank&amp;quot; mce_href=&amp;ldquo;http://www.galasoft.ch/mvvm/getstarted/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;MVVM Toolkit Light
+– &amp;lt;a href=&amp;ldquo;http://ajaxcontroltoolkit.codeplex.com/release/projectreleases.aspx?releaseid=33804&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://ajaxcontroltoolkit.codeplex.com/release/projectreleases.aspx?releaseid=33804&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Ajax Control Toolkit release 30930 (30 sett 2009);
+–&amp;lt;a href=&amp;ldquo;http://wscfblue.codeplex.com/&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://wscfblue.codeplex.com/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;thinktecture.WSCF.blue (Contract first WCF Tool)
+– The &amp;lt;a href=&amp;ldquo;http://msdn.microsoft.com/en-us/magazine/dd419663.aspx&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://msdn.microsoft.com/en-us/magazine/dd419663.aspx&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;ModelView-ViewModel design pattern for WPF
+– &amp;lt;a href=&amp;ldquo;http://www.coderun.com/&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://www.coderun.com/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Code Run (questo è davvero incredibile, si evincono chiaramente le potenzialità del Cloud Computing). Trattasi di un IDE Online, con cui è possibile sviluppare progetti .</description>
+    </item>
+    
+  </channel>
+</rss>

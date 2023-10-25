@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contract-First development on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/contract-first-development/</link>
+    <description>Recent content in Contract-First development on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2010 21:40:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/contract-first-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articolo &amp;ldquo;Programmazione per contratti con il Framework .Net 4.0&amp;rdquo;</title>
+      <link>https://example.org/archive/2010/04/20/articolo-ldquoprogrammazione-per-contratti-con-il-framework-net-4-0rdquo.aspx</link>
+      <pubDate>Tue, 20 Apr 2010 21:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/04/20/articolo-ldquoprogrammazione-per-contratti-con-il-framework-net-4-0rdquo.aspx</guid>
+      <description>E’ online il mio primo articolo per UgiDotNet, ovvero “Programmazione per contratti con il Framework .Net 4.0”, argomento molto molto interessante poichè è ora possibile adottare l’approccio cosiddetto “Contract First Development” nel design delle proprie applicazioni.
+Questo approccio aiuta sicuramente a scrivere applicazioni più robuste, cercando di limitare per quanto possibile i bugs a runtime.
+Ovviamente sono graditissimi eventuali feedback, contattandomi mediante la form contact di questo blog.</description>
+    </item>
+    
+  </channel>
+</rss>

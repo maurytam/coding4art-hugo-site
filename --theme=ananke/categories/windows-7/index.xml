@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows 7 on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/windows-7/</link>
+    <description>Recent content in Windows 7 on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jan 2010 03:52:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/windows-7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installare Windows 7 da USB</title>
+      <link>https://example.org/archive/2010/01/28/installare-windows-7-da-usb.aspx</link>
+      <pubDate>Thu, 28 Jan 2010 03:52:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/01/28/installare-windows-7-da-usb.aspx</guid>
+      <description>Utile tool per installare Windows 7 da drive USB.
+In sostanza viene copiata l’immagine ISO della installazione di Win7 su un supporto USB rendendo lo stesso bootable, in modo da poter far partire il PC e lanciare l’installazione anche su macchine senza sistema operativo.</description>
+    </item>
+    
+  </channel>
+</rss>

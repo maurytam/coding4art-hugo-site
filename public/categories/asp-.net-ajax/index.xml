@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP .NET Ajax on My New Hugo Site</title>
+    <link>https://example.org/categories/asp-.net-ajax/</link>
+    <description>Recent content in ASP .NET Ajax on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2009 06:11:34 +0000</lastBuildDate><atom:link href="https://example.org/categories/asp-.net-ajax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impostare il calendarextender ad una cultura specifica</title>
+      <link>https://example.org/archive/2009/03/06/impostare-il-calendarextender-ad-una-cultura-specifica.aspx</link>
+      <pubDate>Fri, 06 Mar 2009 06:11:34 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/03/06/impostare-il-calendarextender-ad-una-cultura-specifica.aspx</guid>
+      <description>L’extender CalendarExtender presente nell’Ajax Toolkit presenta un bug se si cerca di globalizzarlo, ovvero adattarlo ad una specifica cultura. Infatti, la label presente in basso con l’indicazione della data odierna non viene globalizzata ma rimane impostata fissa alla cultura inglese, per cui apparirà sempre la scritta “Today”. Affinchè i controlli dell’Ajax Toolkit possano essere personalizzati sulla base delle varie culture non basta impostare la specifica cultura nel file di configurazione dell’applicazione web (tag globalization), oppure impostarla tramite browser, ma occorre anche abilitare il rendering dello script al supporto di culture specifiche, tramite la proprietà EnableScriptGlobalization dello ScriptManager, che deve essere ovviamente impostata a True (il valore di default è False).</description>
+    </item>
+    
+    <item>
+      <title>Partial rendering troubleshooting</title>
+      <link>https://example.org/archive/2008/03/13/partial-rendering-troubleshooting.aspx</link>
+      <pubDate>Thu, 13 Mar 2008 10:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/03/13/partial-rendering-troubleshooting.aspx</guid>
+      <description>Regola importante: l’update parziale di una pagina ASP .NET 2.0 (o successivi) attraverso l’UpdatePanel di Ajax non funziona in presenza di questo tag nel file di configurazione dell’applicazione (o nel machine.config):
+Infatti, con questa impostazione la proprietà “SupportPartialRendering” dell’oggetto ScriptManager ritorna il valore false.
+Il tag in questione imposta la modalità di rendering dei controlli, es.: in modalità compatibile XHTML (mode=”Transitional” o “Strict”) oppure no (mode=”Legacy”).
+In ASP .NET 1.1 i controlli subivano un rendering non XHTML compatibile, e questo comportamento è stato modificato in ASP .</description>
+    </item>
+    
+  </channel>
+</rss>

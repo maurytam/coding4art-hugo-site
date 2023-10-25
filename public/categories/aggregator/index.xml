@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aggregator on My New Hugo Site</title>
+    <link>https://example.org/categories/aggregator/</link>
+    <description>Recent content in Aggregator on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2009 05:17:54 +0000</lastBuildDate><atom:link href="https://example.org/categories/aggregator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&lt;/RSSBandit&gt;</title>
+      <link>https://example.org/archive/2009/08/18/lt-rssbandit-gt.aspx</link>
+      <pubDate>Tue, 18 Aug 2009 05:17:54 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/08/18/lt-rssbandit-gt.aspx</guid>
+      <description>Stanco ormai di ricevere ogni 3×2 un messaggio di errore di RSSBandit che mi indica un errore fatale nel caricamento del file XML contenente i feeds sottoscritti, obbligandomi a caricare una copia di backup (che potrebbe essere non aggiornata) dello stesso file con l’antipatica conseguenza di ritrovarmi con tutti i feeds impostati sullo stato di “Unread” (cosa davvero antipatica se si hanno tanti feeds sottoscritti), ho deciso di cambiare aggregator. Da oggi sto utilizzando FeedDemon 3 (RC4).</description>
+    </item>
+    
+  </channel>
+</rss>

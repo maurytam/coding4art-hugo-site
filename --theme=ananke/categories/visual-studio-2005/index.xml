@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Studio 2005 on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/visual-studio-2005/</link>
+    <description>Recent content in Visual Studio 2005 on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Jul 2008 08:25:09 +0000</lastBuildDate><atom:link href="https://example.org/categories/visual-studio-2005/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mole, visualizer integrato per visual studio</title>
+      <link>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</link>
+      <pubDate>Thu, 31 Jul 2008 08:25:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</guid>
+      <description>Segnalo un gran bel Visualizer per Visual Studio 2005/2008. Trattasi di Mole v.4.2, un visualizer in grado di funzionare con diversi oggetti di diverse tipologie di progetto, che comprendono WinForms, WPF, WCF, WF, ASP.NET, XBAP. Io lo trovo molto utile soprattutto per progetti WCF, WPF, dove gli oggetti con cui si ha a che fare sono abbastanza complessi e strutturati. Uno strumento del genere, molto ben fatto e performante, può far risparmiare diversi “mal di testa” quando si effettua il debugging di progetti di questo tipo.</description>
+    </item>
+    
+    <item>
+      <title>Oracle Data Provider for .NET</title>
+      <link>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</guid>
+      <description>Negli ultimi tempi mi è capitato spesso di lavorare su applicazioni che utilizzano Oracle come database piuttosto che Sql Server e, naturalmente, ho dovuto utilizzare nello strato di accesso ai dati le classi specifiche di Oracle, meglio note come Oracle Data Provider for .NET. Utilizzare queste classi significa avere a che fare con oggetti tipici di Oracle, es. gli Oracle data type, o i cursori utilizzati per contenere i resultset derivanti da una chiamata ad una store procedure, ecc.</description>
+    </item>
+    
+    <item>
+      <title>Sottili differenze tra C# e VB .NET #Part 2#</title>
+      <link>https://example.org/archive/2008/02/26/sottili-differenze-tra-c-e-vb-net-part-2.aspx</link>
+      <pubDate>Tue, 26 Feb 2008 07:24:58 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/26/sottili-differenze-tra-c-e-vb-net-part-2.aspx</guid>
+      <description>Questa informazione me la annoto perchè sicuramente utile. Avevo già parlato precedentemente delle sottili e a volte subdole differenze esistenti tra il linguaggio VB .NET e C#, differenze che possono anche riguardare il comportamento di Visual Studio, quindi non strettamente legate a costrutti di programmazione o alla semplice sintassi.
+Questa differenza però mi sorprende parecchio e non riesco a comprenderne a fondo il motivo. Presto detto: se si utilizza l’incremento automatico nel numero di versione in un assembly (per intenderci quando impostiamo questa riga</description>
+    </item>
+    
+    <item>
+      <title>Shortcut CTRL&#43;K&#43;F e CTRL&#43;K&#43;D</title>
+      <link>https://example.org/archive/2008/01/10/shortcut-ctrlkf-e-ctrlkd.aspx</link>
+      <pubDate>Thu, 10 Jan 2008 17:48:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/01/10/shortcut-ctrlkf-e-ctrlkd.aspx</guid>
+      <description>Questo shortcut è davvero utilissimo: CTRL+K+F premuto all’interno di Visual Studio con attiva una finestra di editor del codice sorgente. Selezionando una regione di codice non formattato, non allineato o non indentato correttamente (tipicamente derivante da un precedente copia e incolla), questa combinazione allinea perfettamente le righe di codice in un colpo solo !
+Fonte: Mark Schmidt’s Abode{#ctl00___ctl00___bt___BlogTitle.headermaintitle}
+P.S: Nel commento al post linkato, leggo che la combinazione CTRL+K+D effettua la stessa formattazione delle righe ma agendo sull’intero file e non solo sulla selezione di testo.</description>
+    </item>
+    
+    <item>
+      <title>Metriche del codice e SourceMonitor</title>
+      <link>https://example.org/archive/2008/01/10/metriche-del-codice-e-sourcemonitor.aspx</link>
+      <pubDate>Thu, 10 Jan 2008 14:21:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/01/10/metriche-del-codice-e-sourcemonitor.aspx</guid>
+      <description>Ho provato SourceMonitor, un interessante tool freeware per effettuare metriche sul codice sorgente scritto in vari linguaggi di programmazione, tra cui C#, C, C++, VB .NET, Delphi.
+Attraverso una interfaccia di gestione molto semplice acquisisce una serie di informazioni, le metriche appunto, analizzando il codice sorgente di un progetto. Queste informazioni possono essere salvate in diversi momenti e nominate (checkpoints), onde poter mettere a confronto metriche di uno stesso progetto create in momenti diversi.</description>
+    </item>
+    
+    <item>
+      <title>Sottili differenze in Visual Studio tra C# e VB .NET</title>
+      <link>https://example.org/archive/2007/06/02/sottili-differenze-in-visual-studio-tra-c-e-vb-net.aspx</link>
+      <pubDate>Sat, 02 Jun 2007 16:19:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/06/02/sottili-differenze-in-visual-studio-tra-c-e-vb-net.aspx</guid>
+      <description>Sviluppare una applicazione managed scegliendo un linguaggio piuttosto che un altro non è solo un fatto di preferenza, di predilezione o di semplice sintassi. E’ di più. Scegliere VB .NET o C#, ad esempio, significa accettare differenze che vanno al di là della preferenze personali, ma che coinvolgono anche alcune feature dell’ambiente di sviluppo. Un esempio ? In un progetto Windows Form scritto in VB .NET, l’ambiente Visual Studio visualizza il codice della form generato dal designer (la partial class per intenderci) solo se si seleziona la vista “mostra tutti i files” Nello stesso progetto scritto però in C# la stessa vista è abilitata di default.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Visual Studio 2005 IDE Enhancements</title>
+      <link>https://example.org/archive/2006/10/31/microsoft-visual-studio-2005-ide-enhancements.aspx</link>
+      <pubDate>Tue, 31 Oct 2006 09:05:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/31/microsoft-visual-studio-2005-ide-enhancements.aspx</guid>
+      <description>Reso disponibile da Microsoft un interessante set di estensioni per Visual Studio 2005, inizialmente presenti solo nell’SDK, sicuramente utili a rendere più agevole la vita dello sviluppatore. Sto parlando di Microsoft Visual Studio 2005 IDE Enhancements, disponibile per il download da qualche giorno, che comprende: a) una serie di snippet code per il linguaggio C++; b) Indexer Find, un tool basato su Index Service per migliorare le ricerche nell’IDE; c) Super Diff Utility, utility per confrontare il contenuto di 2 files evidenziando le differenze (stile Visual Source Safe); d) Event Toaster Utility, per aggiungere eventi di notifica legati all’IDE, es.</description>
+    </item>
+    
+    <item>
+      <title>File &#34;refresh&#34; e compilazione lenta in Visual Studio 2005</title>
+      <link>https://example.org/archive/2006/10/24/file-quotrefreshquot-e-compilazione-lenta-in-visual-studio-2005.aspx</link>
+      <pubDate>Tue, 24 Oct 2006 10:52:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/24/file-quotrefreshquot-e-compilazione-lenta-in-visual-studio-2005.aspx</guid>
+      <description>Aggiungendo una semplice reference binaria ad un progetto in VS 2005 (es. un Web Site Project), vale a dire selezionando direttamente una class library (file *.dll) da Add Reference\Browse, viene automaticamente creato nella directory bin del progetto un file con lo stesso nome del componente (la dll) e l’estensione refresh, es. mydll.refresh se aggiungo la reference mydll.dll. Questo è un semplice file di testo; infatti aprendolo con Notepad è possibile leggerne il contenuto, ovvero il path relativo in cui è contenuta la dll che abbiamo referenziato.</description>
+    </item>
+    
+    <item>
+      <title>Recent projects list in start page in Visual Studio 2005</title>
+      <link>https://example.org/archive/2006/07/20/recent-projects-list-in-start-page-in-visual-studio-2005.aspx</link>
+      <pubDate>Thu, 20 Jul 2006 11:12:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/07/20/recent-projects-list-in-start-page-in-visual-studio-2005.aspx</guid>
+      <description>La start page di Visual Studio 2005 presenta la lista dei recents projects, contenente progetti e soluzioni aperti di recente. Questa lista può diventare presto inutile per coloro che aprono/creano un progetto/soluzione “una tantum” solo per motivi di test, e magari dopo aver verificato il funzionamento il progetto viene addirittura cancellato dal disco. Infatti la lista non è modificabile in alcun modo tramite GUI, ma da registry sì.
+Posizionandosi su questa chiave</description>
+    </item>
+    
+    <item>
+      <title>Zero Impact Projects</title>
+      <link>https://example.org/archive/2006/07/19/zero-impact-projects.aspx</link>
+      <pubDate>Wed, 19 Jul 2006 11:16:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/07/19/zero-impact-projects.aspx</guid>
+      <description>Ai tempi in cui utilizzavo Visual Studio 6.0 (tanto tempo fa, ma anche adesso, ogni tanto…:)), una delle funzionalità dell’IDE che più mi tornava utile era la possibilità di compilare ed eseguire porzioni di codice senza doverli necessariamente salvare sul disco in progetti e soluzioni (allora si parlava di progetto e gruppi di progetto). In Visual Studio 2002/2003 questa funzionalità è assente, con la conseguenza di veder proliferare sul proprio hard disk progetti e soluzioni che non hanno alcuna utilità ma sono solo il risultato di prove di qualche “snippet code”.</description>
+    </item>
+    
+    <item>
+      <title>Visualizers in Visual Studio 2005</title>
+      <link>https://example.org/archive/2006/03/14/visualizers-in-visual-studio-2005.aspx</link>
+      <pubDate>Tue, 14 Mar 2006 11:32:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/03/14/visualizers-in-visual-studio-2005.aspx</guid>
+      <description>I visualizers sono una utilissima feature del debugger Visual Studio .NET 2005. Questi componenti agiscono in fase di debug di una applicazione per visualizzare una interfaccia utente creata ad hoc contenente i valori di variabili o di interi oggetti. Un visualizer riflette il particolare tipo di oggetto in fase di debug e visualizza le sue informazioni con l’interfaccia utente appropriata rispetto all’oggetto.
+Ad es., il visualizer per il Dataset, già previsto in Visual Studio insieme a quelli per testo, xml e html, visualizza le informazioni di ogni singola tabella in esso contenuta attraverso una visione tabellare delle informazioni.</description>
+    </item>
+    
+  </channel>
+</rss>

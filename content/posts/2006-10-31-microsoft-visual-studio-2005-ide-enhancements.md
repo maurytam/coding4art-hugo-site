@@ -1,0 +1,11 @@
+---
+title: Microsoft Visual Studio 2005 IDE Enhancements
+author: mtammacco
+type: post
+date: 2006-10-31T09:05:00+00:00
+url: /archive/2006/10/31/microsoft-visual-studio-2005-ide-enhancements.aspx
+categories:
+  - Visual Studio 2005
+
+---
+Reso disponibile da Microsoft un interessante set di estensioni per Visual Studio 2005, inizialmente presenti solo nell&#8217;SDK, sicuramente utili a rendere più agevole la vita dello sviluppatore. Sto parlando di **Microsoft Visual Studio 2005 IDE Enhancements**, disponibile per il <a title="" href="http://www.microsoft.com/downloads/details.aspx?FamilyID=CD7C6E48-E41B-48E3-881E-A0E6E97F9534&displaylang=en" target="" name="" rel="noopener">download </a>da qualche giorno, che comprende: a) una serie di snippet code per il linguaggio C++; b) Indexer Find, un tool basato su Index Service per migliorare le ricerche nell&#8217;IDE;  c) Super Diff Utility, utility per confrontare il contenuto di 2 files evidenziando le differenze (stile Visual Source Safe); d) Event Toaster Utility, per aggiungere eventi di notifica legati all&#8217;IDE, es. notifica nella tray area dopo ogni build eseguita con successo (molto carina); e) Source Code Outliner, un tool che visualizza una lista ad albero dei tipi e relativi membri. Tutto troppo bello ed utile, se non fosse che: a) il Source Code Outliner si blocca indefinitivamente nel tentativo di aggiornare il proprio contenuto; b) l&#8217;IDE si blocca imprevedibilemente (ho l&#8217;impressione che l&#8217;Indexer Find blocchi la CPU per troppo tempo nel tentativo di aggiornare l&#8217;indice delle ricerche; c) non è possibile abilitare/disabilitare selettivamente ogni estensione, quindi o tutto o niente. Morale della favola: ho dovuto disinstallare il tutto con la stessa velocità con cui lo avevo installato, a causa dei blocchi frequenti dell&#8217;IDE e del Source Code Outliner. Mi piacerebbe conoscere l&#8217;eventuale esperienza di altri sviluppatori sull&#8217;argomento. I commenti sono aperti e graditi.

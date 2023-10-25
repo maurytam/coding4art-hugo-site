@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.NET Framework 3.0 on My New Hugo Site</title>
+    <link>https://example.org/categories/.net-framework-3.0/</link>
+    <description>Recent content in .NET Framework 3.0 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2008 10:00:37 +0000</lastBuildDate><atom:link href="https://example.org/categories/.net-framework-3.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oracle Data Provider for .NET</title>
+      <link>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</guid>
+      <description>Negli ultimi tempi mi è capitato spesso di lavorare su applicazioni che utilizzano Oracle come database piuttosto che Sql Server e, naturalmente, ho dovuto utilizzare nello strato di accesso ai dati le classi specifiche di Oracle, meglio note come Oracle Data Provider for .NET. Utilizzare queste classi significa avere a che fare con oggetti tipici di Oracle, es. gli Oracle data type, o i cursori utilizzati per contenere i resultset derivanti da una chiamata ad una store procedure, ecc.</description>
+    </item>
+    
+    <item>
+      <title>Metriche del codice e SourceMonitor</title>
+      <link>https://example.org/archive/2008/01/10/metriche-del-codice-e-sourcemonitor.aspx</link>
+      <pubDate>Thu, 10 Jan 2008 14:21:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/01/10/metriche-del-codice-e-sourcemonitor.aspx</guid>
+      <description>Ho provato SourceMonitor, un interessante tool freeware per effettuare metriche sul codice sorgente scritto in vari linguaggi di programmazione, tra cui C#, C, C++, VB .NET, Delphi.
+Attraverso una interfaccia di gestione molto semplice acquisisce una serie di informazioni, le metriche appunto, analizzando il codice sorgente di un progetto. Queste informazioni possono essere salvate in diversi momenti e nominate (checkpoints), onde poter mettere a confronto metriche di uno stesso progetto create in momenti diversi.</description>
+    </item>
+    
+    <item>
+      <title>Come terminare un processo corrotto in .NET</title>
+      <link>https://example.org/archive/2007/10/25/come-terminare-un-processo-corrotto-in-net.aspx</link>
+      <pubDate>Thu, 25 Oct 2007 04:54:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/10/25/come-terminare-un-processo-corrotto-in-net.aspx</guid>
+      <description>Da .NET 2.0 in poi è possibile terminare un processo corrotto irreparabilmente attraverso il medodo Environment.Failfast(string message), il quale provvede a:
+Scrivere una entry nell’Application Event Log con il messaggio specificato NON eseguire alcun blocco try-finally ancora in sospeso NON esegue alcun finalizer sugli oggetti ancora in memoria Esegue un dump dell’applicazione Termina il processo I punti 2-3 sono necessari in un contesto simile in quanto la loro esecuzione potrebbe danneggiare risorse usate dall’applicazione stessa.</description>
+    </item>
+    
+    <item>
+      <title>.NET Framework 3.0 RC1 download</title>
+      <link>https://example.org/archive/2006/09/07/net-framework-3-0-rc1-download.aspx</link>
+      <pubDate>Thu, 07 Sep 2006 11:20:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/09/07/net-framework-3-0-rc1-download.aspx</guid>
+      <description>Oramai le attenzioni degli sviluppatori sono concentrate sull’accoppiata Windows Vista e .NET Framework 3.0, con tutte le tecnologie annesse che non sto ad elencare. Approfitto di questo post dell’amico Mighell del nuovo user group del sud Italia dotNetSide (a proposito, complimenti per l’iniziativa e per quanto fatto sinora !), per mettere nel mio blog il riferimento necessario ai vari link per il download del .NET Framework 3.0 RC1. Buon download a tutti !</description>
+    </item>
+    
+  </channel>
+</rss>

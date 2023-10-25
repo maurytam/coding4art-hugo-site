@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP .NET 4.0 on My New Hugo Site</title>
+    <link>https://example.org/categories/asp-.net-4.0/</link>
+    <description>Recent content in ASP .NET 4.0 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2009 03:42:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/asp-.net-4.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASP .NET 4.0 #3 Ci&amp;ograve; che non &amp;egrave; cambiato</title>
+      <link>https://example.org/archive/2009/11/25/asp-net-4-0-3-ciograve-che-non-egrave-cambiato.aspx</link>
+      <pubDate>Wed, 25 Nov 2009 03:42:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/11/25/asp-net-4-0-3-ciograve-che-non-egrave-cambiato.aspx</guid>
+      <description>ASP .NET 4.0 è ormai alle porte, con la versione beta è possibile scoprire le novità rispetto alla versione precedente, e non sono certamente poche, ma a livello di controlli lato server ce ne sono alcuni praticamente immutati rispetto alle precedenti versioni. Mi riferisco ad esempio al controllo Http File Upload, rimasto identico nelle varie versioni di ASP .NET che si sono succedute. Questo controllo soffre di qualche problema e non è certo il massimo in ottica web 2.</description>
+    </item>
+    
+    <item>
+      <title>Invocazione di metodo remoto da Javascript</title>
+      <link>https://example.org/archive/2009/08/21/invocazione-di-metodo-remoto-da-javascript.aspx</link>
+      <pubDate>Fri, 21 Aug 2009 10:38:40 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/08/21/invocazione-di-metodo-remoto-da-javascript.aspx</guid>
+      <description>A partire da ASP .NET 3.5 è possibile da JavaScript richiamare un metodo esterno, implementato nella stessa pagina aspx che invoca il codice Javascript, oppure in un ASP .NET XML Web Services (per intenderci, quello in formato .asmx), oppure in un WCF Services (in formato .svc), tutto questo senza passare attraverso il normale ciclo di vita della pagina, ma invocando semplicemente un metodo pubblico di una classe, visto che la pagina aspx è una classe a tutti gli effetti.</description>
+    </item>
+    
+    <item>
+      <title>ASP .NET 4.0 #2 Servizi &#34;provider based&#34;</title>
+      <link>https://example.org/archive/2009/07/22/asp-net-4-0-2-servizi-quot-provider-based-quot.aspx</link>
+      <pubDate>Wed, 22 Jul 2009 09:15:34 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/07/22/asp-net-4-0-2-servizi-quot-provider-based-quot.aspx</guid>
+      <description>Proseguendo nell’analisi delle nuove feature di ASP .NET 4.0 è evidente che l’architettura a providers, di cui tempo fa ho parlato in un articolo apparso su DotNetSide, è sempre più usata in modo intensivo per rendere quanto più modulare e personalizzabile l’application framework a disposizione.
+Con la nuova versione di ASP .NET infatti questa architettura noto che sarà introdotta nei servizi di Output Caching, Browser Capabilities e Auto Start Application, almeno dalla documentazione in mio possesso.</description>
+    </item>
+    
+    <item>
+      <title>ASP .NET 4.0 #1 Nuova proprietà ViewStateMode</title>
+      <link>https://example.org/archive/2009/07/22/asp-net-4-0-1-nuova-propriet-224-viewstatemode.aspx</link>
+      <pubDate>Wed, 22 Jul 2009 05:10:20 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/07/22/asp-net-4-0-1-nuova-propriet-224-viewstatemode.aspx</guid>
+      <description>Per una applicazione ASP .NET soprattutto di livello enterprise la gestione del viewstate è sempre stato uno degli aspetti più delicati e, aggiungo io, più bistrattati in assoluto. Spesso e volentieri ho visto applicazioni di una certa complessità che ignorano completamente questo aspetto, che si traduce in pratica nell’utilizzo del valore di default della proprietà EnableViewState dei controlli di pagina (ovvero True), con conseguente saltataggio dei valori dello stato per tutti i controlli, a prescindere se questo salvataggio ha senso oppure no.</description>
+    </item>
+    
+  </channel>
+</rss>

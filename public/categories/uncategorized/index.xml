@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on My New Hugo Site</title>
+    <link>https://example.org/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2015 13:31:39 +0000</lastBuildDate><atom:link href="https://example.org/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c#–how to convert datetime object from one timezone to another</title>
+      <link>https://example.org/archive/2015/08/05/c-how-to-convert-datetime-object-from-one-timezone-to-another.aspx</link>
+      <pubDate>Wed, 05 Aug 2015 13:31:39 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2015/08/05/c-how-to-convert-datetime-object-from-one-timezone-to-another.aspx</guid>
+      <description>What you need to convert time in Microsoft .net from one timezone to another are essentially the source timezone id and the destination timezone id, or just the destination if you are going to use the system timezone as source (e.g. the time zone based on operative system installation).
+But, what exactly timezone ids really are ?
+It’s a simple standard description of each timezone across the globe.
+For example, the time zone id for Rome is “W.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Guidelines on My New Hugo Site</title>
+    <link>https://example.org/categories/design-guidelines/</link>
+    <description>Recent content in Design Guidelines on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jul 2010 21:03:05 +0000</lastBuildDate><atom:link href="https://example.org/categories/design-guidelines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NDepend, a &amp;ldquo;must have&amp;rdquo; tool</title>
+      <link>https://example.org/archive/2010/07/20/ndepend-a-ldquomust-haverdquo-tool.aspx</link>
+      <pubDate>Tue, 20 Jul 2010 21:03:05 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/20/ndepend-a-ldquomust-haverdquo-tool.aspx</guid>
+      <description>Questo è un tool davvero impressionante per cosa riesce a tirar fuori da un assembly .Net, adesso con tanto di add-in per Visual Studio e per Reflector.
+E’ un must per qualsiasi sviluppatore/architetto degno di questo nome.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #8</title>
+      <link>https://example.org/archive/2010/07/16/link-utili-della-settimana-8.aspx</link>
+      <pubDate>Fri, 16 Jul 2010 20:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/16/link-utili-della-settimana-8.aspx</guid>
+      <description>– Super cool MSBuild Debugging in Visual Studio IDE
+Questa è una feature eccezionale non ufficialmente supportata. Seguendo il link è possibile scoprire i passi necessari per abilitarla in Visual Studio 2010.
+– Tool di migrazione VB6 –&amp;gt; VB .NET / C# gratuito
+Considerato che è gratuito e che promette bene vale sicuramente la pena provarlo.
+– Visual Studio 2010 Dark background
+Add-in per VS 2010 per impostare dei temi personalizzati circa i colori, tra cui un fantastico Dark</description>
+    </item>
+    
+    <item>
+      <title>Uso delle parentesi graffe</title>
+      <link>https://example.org/archive/2010/07/13/uso-delle-parentesi-graffe.aspx</link>
+      <pubDate>Tue, 13 Jul 2010 15:15:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/13/uso-delle-parentesi-graffe.aspx</guid>
+      <description>Sono sempre stato piuttosto “maniacale” nella scrittura di codice, circa il rispetto delle guidelines e circa uno stile di codifica che aiuti a migliorare la leggibilità dello stesso, e la sua manutenibilità.
+Ho sempre sostenuto che il pezzo di codice scritto stilisticamente bene è quello che si “autodocumenta” semplicemente solo leggendolo.
+La leggibilità aumenta, a mio parere, anche con opportuni accorgimenti o tecniche, non sempre utilizzati da tutti, anzi spesso ci sono pareri discordanti sull’effettiva utilità di alcune modalità di scrittura.</description>
+    </item>
+    
+    <item>
+      <title>Rilevare codice duplicato</title>
+      <link>https://example.org/archive/2009/03/06/rilevare-codice-duplicato.aspx</link>
+      <pubDate>Fri, 06 Mar 2009 05:56:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/03/06/rilevare-codice-duplicato.aspx</guid>
+      <description>Clone Detective for Visual Studio è una integrazione dell’ambiente Visual Studio (completamente free) in gradi di rilevare porzioni di codice duplicato tra i vari progetti che compongono una solution. Il fine è ambizioso, poichè come dice la stessa presentazione del prodotto presente su CodePlex
+“Having duplicates can easily lead to inconsistencies and often is an indicator for poorly factored code”
+Un componente del genere può davvero essere utilissimo, anche oltre lo scopo che si prefigge.</description>
+    </item>
+    
+    <item>
+      <title>Metodi virtuali nel costruttore</title>
+      <link>https://example.org/archive/2009/01/26/metodi-virtuali-nel-costruttore.aspx</link>
+      <pubDate>Mon, 26 Jan 2009 14:33:24 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/01/26/metodi-virtuali-nel-costruttore.aspx</guid>
+      <description>Tra le guidelines da seguire circa la scrittura del costruttore di una classe questa assume una certa importanza:
+Evitare di richiamare all’interno di un costruttore un metodo virtuale.
+Questa guidelines è dovuta al fatto che in presenza di un metodo che ridefinisce un metodo virtuale (ne fa l’override insomma), viene richiamato sempre il metodo esposto dalla classe derivata, ovvero il metodo più specifico della implementazione, a prescindere se il costruttore della classe che espone il metodo derivato sia stato richiamato.</description>
+    </item>
+    
+  </channel>
+</rss>

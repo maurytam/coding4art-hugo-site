@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips and tricks on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/tips-and-tricks/</link>
+    <description>Recent content in Tips and tricks on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2013 10:24:20 +0000</lastBuildDate><atom:link href="https://example.org/categories/tips-and-tricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript code block formatting</title>
+      <link>https://example.org/archive/2013/04/29/javascript-code-block-formatting.aspx</link>
+      <pubDate>Mon, 29 Apr 2013 10:24:20 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/04/29/javascript-code-block-formatting.aspx</guid>
+      <description>For those who develop applications using C# or Javascript, but I think Java too, (I’m not a Java developer and then I don’t know if what I’m going to say is true for them as well) , there are two kind of writing styles for indentation and code’s blocks formatting .
+These styles, known as K&amp;amp;R (Kernighan &amp;amp; Ritchie) style and Allman style, concern the way the opening curly brace is opened, when defining a block of code.</description>
+    </item>
+    
+    <item>
+      <title>How to debug Log4Net</title>
+      <link>https://example.org/archive/2012/05/18/how-to-debug-log4net.aspx</link>
+      <pubDate>Fri, 18 May 2012 09:51:23 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2012/05/18/how-to-debug-log4net.aspx</guid>
+      <description>If you use Log4Net as log engine for your applications (in my opinion is the best choice), this simple row in application configuration file can save you by a waste of time and probably by a headache too.
+When Log4Net doesn’t log anything due to a configuration error it never throw an exception, and this is the expected (and correct) behavior of a log system which should never block an application due to its internal error.</description>
+    </item>
+    
+    <item>
+      <title>Windows XP Mode, creazione collegamenti nel men&amp;ugrave; di avvio di Windows 7</title>
+      <link>https://example.org/archive/2010/10/04/windows-xp-mode-creazione-collegamenti-nel-menugrave-di-avvio-di.aspx</link>
+      <pubDate>Mon, 04 Oct 2010 13:47:36 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/10/04/windows-xp-mode-creazione-collegamenti-nel-menugrave-di-avvio-di.aspx</guid>
+      <description>Com’è noto, la modalità XP Mode di Windows 7 consente di eseguire una applicazione funzionante sotto Windows XP all’interno di una macchina virtuale XP completamente invisibile all’utente, e con il collegamento all’applicazione visibile nel menù di avvio di Windows 7. Quindi, lanciando l’applicazione dal menù di avvio di Windows 7 verrà automaticamente avviata la macchina virtuale con l’autologon impostato, senza che l’utente si accorga di questo, e dopodicchè l’applicazione in questione sarà eseguita come se apparentemente facesse parte di Windows 7.</description>
+    </item>
+    
+    <item>
+      <title>ASP .Net e i thread secondari</title>
+      <link>https://example.org/archive/2009/09/28/asp-net-e-i-thread-secondari.aspx</link>
+      <pubDate>Mon, 28 Sep 2009 06:24:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/09/28/asp-net-e-i-thread-secondari.aspx</guid>
+      <description>Interessantissimo post di Stefano Pronti del nuovo blog MSDN di Supporto Tecnico agli Sviluppatori, che spiega le disastrose conseguenze di non richiamare il metodo Dispose su risorse unmanaged, utilizzate all’interno di una web application.
+Per farla breve, le risorse unmanaged utilizzavano un thread secondario rispetto a quello che prende in carico la web request, ed in questo thread secondario veniva sollevata una eccezione non gestita durante la fase di finalizzazione del garbage collector, che, come è noto, viene eseguito in un thread diverso.</description>
+    </item>
+    
+    <item>
+      <title>Come ottenere il nome del metodo chiamante dallo stack usando reflection</title>
+      <link>https://example.org/archive/2009/08/14/come-ottenere-il-nome-del-metodo-chiamante-dallo-stack-usando.aspx</link>
+      <pubDate>Fri, 14 Aug 2009 05:41:14 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/08/14/come-ottenere-il-nome-del-metodo-chiamante-dallo-stack-usando.aspx</guid>
+      <description>Cosi:
+Fonte: Tips &amp;amp; Tricks for ASP.NET, IIS, and Visual Web Developer</description>
+    </item>
+    
+    <item>
+      <title>Impostare il calendarextender ad una cultura specifica</title>
+      <link>https://example.org/archive/2009/03/06/impostare-il-calendarextender-ad-una-cultura-specifica.aspx</link>
+      <pubDate>Fri, 06 Mar 2009 06:11:34 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/03/06/impostare-il-calendarextender-ad-una-cultura-specifica.aspx</guid>
+      <description>L’extender CalendarExtender presente nell’Ajax Toolkit presenta un bug se si cerca di globalizzarlo, ovvero adattarlo ad una specifica cultura. Infatti, la label presente in basso con l’indicazione della data odierna non viene globalizzata ma rimane impostata fissa alla cultura inglese, per cui apparirà sempre la scritta “Today”. Affinchè i controlli dell’Ajax Toolkit possano essere personalizzati sulla base delle varie culture non basta impostare la specifica cultura nel file di configurazione dell’applicazione web (tag globalization), oppure impostarla tramite browser, ma occorre anche abilitare il rendering dello script al supporto di culture specifiche, tramite la proprietà EnableScriptGlobalization dello ScriptManager, che deve essere ovviamente impostata a True (il valore di default è False).</description>
+    </item>
+    
+    <item>
+      <title>Invocazione di store procedure oracle in .NET</title>
+      <link>https://example.org/archive/2009/02/16/invocazione-di-store-procedure-oracle-in-net.aspx</link>
+      <pubDate>Mon, 16 Feb 2009 07:50:39 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/02/16/invocazione-di-store-procedure-oracle-in-net.aspx</guid>
+      <description>Il Data Access Application Block, contenuto all’interno della Enterprise Library 4.1 consente di richiamare store procedures passando esclusivamente il valore dei singoli parametri richiesti (mediante l’utilizzo del metodo GetStorepProcCommand dell’oggetto DatabaseFactory), nello stesso ordine con cui questi sono espressi nella firma della procedura. Poichè ADO .NET richiede comunque che ogni informazione in merito ai parametri della store sia obbligatoria (quindi tipo di dato, dimensione, precisione, scala, ecc), il metodo effettua internamente una chiamata al metodo DeriveParameters di ADO .</description>
+    </item>
+    
+    <item>
+      <title>Visual studio ide crash #2</title>
+      <link>https://example.org/archive/2008/12/09/visual-studio-ide-crash-2.aspx</link>
+      <pubDate>Tue, 09 Dec 2008 06:44:28 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/12/09/visual-studio-ide-crash-2.aspx</guid>
+      <description>Avevo già parlato qui (post immediatamente sotto :-)) di uno strano crash di Visual Studio 2008 SP1, a seguito dell’esecuzione comando “Choose items” della toolbox.
+Il problema sembrava essere dovuto alla presenza dei PowerCommands e di una loro presunta incompatibilità con il Service Pack 1. Infatti per poter tornare alla “normalità” era necessario un’azione estrema, ovvero rimuovere i PowerCommands, ed a quel punto il problema spariva.
+Oggi scopro che attraverso un assemply redirection nel file di configurazione di Visual Studio (devenv.</description>
+    </item>
+    
+    <item>
+      <title>Impostare la scheda LAN con file batch</title>
+      <link>https://example.org/archive/2008/02/14/impostare-la-scheda-lan-con-file-batch.aspx</link>
+      <pubDate>Thu, 14 Feb 2008 12:49:36 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/14/impostare-la-scheda-lan-con-file-batch.aspx</guid>
+      <description>Non sono un sistemista, nè lo saro mai, ma anche occupandosi solo di sviluppo è utile avere sottomano tools e/o tips prettamente sistemistici che possono essere sicuramente utili.
+Eccone uno:
+1) netsh interface ip set address “Connessione alla rete locale (LAN)” static 10.xxx.xxx.xxx 255.255.255.0 10.xxx.xxx.xxx 0
+2) netsh interface ip set dns “Connessione alla rete locale (LAN) ” static 10.xxx.xxx.xxx primary
+3) netsh interface ip add dns “Connessione alla rete locale (LAN)” 10.</description>
+    </item>
+    
+    <item>
+      <title>Righello nell’ editor di Visual Studio</title>
+      <link>https://example.org/archive/2006/02/13/righello-nell-editor-di-visual-studio.aspx</link>
+      <pubDate>Mon, 13 Feb 2006 18:51:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/02/13/righello-nell-editor-di-visual-studio.aspx</guid>
+      <description>Una caratteristica che ogni buon software dovrebbe, a mio avviso, avere riguarda la leggibilità del codice sorgente, intesa nel senso letterale del termine. Leggibilità significa che, quando si legge codice scritto da altri, non si dovrebbe faticare più di tanto a leggerlo “a colpo d’occhio”.Molto spesso però si finisce per fare una gran fatica per comprendere codice magari anche non troppo complesso dal punto di vista della tecnica di programmazione, ma scritto decisamente senza alcuna linea guida.</description>
+    </item>
+    
+  </channel>
+</rss>

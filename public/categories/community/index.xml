@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on My New Hugo Site</title>
+    <link>https://example.org/categories/community/</link>
+    <description>Recent content in Community on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2007 12:36:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ugialt.net</title>
+      <link>https://example.org/archive/2007/10/31/ugialt-net.aspx</link>
+      <pubDate>Wed, 31 Oct 2007 12:36:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/10/31/ugialt-net.aspx</guid>
+      <description>Prendo a prestito delle parole di Antonio Carpentieri per descrivere il perchè ho aderito con entusiasmo all’iniziativa ugialt.net:
+“…..Ha un mix di agile + object-orientation + patterns + TDD + DDD. Perchè per ognuno dei punti di cui sopra esistono degli strumenti che permettono di applicarli in .net, perchè li USO, perchè spesso ho dei dubbi, delle perplessità ma nonostante queste effettuo delle scelte sia di design, che di processo e VOGLIO informarmi su come altri stanno lavorando, fanno evolvere i pattern di design o del processo perchè cerco il modo migliore di comunicare e motivare delle scelte tecniche che agli occhi di un manager che vede solo “the microsoft way” possono risultare solo le scelte di un geek… ecco, io mi sento a casa in mezzo a persone che hanno questo spirito.</description>
+    </item>
+    
+  </channel>
+</rss>

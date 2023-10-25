@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2017 21:57:43 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C# 7.0</title>
+      <link>https://example.org/tags/c#-7.0/</link>
+      <pubDate>Thu, 19 Jan 2017 21:57:43 +0000</pubDate>
+      
+      <guid>https://example.org/tags/c#-7.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2017</title>
+      <link>https://example.org/tags/visual-studio-2017/</link>
+      <pubDate>Thu, 19 Jan 2017 21:57:43 +0000</pubDate>
+      
+      <guid>https://example.org/tags/visual-studio-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DotNetCore</title>
+      <link>https://example.org/tags/dotnetcore/</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/tags/dotnetcore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://example.org/tags/troubleshooting/</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisualStudioCode</title>
+      <link>https://example.org/tags/visualstudiocode/</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/tags/visualstudiocode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Foundation Server</title>
+      <link>https://example.org/tags/team-foundation-server/</link>
+      <pubDate>Thu, 21 Jan 2016 15:48:31 +0000</pubDate>
+      
+      <guid>https://example.org/tags/team-foundation-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SubText</title>
+      <link>https://example.org/tags/subtext/</link>
+      <pubDate>Thu, 18 Sep 2014 22:10:09 +0000</pubDate>
+      
+      <guid>https://example.org/tags/subtext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>https://example.org/tags/wordpress/</link>
+      <pubDate>Thu, 18 Sep 2014 22:10:09 +0000</pubDate>
+      
+      <guid>https://example.org/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

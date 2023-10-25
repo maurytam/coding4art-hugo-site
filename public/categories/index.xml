@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2017 21:57:43 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C# 7.0</title>
+      <link>https://example.org/categories/c#-7.0/</link>
+      <pubDate>Thu, 19 Jan 2017 21:57:43 +0000</pubDate>
+      
+      <guid>https://example.org/categories/c#-7.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2017</title>
+      <link>https://example.org/categories/visual-studio-2017/</link>
+      <pubDate>Thu, 19 Jan 2017 21:57:43 +0000</pubDate>
+      
+      <guid>https://example.org/categories/visual-studio-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DotNet Core</title>
+      <link>https://example.org/categories/dotnet-core/</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/categories/dotnet-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://example.org/categories/troubleshooting/</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/categories/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code</title>
+      <link>https://example.org/categories/visual-studio-code/</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/categories/visual-studio-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[OT]</title>
+      <link>https://example.org/categories/ot/</link>
+      <pubDate>Sun, 12 Jun 2016 17:53:32 +0000</pubDate>
+      
+      <guid>https://example.org/categories/ot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Foundation Server</title>
+      <link>https://example.org/categories/team-foundation-server/</link>
+      <pubDate>Thu, 21 Jan 2016 15:48:31 +0000</pubDate>
+      
+      <guid>https://example.org/categories/team-foundation-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://example.org/categories/uncategorized/</link>
+      <pubDate>Wed, 05 Aug 2015 13:31:39 +0000</pubDate>
+      
+      <guid>https://example.org/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Security Bulletin</title>
+      <link>https://example.org/categories/microsoft-security-bulletin/</link>
+      <pubDate>Sat, 20 Sep 2014 22:03:59 +0000</pubDate>
+      
+      <guid>https://example.org/categories/microsoft-security-bulletin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Framework 4.0</title>
+      <link>https://example.org/categories/.net-framework-4.0/</link>
+      <pubDate>Thu, 17 Oct 2013 13:38:44 +0000</pubDate>
+      
+      <guid>https://example.org/categories/.net-framework-4.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C# 4.0</title>
+      <link>https://example.org/categories/c#-4.0/</link>
+      <pubDate>Mon, 07 Oct 2013 09:38:37 +0000</pubDate>
+      
+      <guid>https://example.org/categories/c#-4.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP .NET</title>
+      <link>https://example.org/categories/asp-.net/</link>
+      <pubDate>Thu, 03 Oct 2013 13:13:07 +0000</pubDate>
+      
+      <guid>https://example.org/categories/asp-.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2010</title>
+      <link>https://example.org/categories/visual-studio-2010/</link>
+      <pubDate>Wed, 28 Aug 2013 13:18:12 +0000</pubDate>
+      
+      <guid>https://example.org/categories/visual-studio-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://example.org/categories/javascript/</link>
+      <pubDate>Mon, 29 Apr 2013 10:24:20 +0000</pubDate>
+      
+      <guid>https://example.org/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips and tricks</title>
+      <link>https://example.org/categories/tips-and-tricks/</link>
+      <pubDate>Mon, 29 Apr 2013 10:24:20 +0000</pubDate>
+      
+      <guid>https://example.org/categories/tips-and-tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source</title>
+      <link>https://example.org/categories/open-source/</link>
+      <pubDate>Thu, 04 Apr 2013 13:58:28 +0000</pubDate>
+      
+      <guid>https://example.org/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variuos</title>
+      <link>https://example.org/categories/variuos/</link>
+      <pubDate>Thu, 04 Apr 2013 13:58:28 +0000</pubDate>
+      
+      <guid>https://example.org/categories/variuos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server 2008</title>
+      <link>https://example.org/categories/sql-server-2008/</link>
+      <pubDate>Tue, 29 Jan 2013 15:01:06 +0000</pubDate>
+      
+      <guid>https://example.org/categories/sql-server-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://example.org/categories/tools/</link>
+      <pubDate>Tue, 29 Jan 2013 15:01:06 +0000</pubDate>
+      
+      <guid>https://example.org/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeProject</title>
+      <link>https://example.org/categories/codeproject/</link>
+      <pubDate>Wed, 05 Dec 2012 15:13:53 +0000</pubDate>
+      
+      <guid>https://example.org/categories/codeproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WCF</title>
+      <link>https://example.org/categories/wcf/</link>
+      <pubDate>Wed, 06 Jun 2012 13:41:35 +0000</pubDate>
+      
+      <guid>https://example.org/categories/wcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web services</title>
+      <link>https://example.org/categories/web-services/</link>
+      <pubDate>Wed, 30 May 2012 09:37:58 +0000</pubDate>
+      
+      <guid>https://example.org/categories/web-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entity Framework</title>
+      <link>https://example.org/categories/entity-framework/</link>
+      <pubDate>Thu, 12 Apr 2012 07:56:39 +0000</pubDate>
+      
+      <guid>https://example.org/categories/entity-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events and conferences</title>
+      <link>https://example.org/categories/events-and-conferences/</link>
+      <pubDate>Thu, 19 Jan 2012 16:33:55 +0000</pubDate>
+      
+      <guid>https://example.org/categories/events-and-conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web standards</title>
+      <link>https://example.org/categories/web-standards/</link>
+      <pubDate>Fri, 04 Nov 2011 15:03:20 +0000</pubDate>
+      
+      <guid>https://example.org/categories/web-standards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://example.org/categories/architecture/</link>
+      <pubDate>Wed, 05 Oct 2011 10:16:39 +0000</pubDate>
+      
+      <guid>https://example.org/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP .NET MVC</title>
+      <link>https://example.org/categories/asp-.net-mvc/</link>
+      <pubDate>Wed, 16 Mar 2011 16:16:03 +0000</pubDate>
+      
+      <guid>https://example.org/categories/asp-.net-mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOLID Principles</title>
+      <link>https://example.org/categories/solid-principles/</link>
+      <pubDate>Mon, 03 Jan 2011 16:47:01 +0000</pubDate>
+      
+      <guid>https://example.org/categories/solid-principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile methodologies</title>
+      <link>https://example.org/categories/agile-methodologies/</link>
+      <pubDate>Thu, 25 Nov 2010 12:06:28 +0000</pubDate>
+      
+      <guid>https://example.org/categories/agile-methodologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://example.org/categories/thoughts/</link>
+      <pubDate>Wed, 08 Sep 2010 15:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Framework 3.5</title>
+      <link>https://example.org/categories/.net-framework-3.5/</link>
+      <pubDate>Fri, 03 Sep 2010 15:58:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/.net-framework-3.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LINQ</title>
+      <link>https://example.org/categories/linq/</link>
+      <pubDate>Fri, 03 Sep 2010 15:58:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/linq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding horror</title>
+      <link>https://example.org/categories/coding-horror/</link>
+      <pubDate>Tue, 27 Jul 2010 13:59:54 +0000</pubDate>
+      
+      <guid>https://example.org/categories/coding-horror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Guidelines</title>
+      <link>https://example.org/categories/design-guidelines/</link>
+      <pubDate>Tue, 20 Jul 2010 21:03:05 +0000</pubDate>
+      
+      <guid>https://example.org/categories/design-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design patterns</title>
+      <link>https://example.org/categories/design-patterns/</link>
+      <pubDate>Fri, 16 Jul 2010 20:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/design-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows Services</title>
+      <link>https://example.org/categories/windows-services/</link>
+      <pubDate>Mon, 10 May 2010 03:13:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/windows-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contract-First development</title>
+      <link>https://example.org/categories/contract-first-development/</link>
+      <pubDate>Tue, 20 Apr 2010 21:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/contract-first-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft certifications</title>
+      <link>https://example.org/categories/microsoft-certifications/</link>
+      <pubDate>Wed, 03 Mar 2010 03:21:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/microsoft-certifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 7</title>
+      <link>https://example.org/categories/windows-7/</link>
+      <pubDate>Thu, 28 Jan 2010 03:52:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/windows-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP .NET 4.0</title>
+      <link>https://example.org/categories/asp-.net-4.0/</link>
+      <pubDate>Wed, 25 Nov 2009 03:42:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/asp-.net-4.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical articles</title>
+      <link>https://example.org/categories/technical-articles/</link>
+      <pubDate>Mon, 26 Oct 2009 00:45:50 +0000</pubDate>
+      
+      <guid>https://example.org/categories/technical-articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T-SQL</title>
+      <link>https://example.org/categories/t-sql/</link>
+      <pubDate>Mon, 26 Oct 2009 00:10:33 +0000</pubDate>
+      
+      <guid>https://example.org/categories/t-sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://example.org/categories/cloud-computing/</link>
+      <pubDate>Fri, 09 Oct 2009 03:50:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://example.org/categories/cryptography/</link>
+      <pubDate>Fri, 09 Oct 2009 03:50:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ioc</title>
+      <link>https://example.org/categories/ioc/</link>
+      <pubDate>Fri, 25 Sep 2009 07:28:26 +0000</pubDate>
+      
+      <guid>https://example.org/categories/ioc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregator</title>
+      <link>https://example.org/categories/aggregator/</link>
+      <pubDate>Tue, 18 Aug 2009 05:17:54 +0000</pubDate>
+      
+      <guid>https://example.org/categories/aggregator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>https://example.org/categories/refactoring/</link>
+      <pubDate>Fri, 06 Mar 2009 06:37:56 +0000</pubDate>
+      
+      <guid>https://example.org/categories/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASP .NET Ajax</title>
+      <link>https://example.org/categories/asp-.net-ajax/</link>
+      <pubDate>Fri, 06 Mar 2009 06:11:34 +0000</pubDate>
+      
+      <guid>https://example.org/categories/asp-.net-ajax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2008</title>
+      <link>https://example.org/categories/visual-studio-2008/</link>
+      <pubDate>Fri, 06 Mar 2009 05:56:52 +0000</pubDate>
+      
+      <guid>https://example.org/categories/visual-studio-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workaround</title>
+      <link>https://example.org/categories/workaround/</link>
+      <pubDate>Thu, 04 Sep 2008 15:54:08 +0000</pubDate>
+      
+      <guid>https://example.org/categories/workaround/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WPF</title>
+      <link>https://example.org/categories/wpf/</link>
+      <pubDate>Mon, 04 Aug 2008 16:22:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/wpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XBAP Application</title>
+      <link>https://example.org/categories/xbap-application/</link>
+      <pubDate>Mon, 04 Aug 2008 16:22:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/xbap-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2005</title>
+      <link>https://example.org/categories/visual-studio-2005/</link>
+      <pubDate>Thu, 31 Jul 2008 08:25:09 +0000</pubDate>
+      
+      <guid>https://example.org/categories/visual-studio-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Source Safe</title>
+      <link>https://example.org/categories/visual-source-safe/</link>
+      <pubDate>Sun, 20 Jul 2008 16:20:43 +0000</pubDate>
+      
+      <guid>https://example.org/categories/visual-source-safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office development</title>
+      <link>https://example.org/categories/office-development/</link>
+      <pubDate>Wed, 07 May 2008 10:09:09 +0000</pubDate>
+      
+      <guid>https://example.org/categories/office-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Framework 3.0</title>
+      <link>https://example.org/categories/.net-framework-3.0/</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/categories/.net-framework-3.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADO .NET</title>
+      <link>https://example.org/categories/ado-.net/</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/categories/ado-.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sql Server 2005</title>
+      <link>https://example.org/categories/sql-server-2005/</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/categories/sql-server-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C# e VB .NET in comparison</title>
+      <link>https://example.org/categories/c#-e-vb-.net-in-comparison/</link>
+      <pubDate>Tue, 26 Feb 2008 07:24:58 +0000</pubDate>
+      
+      <guid>https://example.org/categories/c#-e-vb-.net-in-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://example.org/categories/community/</link>
+      <pubDate>Wed, 31 Oct 2007 12:36:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows Mobile</title>
+      <link>https://example.org/categories/windows-mobile/</link>
+      <pubDate>Sun, 05 Aug 2007 13:11:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/windows-mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET Framework 1.0 / 1.1 / 2.0</title>
+      <link>https://example.org/categories/.net-framework-1.0-/-1.1-/-2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/.net-framework-1.0-/-1.1-/-2.0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

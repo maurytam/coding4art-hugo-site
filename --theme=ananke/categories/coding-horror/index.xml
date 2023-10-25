@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding horror on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/coding-horror/</link>
+    <description>Recent content in Coding horror on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jul 2010 13:59:54 +0000</lastBuildDate><atom:link href="https://example.org/categories/coding-horror/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Horror #1</title>
+      <link>https://example.org/archive/2010/07/27/coding-horror-1.aspx</link>
+      <pubDate>Tue, 27 Jul 2010 13:59:54 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/27/coding-horror-1.aspx</guid>
+      <description>Se c’è un aspetto che lo sviluppatore medio non tiene nella giusta considerazione quando scrive il codice è il cast tra tipi. Questo lo deduco solo dalla mia esperienza sul campo, ovvio.
+Sto parlando del cast ridondante, cioè quel cast semplicemente inutile e che potrebbe essere tranquillamente evitato, basterebbe solo un pò di attenzione in più, e forse un pò di copia ed incolla in meno
+Spesso un cast ridondante non è immediatamente percepibile.</description>
+    </item>
+    
+  </channel>
+</rss>

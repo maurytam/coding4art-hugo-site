@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Security Bulletin on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/microsoft-security-bulletin/</link>
+    <description>Recent content in Microsoft Security Bulletin on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Sep 2014 22:03:59 +0000</lastBuildDate><atom:link href="https://example.org/categories/microsoft-security-bulletin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Security Bulletin MS14-053</title>
+      <link>https://example.org/archive/2014/09/21/microsoft-security-bulletin-ms14-053.aspx</link>
+      <pubDate>Sat, 20 Sep 2014 22:03:59 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2014/09/21/microsoft-security-bulletin-ms14-053.aspx</guid>
+      <description>To be affected by the vulnerability, they must manually install a .NET-enabled website, service, or program that uses Windows Communication Foundation (WCF).</description>
+    </item>
+    
+  </channel>
+</rss>

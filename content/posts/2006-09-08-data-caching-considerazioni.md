@@ -1,0 +1,13 @@
+---
+title: 'Data caching: considerazioni'
+author: mtammacco
+type: post
+date: 2006-09-08T10:24:00+00:00
+url: /archive/2006/09/08/data-caching-considerazioni.aspx
+categories:
+  - ASP .NET
+
+---
+L&#8217;utilizzo della cache in applicazioni web non è sempre intuitivo come potrebbe sembrare. Se inseriamo un oggetto in cache assegnandogli, ad es., una scadenza assoluta di 1 ora, potremmo pensare che lo stesso rimanga in cache fino a che non scade. Invece non è così. Un oggetto in cache può in qualsiasi momento antecedente la sua scadenza (cioè quando è ancora valido) essere eletto per una operazione di garbage collection; quindi può essere distrutto e, in tal caso, la memoria da esso occupata viene liberata, a prescindere se il suo periodo di validità si è esaurito oppure no. Questo comportamento potrebbe verificarsi nei casi in cui il sistema richieda memoria per compiere una qualche operazione e nello stesso tempo la memoria cache risulta occupata. Morale: non bisogna mai dare per scontato che un oggetto inserito in cache sia disponibile anche se la sua scadenza è molto ampia. Questo meccanismo può essere disabilitato impostando l&#8217;enumerazione CacheItemPriority a CacheItemPriority.NotRemovable. In questo caso un oggetto in cache entrerà a far parte di un garbage collector solo se è scaduto, altrimenti sarà sempre valido. Questa impostazione torna utile nei casi in cui non è possibile ricreare l&#8217;oggetto dopo averlo messo in cache; infatti essa viene utilizzata dalla sessione InProcess di ASP .NET.
+
+Un altro aspetto da considerare è che la cache è specifica di un certo Application Domain, e non cross appdomain. Questo significa che è globale a livello della applicazione che ne fa uso, e quindi 2 applicazioni (ovvero 2 appdomain) utilizzano sempre cache diverse e quindi non condivise. Ma come fare allora se vogliamo condividere la cache in più di una applicazione, in modo, ad es., che se inserisco un oggetto in cache dalla applicazione A anche l&#8217;applicazione B possa vederlo ? In uno scenario complesso e, soprattutto, in una web farm, è possibile memorizzare gli oggetti in un repository differente dalla memoria cache, ad. es. in un database. Questo approccio garantisce chiaramente una altissima disponibilità del servizio di caching, anche in caso di riavvio del sistema. Un approccio più semplice consiste nel creare un web service (quindi un&#8217;altra web application) che espone metodi get/set per gli oggetti da inserire in cache usando il meccanismo nativo di ASP .NET. In questo modo qualsiasi applicazione che usa il web service potrà utilizzare la cache, che sarà condivisa perchè l&#8217;application domain è sempre lo stesso.

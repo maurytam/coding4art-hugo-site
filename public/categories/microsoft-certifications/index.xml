@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft certifications on My New Hugo Site</title>
+    <link>https://example.org/categories/microsoft-certifications/</link>
+    <description>Recent content in Microsoft certifications on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Mar 2010 03:21:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/microsoft-certifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My business card</title>
+      <link>https://example.org/archive/2010/03/03/my-business-card.aspx</link>
+      <pubDate>Wed, 03 Mar 2010 03:21:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/03/03/my-business-card.aspx</guid>
+      <description>Tutte le persone che possiedono una qualche certificazione Microsoft possono da questo sito crearsi una business card virtuale.
+E’¨ una certificazione che andrebbe aggiornata, ma sinceramente parlando il suo valore oggigiorno non è quello di una volta.
+Comunque non è detto che prima o poi non l’aggiorni…</description>
+    </item>
+    
+  </channel>
+</rss>

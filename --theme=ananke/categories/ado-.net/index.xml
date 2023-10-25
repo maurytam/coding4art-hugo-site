@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADO .NET on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/ado-.net/</link>
+    <description>Recent content in ADO .NET on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2008 10:00:37 +0000</lastBuildDate><atom:link href="https://example.org/categories/ado-.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oracle Data Provider for .NET</title>
+      <link>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</guid>
+      <description>Negli ultimi tempi mi è capitato spesso di lavorare su applicazioni che utilizzano Oracle come database piuttosto che Sql Server e, naturalmente, ho dovuto utilizzare nello strato di accesso ai dati le classi specifiche di Oracle, meglio note come Oracle Data Provider for .NET. Utilizzare queste classi significa avere a che fare con oggetti tipici di Oracle, es. gli Oracle data type, o i cursori utilizzati per contenere i resultset derivanti da una chiamata ad una store procedure, ecc.</description>
+    </item>
+    
+    <item>
+      <title>Statistiche in ADO .NET 2.0</title>
+      <link>https://example.org/archive/2007/01/12/statistiche-in-ado-net-2-0.aspx</link>
+      <pubDate>Fri, 12 Jan 2007 11:57:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/01/12/statistiche-in-ado-net-2-0.aspx</guid>
+      <description>In ADO .NET 2.0 è possibile programmaticamente ottenere delle informazioni statistiche circa l’uso di una connessione ad un database. Bastano infatti solo 2 righe di codice:
+per ottenere un dictionary di valori statistici validi nel momento in cui il metodo RetrieveStatistics() è invocato.
+Tratto dalla documentazione MSDN, ecco un elenco (parziale) dei valori statistici più interessanti:
+NetworkServerTime
+Restituisce il tempo cumulativo atteso dal provider prima di ricevere una risposta dal database server, a partire dal momento in cui le statistiche sono abilitate.</description>
+    </item>
+    
+    <item>
+      <title>ADO .NET vNext</title>
+      <link>https://example.org/archive/2006/08/25/ado-net-vnext.aspx</link>
+      <pubDate>Fri, 25 Aug 2006 11:44:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/08/25/ado-net-vnext.aspx</guid>
+      <description>E’ disponibile per il download la prima CTP (Agosto 2006) di ADO .NET vNext, comprendente l’entity framework che supporta l’Object Relational Mapping, ovvero l’entity data model per effettuare query sulle entità stile sql (LINQ)</description>
+    </item>
+    
+  </channel>
+</rss>

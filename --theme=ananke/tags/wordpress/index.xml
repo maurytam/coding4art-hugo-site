@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WordPress on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/tags/wordpress/</link>
+    <description>Recent content in WordPress on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Sep 2014 22:10:09 +0000</lastBuildDate><atom:link href="https://example.org/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog moved to WordPress</title>
+      <link>https://example.org/archive/2014/09/19/blog-moved-to-wordpress.aspx</link>
+      <pubDate>Thu, 18 Sep 2014 22:10:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2014/09/19/blog-moved-to-wordpress.aspx</guid>
+      <description>It’s long time I don’t write anything on this blog, I was very busy in recent times, but now the time has come and I intend to regain the time lost.
+When I came back to this blog, the first thing I noticed were the look &amp;amp; feel and the software engine on which it was based, SubText, a very old bog software, but still widely used, so I decided to move it to another platform, possibly in step with times, and my choice was WordPress.</description>
+    </item>
+    
+  </channel>
+</rss>

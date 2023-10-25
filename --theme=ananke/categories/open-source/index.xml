@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open source on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/open-source/</link>
+    <description>Recent content in Open source on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2013 13:58:28 +0000</lastBuildDate><atom:link href="https://example.org/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raven2Go posts editor portable application</title>
+      <link>https://example.org/archive/2013/04/04/raven2go-posts-editor-portable-application.aspx</link>
+      <pubDate>Thu, 04 Apr 2013 13:58:28 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/04/04/raven2go-posts-editor-portable-application.aspx</guid>
+      <description> &amp;lt;p&amp;gt; Main features are: &amp;lt;/p&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; Tabbed true WYSIWYG Editing &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Manage multiple media storage services &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Improved content management &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Manage multiple blogs offline &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; WordPress 2.2+ Page &amp;amp; Tag support &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;p&amp;gt; &amp;lt;a href=&amp;quot;http://www.zoundryraven.com/download.html&amp;quot;&amp;gt;Download&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/tbody&amp;gt; &amp;lt;/table&amp;gt; &amp;lt;p class=&amp;quot;poweredbyzoundry&amp;quot;&amp;gt; Powered by &amp;lt;a class=&amp;quot;poweredbyzoundry_link&amp;quot; href=&amp;quot;http://www.zoundryraven.com&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Zoundry Raven&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title>HeidiSQL – Free portable client for Sql server and MySql</title>
+      <link>https://example.org/archive/2013/01/29/heidisql-free-portable-client-for-sql-server-and-mysql.aspx</link>
+      <pubDate>Tue, 29 Jan 2013 15:01:06 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/01/29/heidisql-free-portable-client-for-sql-server-and-mysql.aspx</guid>
+      <description>Free portable client for Sql server and MySql.
+This is the software I always needed!
+Features:
+Free for everyone, OpenSource. Connect to multiple servers in one window Connect to servers via commandline Connect via SSH tunnel, or pass SSL settings Create and edit tables, views, stored routines, triggers and scheduled events. Generate nice SQL-exports Export from one server/database directly to another server/database Manage user-privileges Import text-files Export table rows as CSV, HTML, XML, SQL, LaTeX, Wiki Markup and PHP Array Browse and edit table-data using a comfortable grid Bulk edit tables (move to db, change engine, collation etc.</description>
+    </item>
+    
+    <item>
+      <title>Web services Contract First development</title>
+      <link>https://example.org/archive/2012/05/30/web-services-contract-first-development.aspx</link>
+      <pubDate>Wed, 30 May 2012 09:37:58 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2012/05/30/web-services-contract-first-development.aspx</guid>
+      <description>WSCF.blue is a great tool for developing web services in a Contract First mode.
+Develop in such a way means that you start from a WSDL contract that describes everything is concerned with a web service, and only after that you can write code which that contract is based on.
+Working with a WSDL can be a very error-prone task because a WSDL is a XML file. The WSCF.blue tool is able (among other things) building the server code you need from that file.</description>
+    </item>
+    
+    <item>
+      <title>A useful .Net library</title>
+      <link>https://example.org/archive/2011/01/27/a-useful-net-library.aspx</link>
+      <pubDate>Thu, 27 Jan 2011 09:33:41 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/01/27/a-useful-net-library.aspx</guid>
+      <description>dotNetTips.Utility 4.0 R1
+Very interesting Open Source .Net Library with a lot of utility code ready to use !
+Great job.
+You can download it from here.</description>
+    </item>
+    
+    <item>
+      <title>NHibernate Day, una bella esperienza</title>
+      <link>https://example.org/archive/2010/10/11/nhibernate-day-una-bella-esperienza.aspx</link>
+      <pubDate>Mon, 11 Oct 2010 10:06:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/10/11/nhibernate-day-una-bella-esperienza.aspx</guid>
+      <description>&amp;lt;td valign=&amp;quot;top&amp;quot; width=&amp;quot;200&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; Lo scorso sabato ho assistito all’NHibernate Day, una conferenza internazionale in lingua inglese tenutasi a Bologna dedicata a NHibernate ed a tutto quello che ci ruota intorno, ed è stato per me un vero piacere aver partecipato alla cena pre-evento insieme a personaggi del calibro di Oren Eini aka Ayende, Rob Ashton, solo per citarne alcuni, ed aver conosciuto colleghi non italiani (Patrick Weibel) oltre che aver rivisto alcuni colleghi di passate avventure tecnologiche che condividono con me la stessa passione per la tecnologia.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #12</title>
+      <link>https://example.org/archive/2010/09/03/link-utili-della-settimana-12.aspx</link>
+      <pubDate>Fri, 03 Sep 2010 20:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/03/link-utili-della-settimana-12.aspx</guid>
+      <description>– Microsoft – Domain Oriented N-Layered .NET 4.0 App Sample
+Per gli amanti (come me) di DDD, ecco un progetto molto interessante riguardante un “DDD N-Layered Architecture Style”, ovvero una applicazione di esempio che mostra uno scenario di business molto semplice che include alcune implementazioni di DDD Design patterns (Repository, UoW, Entity, Aggregate, Value-Object, etc), facendo uso di .Net 4.0, EF 4.0, WCF 4.0, differenti client partendo da WPF e Silverlight.</description>
+    </item>
+    
+    <item>
+      <title>Raccolta extension methods</title>
+      <link>https://example.org/archive/2010/04/13/raccolta-extension-methods.aspx</link>
+      <pubDate>Tue, 13 Apr 2010 18:46:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/04/13/raccolta-extension-methods.aspx</guid>
+      <description>Gli extension methods sono una feature estremamente potente ed interessante, introdotta a partire dal .Net Framework 3.5 SP1.
+A tal proposito, su Codeplex è presente un interessantissima libreria di codice che raccoglie extension methods applicati a svariati tipi.
+Davvero molto molto utile.
+Come detto qui da Gianluca Carucci, questa feature non necessita necessariamente della versione 3.5 del .Net Framework per essere utilizzata, ma, con un piccolo accorgimento, è possibile sfruttarne a pieno le potenzialità utilizzando anche il .</description>
+    </item>
+    
+  </channel>
+</rss>

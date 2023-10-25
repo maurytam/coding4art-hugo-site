@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DotNet Core on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/dotnet-core/</link>
+    <description>Recent content in DotNet Core on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2016 17:52:12 +0000</lastBuildDate><atom:link href="https://example.org/categories/dotnet-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DotNet Core “Unable to load DLL ‘System.Security.Cryptography.Native” error</title>
+      <link>https://example.org/archive/2016/11/25/dotnet-core-unable-to-load-dll-system-security-cryptography-native-error.aspx</link>
+      <pubDate>Fri, 25 Nov 2016 17:52:12 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2016/11/25/dotnet-core-unable-to-load-dll-system-security-cryptography-native-error.aspx</guid>
+      <description>I was trying to play with DotNet Core in Visual Studio Code, and I was following the instructions as stated here.
+After installed Brew I installed the latest version of OpenSSL as required by DotNet Core and then I tried to run the classic “Hello World” program, but the command
+dotnet restore
+failed with this error:
+This error has to do with OpenSSL, or even better with Brew that refuseed to correctly link OpenSSL.</description>
+    </item>
+    
+  </channel>
+</rss>

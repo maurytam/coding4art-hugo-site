@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web services on My New Hugo Site</title>
+    <link>https://example.org/categories/web-services/</link>
+    <description>Recent content in Web services on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2012 09:37:58 +0000</lastBuildDate><atom:link href="https://example.org/categories/web-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web services Contract First development</title>
+      <link>https://example.org/archive/2012/05/30/web-services-contract-first-development.aspx</link>
+      <pubDate>Wed, 30 May 2012 09:37:58 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2012/05/30/web-services-contract-first-development.aspx</guid>
+      <description>WSCF.blue is a great tool for developing web services in a Contract First mode.
+Develop in such a way means that you start from a WSDL contract that describes everything is concerned with a web service, and only after that you can write code which that contract is based on.
+Working with a WSDL can be a very error-prone task because a WSDL is a XML file. The WSCF.blue tool is able (among other things) building the server code you need from that file.</description>
+    </item>
+    
+    <item>
+      <title>Impossibile aggiungere una service reference in visual studio 2008</title>
+      <link>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</link>
+      <pubDate>Mon, 28 Jul 2008 10:03:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</guid>
+      <description>Questo workaround spero sia utile a chi si è trovato nella stessa mia situazione, e cioè che improvvisamente Visual Studio 2008 si rifiuta di aggiungere una Service Reference ad un servizio WCF, dando questo errore:
+The components required to enumerate web references are not installed on this computer. Please re-install Visual studio. Ho poi scoperto che il problema si presentava anche aggiungendo semplici web reference (ASP .NET web services) a progetti creati con Visual Studio 2005.</description>
+    </item>
+    
+  </channel>
+</rss>

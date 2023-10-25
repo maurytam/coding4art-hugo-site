@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical articles on My New Hugo Site</title>
+    <link>https://example.org/categories/technical-articles/</link>
+    <description>Recent content in Technical articles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2009 00:45:50 +0000</lastBuildDate><atom:link href="https://example.org/categories/technical-articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utilizzo “sicuro” di stringhe in .NET 2.0</title>
+      <link>https://example.org/archive/2009/10/26/utilizzo-sicuro-di-stringhe-in-net-2-0.aspx</link>
+      <pubDate>Mon, 26 Oct 2009 00:45:50 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/26/utilizzo-sicuro-di-stringhe-in-net-2-0.aspx</guid>
+      <description>La classe System.String non rappresenta la soluzione più sicura quando è necessario memorizzare sotto forma di stringa contenuti confidenziali, ad esempio stringhe di connessione a database, password varie, numeri di carta di credito, ecc.. Informazioni di questo genere andrebbero mantenute in memoria solo il tempo strettamente necessario alla loro elaborazione, e la memoria occupata andrebbe rilasciata il più presto possibile. Questo accorgimento è necessario poichè il contenuto della memoria utilizzata da un processo in esecuzione potrebbe essere letta attraverso varie tecniche di hacking, e quindi il suo eventuale contenuto confidenziale correrebbe seri pericoli di manomissione.</description>
+    </item>
+    
+    <item>
+      <title>Utilizzare codice unsafe in C#</title>
+      <link>https://example.org/archive/2009/10/26/utilizzare-codice-unsafe-in-c.aspx</link>
+      <pubDate>Mon, 26 Oct 2009 00:32:30 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/26/utilizzare-codice-unsafe-in-c.aspx</guid>
+      <description>Il linguaggio C# permette di scrivere codice cosiddetto unsafe, cioè eseguito al di fuori del controllo del CLR (Common Language Runtime).In questo ambito il programmatore può accedere, seppure con le dovute limitazioni rispetto a linguaggi più specifici quali C/C++, direttamente alla memoria attraverso l’uso dei puntatori. Un puntatore è una particolare variabile il cui contenuto è un indirizzo di memoria. In un sistema a 32 bit quindi un puntatore occupa 4 byte.</description>
+    </item>
+    
+    <item>
+      <title>Uso efficiente delle stringhe in .NET</title>
+      <link>https://example.org/archive/2009/10/26/uso-efficiente-delle-stringhe-in-net.aspx</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:01 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/26/uso-efficiente-delle-stringhe-in-net.aspx</guid>
+      <description>L’architettura Microsoft .NET Framework considera una stringa come un “oggetto immutabile”. Ciò significa che una volta assegnato un valore la stessa non potrà mai più mutare il suo contenuto. Questo comporta che qualsiasi manipolazione effettuata sul contenuto di una stringa una volta che è stata creata produrrà sempre una nuova stringa, ovvero la stringa originaria risulterà raggiungibile dal successivo garbage collector, e una nuova stringa sarà creata e conterrà il risultato della manipolazione.</description>
+    </item>
+    
+    <item>
+      <title>Pinned object in .NET</title>
+      <link>https://example.org/archive/2009/10/25/pinned-object-in-net.aspx</link>
+      <pubDate>Sun, 25 Oct 2009 23:54:15 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/25/pinned-object-in-net.aspx</guid>
+      <description>E’ noto che il meccanismo del Garbage Collector del .NET Framework, a cui ho dedicato un articolo apparso sulla rivista Visual Basic Journal, compatta l’ heap dopo aver effettuato la pulizia ed il rilascio della memoria occupata dagli oggetti non più referenziati dall’applicazione. Questa compattazione dispone in modo contiguo gli oggetti ancora in vita per un più efficiente utilizzo della memoria, e chiaramente per tutti gli oggetti spostati vengono aggiornati i rispettivi puntatori a causa del nuovo indirizzo di memoria a cui punta l’oggetto; inoltre, per evitare lunghe operazioni di spostamento, gli oggetti troppo grandi (oltre 85K) non sono spostati.</description>
+    </item>
+    
+    <item>
+      <title>Esecuzione di codice managed come script</title>
+      <link>https://example.org/archive/2009/10/25/esecuzione-di-codice-managed-come-script.aspx</link>
+      <pubDate>Sun, 25 Oct 2009 23:38:33 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/25/esecuzione-di-codice-managed-come-script.aspx</guid>
+      <description>La classe System.CodeDom.Compiler.CodeDomProvider è una classe astratta dalla quale derivano classi specifiche utilizzate dal .NET Framework per implementare i compilatori dei vari linguaggi da esso supportati. Il compilatore del linguaggio C#, ad esempio, è basato sulla classe Microsoft.CSharp.CSharpCodeProvider che eredita dalla classe astratta CodeDomProvider e permette di accedere ad una istanza del compilatore C# per la gestione del codice sorgente in detto linguaggio, così come il compilatore del linguaggio Visual Basic .</description>
+    </item>
+    
+    <item>
+      <title>Usare matrici con base diversa da zero in .NET</title>
+      <link>https://example.org/archive/2009/10/25/usare-matrici-con-base-diversa-da-zero-in-net.aspx</link>
+      <pubDate>Sun, 25 Oct 2009 23:16:17 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/25/usare-matrici-con-base-diversa-da-zero-in-net.aspx</guid>
+      <description>I linguaggi .NET permettono di definire matrici con un limite inferiore, ovvero l’indice dell’elemento iniziale della matrice stessa, che è sempre uguale a zero. Infatti essi non permettono di gestire array con base personalizzata, ovvero diversa da zero. La seguente istruzione VB .NET dichiara una variabile matrice contenente 11 elementi di tipo stringa, il cui limite inferiore è sempre e solo zero ed il cui limite superiore è 10:
+Questa caratteristica è ben nota a chi sviluppa in C++/C#, poichè in questi linguaggi un array ha sempre base zero e non è permesso definire basi definite dal programmatore.</description>
+    </item>
+    
+    <item>
+      <title>Attributo AllowPartiallyTrustedCallers</title>
+      <link>https://example.org/archive/2006/11/02/attributo-allowpartiallytrustedcallers.aspx</link>
+      <pubDate>Thu, 02 Nov 2006 06:51:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/11/02/attributo-allowpartiallytrustedcallers.aspx</guid>
+      <description>In determinate circostanze, è possibile che una applicazione ASP .NET restituisca un errore del tipo “Configuration Error”, “Required permissions cannot be acquired”. Il testo di questo errore è fuorviante, nel senso che non fornisce alcun dettaglio, ma c’è un motivo ben preciso. Esso si verifica quando un membro pubblico di una classe inserita in un assembly firmato con uno strong name e registrato nella GAC, viene chiamato da codice situato in un assembly che non dispone del permesso “FullTrust”.</description>
+    </item>
+    
+  </channel>
+</rss>

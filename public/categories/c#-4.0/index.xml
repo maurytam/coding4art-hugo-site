@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# 4.0 on My New Hugo Site</title>
+    <link>https://example.org/categories/c#-4.0/</link>
+    <description>Recent content in C# 4.0 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2013 09:38:37 +0000</lastBuildDate><atom:link href="https://example.org/categories/c#-4.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic build of generics types at runtime</title>
+      <link>https://example.org/archive/2013/10/07/dynamic-build-of-generics-types-at-runtime.aspx</link>
+      <pubDate>Mon, 07 Oct 2013 09:38:37 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/10/07/dynamic-build-of-generics-types-at-runtime.aspx</guid>
+      <description>How to create dynamically a type in .Net when it’s only known a string representation of that type, I think it’s an operation known to almost all .Net programmers, but what happened with types with type parameters (or generics) ?
+In .Net is possible to create dynamically both generics with a known type, i.e. List&amp;lt;&amp;gt;, and generics with type in turn dynamically built.
+Here’s an example:
+a) Dynamic generated both type parameter and type</description>
+    </item>
+    
+    <item>
+      <title>C# 4.0 – Parametri opzionali</title>
+      <link>https://example.org/archive/2009/08/17/c-4-0-parametri-opzionali.aspx</link>
+      <pubDate>Mon, 17 Aug 2009 08:27:25 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/08/17/c-4-0-parametri-opzionali.aspx</guid>
+      <description>Leggo che tra le nuove feature di C# 4.0 c’è la possibilità di indicare come opzionali i parametri di un metodo o di un costruttore, in tal caso il parametro viene inizializzato con un valore di default fornito dal programmatore.
+Una cosa di questo tipo:
+che può essere istanziata in entrambi le modalità:
+Nel primo esempio, poichè il parametro “City” è opzionale, viene automaticamente assegnato il valore di default, ovvero stringa vuota in questo caso.</description>
+    </item>
+    
+  </channel>
+</rss>

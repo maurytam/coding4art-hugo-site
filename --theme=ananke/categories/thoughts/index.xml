@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/thoughts/</link>
+    <description>Recent content in Thoughts on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Sep 2010 15:40:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sviluppatore senior chi &amp;egrave; costui ?</title>
+      <link>https://example.org/archive/2010/09/08/sviluppatore-senior-chi-egrave-costui.aspx</link>
+      <pubDate>Wed, 08 Sep 2010 15:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/08/sviluppatore-senior-chi-egrave-costui.aspx</guid>
+      <description>– Colui che lavora sempre sullo stesso progetto da almeno 4 anni, facendo ogni giorno sempre le stesse cose;
+– Colui che usa come DAL il DataSet a go-gò, vantandosi di come lo sa utilizzare bene, non sapendo che forse c’è qualcosa di meglio in giro;
+– Colui che riempie il codice di cast, rendendolo perfettamente funzionante ma praticamente illeggibile ad altri sviluppatori;
+– Colui che usa la tecnica di scrivere chiamate a metodi innestati tra loro, rendendo il codice illegibile;</description>
+    </item>
+    
+    <item>
+      <title>Mini rivisitazione dei progetti a cui ho partecipato</title>
+      <link>https://example.org/archive/2010/07/20/mini-rivisitazione-dei-progetti-a-cui-ho-partecipato.aspx</link>
+      <pubDate>Tue, 20 Jul 2010 16:16:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/20/mini-rivisitazione-dei-progetti-a-cui-ho-partecipato.aspx</guid>
+      <description>Avendo visto negli ultimi anni un bel pò di applicazioni .Net di ogni tipo, avendo partecipato ad un bel pò di progetti e conseguentemente visto una quantità considerevole di righe di codice, di seguito elenco (in ordine sparso) le mie considerazioni sulla qualità media del codice sorgente da me visionato e su cui spesso e volentieri sono intervenuto in prima persona per correzioni e/o nuove funzionalità (leggasi elenco di brutture e/o coding horror):</description>
+    </item>
+    
+    <item>
+      <title>Settore ingegneristico o artigianale ?</title>
+      <link>https://example.org/archive/2010/07/09/settore-ingegneristico-o-artigianale.aspx</link>
+      <pubDate>Fri, 09 Jul 2010 19:06:14 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/09/settore-ingegneristico-o-artigianale.aspx</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quando applicare una metodologia alla cieca è controproducente…</title>
+      <link>https://example.org/archive/2010/06/29/quando-applicare-una-metodologia-alla-cieca-e-controproducente.aspx</link>
+      <pubDate>Tue, 29 Jun 2010 20:54:13 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/06/29/quando-applicare-una-metodologia-alla-cieca-e-controproducente.aspx</guid>
+      <description>Spesso applicare una metodologia per il gusto di farlo, oppure solo perchè si è un profondo sostenitore di una certa tecnica ignorando completamente il contesto in cui si sta operando, può essere più deleterio che non applicarla proprio, e si finisce per avere una attenzione maniacale ai dettagli (che di norma costtuiscono il dogma della metodologia / tecnica che si sostiene), anche ai più insignificanti e più difficili anche solo da notare, e contemporaneamente una completa disattenzione per aspetti molto più evidenti che emergono giorno per giorno, ai quali si finisce poi per non dare il giusto peso.</description>
+    </item>
+    
+    <item>
+      <title>Considerazioni molto personali sul lavoro nel mondo IT</title>
+      <link>https://example.org/archive/2010/04/23/considerazioni-molto-personali-sul-lavoro-nel-mondo-it.aspx</link>
+      <pubDate>Fri, 23 Apr 2010 16:57:32 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/04/23/considerazioni-molto-personali-sul-lavoro-nel-mondo-it.aspx</guid>
+      <description>Negli ultimi tempi sono stato coinvolto in una attività di recruitment mirata a reperire figure professionali nel mondo IT con skill particolarmente elevato, diciamo una figura di senior developer con conoscenze anche in ambito architetturale. Ho accettato con entusiasmo questa attività poichè ero curioso di capire se la preparazione universitaria in ambito informatico fosse sufficientemente in grado di reggere l’impatto con il mondo del lavoro e con la realtà di tutti i giorni (questo ovviamente per i laureati, ma lo stesso discorso può essere applicato anche per chi laureato non è).</description>
+    </item>
+    
+    <item>
+      <title>Visual Basic Tips &amp; Tricks Community Day a Milano</title>
+      <link>https://example.org/archive/2010/03/19/visual-basic-tips-amp-tricks-community-day-a-milano.aspx</link>
+      <pubDate>Fri, 19 Mar 2010 16:04:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/03/19/visual-basic-tips-amp-tricks-community-day-a-milano.aspx</guid>
+      <description>Ieri pomeriggio ho partecipato al Visual Basic Tips &amp;amp; Tricks Community Day tenutosi a Milano.
+Devo dire che è stato un pomeriggio decisamente interessante dal punto di vista tecnologico, permettendomi di focalizzare alcuni concetti su tecnologie che uso o che vorrei usare, e mi riferisco a TFS 2010 ed Entity Framework 4.0
+L’evento si apre con una sessione di Lorenzo Barbieri che parla delle varie versioni di Visual Studio 2010 che saranno disponibili a breve e delle novità, veramente tante, della nuova versione dell’IDE.</description>
+    </item>
+    
+    <item>
+      <title>Anobii, la mia libreria virtuale</title>
+      <link>https://example.org/archive/2010/02/08/anobii-la-mia-libreria-virtuale.aspx</link>
+      <pubDate>Mon, 08 Feb 2010 05:09:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/02/08/anobii-la-mia-libreria-virtuale.aspx</guid>
+      <description>Finalmente ho modo di mettere un pò in ordine la mia libreria, non fisicamente ma almeno virtualmente. Ho infatti creato su Anobii, un social network incentrato totalmente sui libri, la mia libreria virtuale dove piano piano organizzerò per argomento i numerosissimi libri in mio possesso, tecnici e non, onde consentire anche ai più curiosi di darci una sbirciatina per curiosare cosa conservo gelosamente sui miei scaffali.
+Qui è accessibile il mio scaffale virtuale, per il momento ancora molto limitato.</description>
+    </item>
+    
+    <item>
+      <title>Java meglio di .NET ?</title>
+      <link>https://example.org/archive/2010/01/26/java-meglio-di-net.aspx</link>
+      <pubDate>Tue, 26 Jan 2010 03:28:50 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/01/26/java-meglio-di-net.aspx</guid>
+      <description>Il titolo di questo post è volutamente ironico, ed affronta un argomento all’ordine del giorno in ogni ambiente di lavoro e/o community in cui si ha a che fare con le tecnologia legate al mondo del software.
+In questi ambienti capita spesso infatti di sentire o di partecipare a discussioni circa il fatto che quella o quell’altra tecnologia prevale a parità di contesto di utilizzo, es. Java è meglio di .</description>
+    </item>
+    
+    <item>
+      <title>Piccolo sfogo…</title>
+      <link>https://example.org/archive/2009/07/15/piccolo-sfogo.aspx</link>
+      <pubDate>Wed, 15 Jul 2009 06:56:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/07/15/piccolo-sfogo.aspx</guid>
+      <description>Una pensiero che spesso mi viene in mente guardando il codice sorgente è: ma perchè scrivere in 10 righe di codice quello che potrebbe essere scritto in una o due righe ?</description>
+    </item>
+    
+    <item>
+      <title>Le direttive using devono essere poste all’interno del namespace</title>
+      <link>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</link>
+      <pubDate>Tue, 22 Jul 2008 08:59:42 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</guid>
+      <description>Questo post inizia con una frase tratta da un post di Scott Hanselmann con cui mi trovo completamente d’accordo:
+Credo sia proprio vero, mai fidarsi ciecamente di quello che si legge in giro, soprattutto quando seri dubbi farebbero pensare il contrario.
+Il motivo è presto detto: utilizzo normalmente FxCop come strumento di analisi del codice sorgente, lo trovo molto completo e ben fatto. Spinto dalla curiosità ho voluto utilizzare Source Analysis, un tool gratuito fornito da Microsoft ed integrato nell’IDE di Visual Studio.</description>
+    </item>
+    
+    <item>
+      <title>Tecnologia in evoluzione ed il suo utilizzo</title>
+      <link>https://example.org/archive/2008/04/01/tecnologia-in-evoluzione-ed-il-suo-utilizzo.aspx</link>
+      <pubDate>Tue, 01 Apr 2008 04:27:51 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/01/tecnologia-in-evoluzione-ed-il-suo-utilizzo.aspx</guid>
+      <description>In questi giorni mi è capitato frequentemente di leggere su blogs e forum vari commenti entusiastici sull’adozione delle ultime tecnologie appena sfornate – parlo di Silverlight, Ajax e LINQ, le quali hanno ormai preso prepotentemente piede nello sviluppo di applicazioni. Premesso che utilizzo anch’io sia Ajax che LINQ, ritengo che il tutto debba essere calato nel contesto opportuno di utilizzo, senza lasciarsi prendere troppo dall’entusiasmo come invece vedo che accade. Può sembrare scontato ma la realtà è ben diversa.</description>
+    </item>
+    
+    <item>
+      <title>Ugialt.net</title>
+      <link>https://example.org/archive/2007/10/31/ugialt-net.aspx</link>
+      <pubDate>Wed, 31 Oct 2007 12:36:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/10/31/ugialt-net.aspx</guid>
+      <description>Prendo a prestito delle parole di Antonio Carpentieri per descrivere il perchè ho aderito con entusiasmo all’iniziativa ugialt.net:
+“…..Ha un mix di agile + object-orientation + patterns + TDD + DDD. Perchè per ognuno dei punti di cui sopra esistono degli strumenti che permettono di applicarli in .net, perchè li USO, perchè spesso ho dei dubbi, delle perplessità ma nonostante queste effettuo delle scelte sia di design, che di processo e VOGLIO informarmi su come altri stanno lavorando, fanno evolvere i pattern di design o del processo perchè cerco il modo migliore di comunicare e motivare delle scelte tecniche che agli occhi di un manager che vede solo “the microsoft way” possono risultare solo le scelte di un geek… ecco, io mi sento a casa in mezzo a persone che hanno questo spirito.</description>
+    </item>
+    
+    <item>
+      <title>I want to be a developer</title>
+      <link>https://example.org/archive/2007/07/15/i-want-to-be-a-developer.aspx</link>
+      <pubDate>Sun, 15 Jul 2007 11:09:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/07/15/i-want-to-be-a-developer.aspx</guid>
+      <description>Chi svolge l’attività di consulente informatico, magari con mansioni di senior developer o affini, potrebbe a volte trovarsi nella condizione di vedersi offerta una attività di più alto livello rispetto al “semplice” sviluppatore, es. team leader, analista funzionale e via dicendo. Normalmente questa nuova attività porta inevitabilmente ad un progressivo allontanamento da quelli che sono gli aspetti tecnici più spinti, per concentrarsi maggiormente sul coordinamento di persone e/o attività. Questa tendenza è più accentuata in coloro che hanno maturato anni di esperienza nell’applicare sul campo la tecnologia appresa sui libri, e che arrivano ad un bel momento in cui si stancano di rincorrerre le nuove tecnologie, e preferiscono consolidare e mettere a disposizione la propria esperienza a favore di gente più giovane è più fortemente motivata a crescere.</description>
+    </item>
+    
+    <item>
+      <title>Considerazioni molto personali sui blog ed i loro utilizzo</title>
+      <link>https://example.org/archive/2007/03/01/considerazioni-molto-personali-sui-blog-ed-i-loro-utilizzo.aspx</link>
+      <pubDate>Thu, 01 Mar 2007 19:30:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/03/01/considerazioni-molto-personali-sui-blog-ed-i-loro-utilizzo.aspx</guid>
+      <description>Questo post è da un pò di tempo che mi frullava per la testa. Riguarda l’utilizzo del proprio blog, o meglio di cosa scrivere e soprattutto non scrivere. L’occasione di decidermi (ma soprattutto di trovatre il tempo) finalmente a postare su questo argomento l’ho avuta leggendo la recentissima diatriba scatenatasi su ugidotnet sul corretto utilizzo del proprio blog nel contronti dell’aggregatore, ovvero del muro. Premesso che il blog di ugidotnet è quello che leggo più spesso e più volentieri, insieme ai blogs di Devleap, perchè trovo interessanti i diari dei rispettivi blogger.</description>
+    </item>
+    
+    <item>
+      <title>Taggato !!</title>
+      <link>https://example.org/archive/2007/01/05/taggato.aspx</link>
+      <pubDate>Fri, 05 Jan 2007 05:38:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/01/05/taggato.aspx</guid>
+      <description>Speravo di farla franca ma l’amico Mighell ha pensato bene di taggarmi ! Quindi adesso tocca a me: ecco le 5 cose che pochissime persone (forse nessuna…) conosce di me:
+Ho tante passioni che non riesco a vivere come vorrei causa mancanza di tempo (chiamateli hobby….) e sono, in ordine sparso: astronomia, astrofisica, fisica quantistica, scacchi (il mio sogno è stato sempre battermi con l”International Woman Grandmaster Alexandra Kosteniuk, senza però che pensate a male ), tecnologia in generale.</description>
+    </item>
+    
+    <item>
+      <title>BizTalk o Workflow Foundation ?</title>
+      <link>https://example.org/archive/2006/10/13/biztalk-o-workflow-foundation.aspx</link>
+      <pubDate>Fri, 13 Oct 2006 07:20:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/13/biztalk-o-workflow-foundation.aspx</guid>
+      <description>Mi è capitato spesso di assistere a dialoghi tecnici del tipo: ‘ma conviene usare Workflow Foundation oppure BizTalk per quel particolare progetto ?’. A prima vista questi 2 prodotti sembra che si sovrappongano; infatti, semplificando parecchio, ambedue forniscono funzionalità per costruire un processo basato su workflow. Ma è solo una impressione poichè sono profondamente diversi. Un utilissima check-list che aiuta a capire quale strumento si adatta meglio allo specifico progetto è disponibile attraverso questo post di Irena Kennedy.</description>
+    </item>
+    
+    <item>
+      <title>Da VB6 a VB.NET ….</title>
+      <link>https://example.org/archive/2006/03/10/da-vb6-a-vb-net.aspx</link>
+      <pubDate>Fri, 10 Mar 2006 07:10:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/03/10/da-vb6-a-vb-net.aspx</guid>
+      <description>Premessa:
+ho iniziato a programmare seriamente (per lavoro) utilizzando il linguaggio Visual Basic; ho utilizzato questo linguaggio per parecchi anni nelle varie versioni che via via si sono succedute (3.0, 4.0, 5.0, 6.0). Su questo linguaggio ho investito parecchio tempo sia per apprenderlo che per approfondirlo, ricevendo un enorme aiuto dalle community quali Visual Basic Tips &amp;amp; Tricks, solo per citarne una. Ho anche investito del denaro, in quanto i primi esami di certificazione Microsoft che ho passato riguardavano VB6 Desktop &amp;amp; Enterprise, comprandomi libri sull’argomento e pagandomi i test di tasca mia.</description>
+    </item>
+    
+    <item>
+      <title>xplayn.org sponsorizza la DevCon2006</title>
+      <link>https://example.org/archive/2006/02/27/xplayn-org-sponsorizza-la-devcon2006.aspx</link>
+      <pubDate>Mon, 27 Feb 2006 17:36:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/02/27/xplayn-org-sponsorizza-la-devcon2006.aspx</guid>
+      <description>Con grande piacere mio e degli amici di xplan.org siamo tra gli sponsor della DevLeap Conference 2006, un evento annuale organizzato da DevLeap e dedicato agli approfondimenti delle nuove tecnologie legate al mondo degli sviluppatori.
+Ho sempre apprezzato DevLeap per i contenuti tecnici di altissimo livello che è possibile consultare attraverso il loro sito, pieno zeppo di articoli tecnici di approfondimento, adatti quindi a lettori in possesso di una certa esperienza della tecnologia e non già alle prime armi.</description>
+    </item>
+    
+  </channel>
+</rss>

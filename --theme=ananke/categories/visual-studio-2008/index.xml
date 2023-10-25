@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Studio 2008 on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/visual-studio-2008/</link>
+    <description>Recent content in Visual Studio 2008 on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2009 05:56:52 +0000</lastBuildDate><atom:link href="https://example.org/categories/visual-studio-2008/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rilevare codice duplicato</title>
+      <link>https://example.org/archive/2009/03/06/rilevare-codice-duplicato.aspx</link>
+      <pubDate>Fri, 06 Mar 2009 05:56:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/03/06/rilevare-codice-duplicato.aspx</guid>
+      <description>Clone Detective for Visual Studio è una integrazione dell’ambiente Visual Studio (completamente free) in gradi di rilevare porzioni di codice duplicato tra i vari progetti che compongono una solution. Il fine è ambizioso, poichè come dice la stessa presentazione del prodotto presente su CodePlex
+“Having duplicates can easily lead to inconsistencies and often is an indicator for poorly factored code”
+Un componente del genere può davvero essere utilissimo, anche oltre lo scopo che si prefigge.</description>
+    </item>
+    
+    <item>
+      <title>Snippet Code</title>
+      <link>https://example.org/archive/2009/01/22/snippet-code.aspx</link>
+      <pubDate>Thu, 22 Jan 2009 06:13:51 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/01/22/snippet-code.aspx</guid>
+      <description>Gli Snippet Code possono davvero far risparmiare tempo di sviluppo, soprattutto su operazioni ripetitive. Visual Studio, come è noto, fornisce un add-in per la gestione degli stessi su PC, e codificati in un file xml. Chi come me non usa sempre lo stesso PC per lavorare è costretto a sincronizzare gli snippet code su tutti i PC su cui sviluppa, operazione molto noiosa e anche molto soggetta ad errori. Sarebbe comodo in questi casi non avere il repository in locale, ma averli centralizzati all’esterno.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2008 Tip #1</title>
+      <link>https://example.org/archive/2008/12/17/visual-studio-2008-tip-1.aspx</link>
+      <pubDate>Wed, 17 Dec 2008 13:32:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/12/17/visual-studio-2008-tip-1.aspx</guid>
+      <description>In Visual Studio 2008 la pressione del tasto F12 rappresenta la scorciatoia da tastiera del comando Edit.GoToDefinition, che, come è noto, permette di “saltare” direttamente alla dichiarazione del simbolo selezionato nel codice. Non è però cosi evidente che il simbolo selezionato potrebbe anche risiedere nella pagina aspx. Ad esempio, se selezioniamo la classe CSS associata ad un controllo in una pagina aspx, o se semplicemente posizioniamo il puntatore del mouse all’interno della stringa della classe CSS, alla pressione del tasto F12 verrà automaticamente aperto il file CSS contentente la definizione del simbolo selezionato e verrà interamente evidenziata la classe stessa con tutti gli attributi grafici associati,</description>
+    </item>
+    
+    <item>
+      <title>Visual studio ide crash #2</title>
+      <link>https://example.org/archive/2008/12/09/visual-studio-ide-crash-2.aspx</link>
+      <pubDate>Tue, 09 Dec 2008 06:44:28 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/12/09/visual-studio-ide-crash-2.aspx</guid>
+      <description>Avevo già parlato qui (post immediatamente sotto :-)) di uno strano crash di Visual Studio 2008 SP1, a seguito dell’esecuzione comando “Choose items” della toolbox.
+Il problema sembrava essere dovuto alla presenza dei PowerCommands e di una loro presunta incompatibilità con il Service Pack 1. Infatti per poter tornare alla “normalità” era necessario un’azione estrema, ovvero rimuovere i PowerCommands, ed a quel punto il problema spariva.
+Oggi scopro che attraverso un assemply redirection nel file di configurazione di Visual Studio (devenv.</description>
+    </item>
+    
+    <item>
+      <title>Visual studio 2008 ide crash dopo &#34;Choose items&#34; dalla toolbox</title>
+      <link>https://example.org/archive/2008/09/04/visual-studio-2008-ide-crash-dopo-quot-choose-items-quot.aspx</link>
+      <pubDate>Thu, 04 Sep 2008 15:54:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/09/04/visual-studio-2008-ide-crash-dopo-quot-choose-items-quot.aspx</guid>
+      <description>Qualche giorno fa mi sono imbattuto in uno strano crash di Visual Studio 2008, dopo aver installato il Service Pack 1, vale a dire che il comando “Choose items” della toolbox era capace di mandare in crash l’intero IDE, scrivendo un laconico messaggio nell’Event viewer, del tipo
+NET Runtime version 2.0.50727.3053 – Fatal Execution Engine Error (7A035E00) (80131506)
+di nessuna utilità per la risoluzione del problema, senza possibilità di scampo quindi.</description>
+    </item>
+    
+    <item>
+      <title>Mole, visualizer integrato per visual studio</title>
+      <link>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</link>
+      <pubDate>Thu, 31 Jul 2008 08:25:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</guid>
+      <description>Segnalo un gran bel Visualizer per Visual Studio 2005/2008. Trattasi di Mole v.4.2, un visualizer in grado di funzionare con diversi oggetti di diverse tipologie di progetto, che comprendono WinForms, WPF, WCF, WF, ASP.NET, XBAP. Io lo trovo molto utile soprattutto per progetti WCF, WPF, dove gli oggetti con cui si ha a che fare sono abbastanza complessi e strutturati. Uno strumento del genere, molto ben fatto e performante, può far risparmiare diversi “mal di testa” quando si effettua il debugging di progetti di questo tipo.</description>
+    </item>
+    
+    <item>
+      <title>Impossibile aggiungere una service reference in visual studio 2008</title>
+      <link>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</link>
+      <pubDate>Mon, 28 Jul 2008 10:03:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</guid>
+      <description>Questo workaround spero sia utile a chi si è trovato nella stessa mia situazione, e cioè che improvvisamente Visual Studio 2008 si rifiuta di aggiungere una Service Reference ad un servizio WCF, dando questo errore:
+The components required to enumerate web references are not installed on this computer. Please re-install Visual studio. Ho poi scoperto che il problema si presentava anche aggiungendo semplici web reference (ASP .NET web services) a progetti creati con Visual Studio 2005.</description>
+    </item>
+    
+    <item>
+      <title>Le direttive using devono essere poste all’interno del namespace</title>
+      <link>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</link>
+      <pubDate>Tue, 22 Jul 2008 08:59:42 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</guid>
+      <description>Questo post inizia con una frase tratta da un post di Scott Hanselmann con cui mi trovo completamente d’accordo:
+Credo sia proprio vero, mai fidarsi ciecamente di quello che si legge in giro, soprattutto quando seri dubbi farebbero pensare il contrario.
+Il motivo è presto detto: utilizzo normalmente FxCop come strumento di analisi del codice sorgente, lo trovo molto completo e ben fatto. Spinto dalla curiosità ho voluto utilizzare Source Analysis, un tool gratuito fornito da Microsoft ed integrato nell’IDE di Visual Studio.</description>
+    </item>
+    
+    <item>
+      <title>Automatic properties in c# 3.0</title>
+      <link>https://example.org/archive/2008/07/20/automatic-properties-in-c-3-0.aspx</link>
+      <pubDate>Sun, 20 Jul 2008 15:27:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/20/automatic-properties-in-c-3-0.aspx</guid>
+      <description>Utilizzando C# 3.0 è possibile scrivere le proprietà di una classe in modo estremamente compatto, in questo modo:
+Questa modalità, chiamata “Automatic properties” permette quindi di omettere il riferimento al membro privato che normalmente viene “wrappato” dalla proprietà stessa.
+Sarà compito del compilatore autogenerare al volo il membro privato al momento della compilazione. Questa caratteristica impone che il codice della classe non può in nessun modo accedere alla variabile privata, appunto perchè al momento della stesura del codice essa non esiste ancora in quanto sarà autogenerata in fase di compilazione.</description>
+    </item>
+    
+    <item>
+      <title>101 LINQ Samples</title>
+      <link>https://example.org/archive/2008/04/23/101-linq-samples.aspx</link>
+      <pubDate>Wed, 23 Apr 2008 10:51:53 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/23/101-linq-samples.aspx</guid>
+      <description>Se lavorate con LINQ, questa pagina è utile averla sempre a portata di mouse. 101 LINQ Samples</description>
+    </item>
+    
+    <item>
+      <title>Problemi di performance in Visual Studio 2008</title>
+      <link>https://example.org/archive/2008/04/18/problemi-di-performance-in-visual-studio-2008.aspx</link>
+      <pubDate>Fri, 18 Apr 2008 04:33:01 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/18/problemi-di-performance-in-visual-studio-2008.aspx</guid>
+      <description>Ero praticamente certo che sarebbe uscita la hotfix giusta per me riguardante Visual Studio 2008.
+Negli ultimi tempi ho sperimentato in prima persona rallentamenti eccessivi e chiaramente molto fastidiosi nell’utilizzo di alcune funzionalità dell’IDE e precisamente:
+Passando alla vista Design di una Web Form; Passando alla vista Html Source di una Web Form; Compilando un progetto web di grosse dimensioni; Oggi ho scoperto che da pochissimo tempo è disponibile una hotfix che risolve tutti e tre i problemi sopradescritti.</description>
+    </item>
+    
+    <item>
+      <title>Oracle Data Provider for .NET</title>
+      <link>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</guid>
+      <description>Negli ultimi tempi mi è capitato spesso di lavorare su applicazioni che utilizzano Oracle come database piuttosto che Sql Server e, naturalmente, ho dovuto utilizzare nello strato di accesso ai dati le classi specifiche di Oracle, meglio note come Oracle Data Provider for .NET. Utilizzare queste classi significa avere a che fare con oggetti tipici di Oracle, es. gli Oracle data type, o i cursori utilizzati per contenere i resultset derivanti da una chiamata ad una store procedure, ecc.</description>
+    </item>
+    
+    <item>
+      <title>Messaggio di errore Ambiguous match found e httpParseException</title>
+      <link>https://example.org/archive/2008/03/17/messaggio-di-errore-ambiguous-match-found-e-httpparseexception.aspx</link>
+      <pubDate>Mon, 17 Mar 2008 08:58:15 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/03/17/messaggio-di-errore-ambiguous-match-found-e-httpparseexception.aspx</guid>
+      <description>Scenario: web application che utilizza la versione 1.1 di ASP .NET migrata direttamente alla versione 3.5. Dopo la migrazione su una delle pagine ASPX viene sollevato una HttpParseException durante il caricamento della stessa. L’eccezione in questione, come si evince dal nome, viene generata dal runtime di ASP .NET quando il parsing di una pagina ASPX fallisce a runtime. Il messaggio di errore recita “Ambiguous match found”, e quindi non aiuta granchè.</description>
+    </item>
+    
+    <item>
+      <title>Sottili differenze tra C# e VB .NET #Part 2#</title>
+      <link>https://example.org/archive/2008/02/26/sottili-differenze-tra-c-e-vb-net-part-2.aspx</link>
+      <pubDate>Tue, 26 Feb 2008 07:24:58 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/26/sottili-differenze-tra-c-e-vb-net-part-2.aspx</guid>
+      <description>Questa informazione me la annoto perchè sicuramente utile. Avevo già parlato precedentemente delle sottili e a volte subdole differenze esistenti tra il linguaggio VB .NET e C#, differenze che possono anche riguardare il comportamento di Visual Studio, quindi non strettamente legate a costrutti di programmazione o alla semplice sintassi.
+Questa differenza però mi sorprende parecchio e non riesco a comprenderne a fondo il motivo. Presto detto: se si utilizza l’incremento automatico nel numero di versione in un assembly (per intenderci quando impostiamo questa riga</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2008 non supporta .NET 1.0/1.1</title>
+      <link>https://example.org/archive/2007/07/18/visual-studio-2008-non-supporta-net-1-01-1.aspx</link>
+      <pubDate>Wed, 18 Jul 2007 12:53:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/07/18/visual-studio-2008-non-supporta-net-1-01-1.aspx</guid>
+      <description>Leggo con un certo disappunto dal blog di Irena Kennedy (uno dei miei preferiti, soprattutto per i suoi posts SYSK) che la prossima release di Visual Studio supporterà più versioni del .NET Framework, in modo da avere un unico ambiente di sviluppo installato (questo pensavo io). In realtà le versioni supportate del .NET Framework partono dalla 2.0, quindi 2.0, 3.0, 3.5. Quindi, in pratica, per gestire anche progetti scritti per .</description>
+    </item>
+    
+  </channel>
+</rss>

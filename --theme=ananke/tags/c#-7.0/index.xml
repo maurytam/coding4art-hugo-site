@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# 7.0 on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/tags/c#-7.0/</link>
+    <description>Recent content in C# 7.0 on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2017 21:57:43 +0000</lastBuildDate><atom:link href="https://example.org/tags/c#-7.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C# 7.0 – #7. An improved expression body feature</title>
+      <link>https://example.org/archive/2017/01/19/c-7-0-7-an-improved-expression-body-feature.aspx</link>
+      <pubDate>Thu, 19 Jan 2017 21:57:43 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2017/01/19/c-7-0-7-an-improved-expression-body-feature.aspx</guid>
+      <description>In C# 6.0 a read-only property like this:
+can be rewritten in a more compact way:
+This feature is called “expression body”, but it has some limitations, e.g. the property is turned into field, it only works with read-only properties and not with constructors, deconstructor, getter, setter and so on.
+C# 7.0 add all these constructs and then expands the usage of this feature.
+Here’s an example, which was taken “as is” from the .</description>
+    </item>
+    
+    <item>
+      <title>C# 7.0 – #6. Usage expanded for statement  “throw”</title>
+      <link>https://example.org/archive/2017/01/18/c-7-0-6-usage-expanded-for-statement-throw.aspx</link>
+      <pubDate>Wed, 18 Jan 2017 22:16:49 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2017/01/18/c-7-0-6-usage-expanded-for-statement-throw.aspx</guid>
+      <description>Until C# 6.0 the “throw” keyword must be used only as a standalone statement, that is it cannot be part of an expression. C# 7.0 overcomes this limitation, and then allows this keyword to be placed everywhere, e.g. in the middle of a ternary operator:</description>
+    </item>
+    
+    <item>
+      <title>C# 7.0 – #5. reference return function</title>
+      <link>https://example.org/archive/2017/01/17/c-7-0-5-reference-return-function.aspx</link>
+      <pubDate>Tue, 17 Jan 2017 21:35:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2017/01/17/c-7-0-5-reference-return-function.aspx</guid>
+      <description>In addition to function input parameters, which can be passed by value (default) or by reference (with the keyword ref), in C# 7.0 the value return function can also be returned by reference with the same keyword; furthermore it can be stored in a local variable by reference; this local variable stores the memory address of the data and not the value, and then modifiyng this variable means that every variable that points at the same address would be modified too.</description>
+    </item>
+    
+    <item>
+      <title>C# 7.0 – #3. New Tuple value type</title>
+      <link>https://example.org/archive/2016/12/19/c-7-0-3-new-tuple-value-type.aspx</link>
+      <pubDate>Mon, 19 Dec 2016 20:16:21 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2016/12/19/c-7-0-3-new-tuple-value-type.aspx</guid>
+      <description>First of all, at least for C# 7.0 included in Visual Studio 2017 RC, it needs to download the System.ValueTuple Nuget Package, providing the System.ValueTuple structs, which implement the underlying types for C# 7 tuples.
+In C# 6.0 after invoking an appropriate Tuple object constructor, the object magically contains a series of properties named Item1, Item2 and so on, one for each type parameter.
+There wasn’t an easy way to rename the property names with most significant one.</description>
+    </item>
+    
+    <item>
+      <title>C# 7.0 – #2. Numbers code readability</title>
+      <link>https://example.org/archive/2016/12/16/c-7-0-2-numbers-code-readability.aspx</link>
+      <pubDate>Fri, 16 Dec 2016 20:32:50 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2016/12/16/c-7-0-2-numbers-code-readability.aspx</guid>
+      <description>These are some minor but nice improvements regarding numbers code readability:
+Now it is possible to write digit separator of number literals:
+The digit separator is the “_” character, like in Java language, isn’t it ?
+This is mostly useful for large numbers.
+The separator is ignored by the compiler; it’s just used to improve the numbers readability, and it can be placed anywhere inside the number, but only inside, not at beginning or at the end for instance:</description>
+    </item>
+    
+  </channel>
+</rss>

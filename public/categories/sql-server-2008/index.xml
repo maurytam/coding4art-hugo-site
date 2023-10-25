@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Server 2008 on My New Hugo Site</title>
+    <link>https://example.org/categories/sql-server-2008/</link>
+    <description>Recent content in SQL Server 2008 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jan 2013 15:01:06 +0000</lastBuildDate><atom:link href="https://example.org/categories/sql-server-2008/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HeidiSQL – Free portable client for Sql server and MySql</title>
+      <link>https://example.org/archive/2013/01/29/heidisql-free-portable-client-for-sql-server-and-mysql.aspx</link>
+      <pubDate>Tue, 29 Jan 2013 15:01:06 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/01/29/heidisql-free-portable-client-for-sql-server-and-mysql.aspx</guid>
+      <description>Free portable client for Sql server and MySql.
+This is the software I always needed!
+Features:
+Free for everyone, OpenSource. Connect to multiple servers in one window Connect to servers via commandline Connect via SSH tunnel, or pass SSL settings Create and edit tables, views, stored routines, triggers and scheduled events. Generate nice SQL-exports Export from one server/database directly to another server/database Manage user-privileges Import text-files Export table rows as CSV, HTML, XML, SQL, LaTeX, Wiki Markup and PHP Array Browse and edit table-data using a comfortable grid Bulk edit tables (move to db, change engine, collation etc.</description>
+    </item>
+    
+    <item>
+      <title>SQLBits -Londra, 13 settembre 2008</title>
+      <link>https://example.org/archive/2008/09/01/sqbbits-londra-13-settembre-2008.aspx</link>
+      <pubDate>Mon, 01 Sep 2008 16:08:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/09/01/sqbbits-londra-13-settembre-2008.aspx</guid>
+      <description>Il prossimo 13 settembre parteciperò ad una conferenza internazionale, precisamente la SQLBits, dedicata ai professionisti di Sql Server, in quel di Londra.
+Se qualche sqlellaro vuole accodarsi non ha che da contattarmi.</description>
+    </item>
+    
+  </channel>
+</rss>

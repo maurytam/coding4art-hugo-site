@@ -1,0 +1,11 @@
+---
+title: File "refresh" e compilazione lenta in Visual Studio 2005
+author: mtammacco
+type: post
+date: 2006-10-24T10:52:00+00:00
+url: /archive/2006/10/24/file-quotrefreshquot-e-compilazione-lenta-in-visual-studio-2005.aspx
+categories:
+  - Visual Studio 2005
+
+---
+Aggiungendo una semplice reference binaria ad un progetto in VS 2005 (es. un Web Site Project), vale a dire selezionando direttamente una class library (file *.dll) da Add Reference\Browse, viene automaticamente creato nella directory bin del progetto un file con lo stesso nome del componente (la dll) e l&#8217;estensione refresh, es. mydll.refresh se aggiungo la reference mydll.dll. Questo è un semplice file di testo; infatti aprendolo con Notepad è possibile leggerne il contenuto, ovvero il path relativo in cui è contenuta la dll che abbiamo referenziato. A cosa serve esattamente questo file ? Serve a tener aggiornata la bin del progetto con l&#8217;ultima versione della dll disponibile al path indicato. Infatti, ad ogni compilazione VS verifica che al percorso indicato nel file refresh non sia disponibile una versione più aggiornata della dll, e, in caso affermativo, la copia nella directory bin del progetto, sollevando lo sviluppatore dall&#8217;onere di copiare manualmente la dll referenziata E&#8217; possibile che più progetti nella stessa solution referenzino la stessa dll (ad es. una dll condivisa della ns. applicazione). In questo caso, è necessario assicurarsi che la dll referenziata dai vari progetti (la dll shared) abbia lo stesso numero di versione in tutti i punti in cui è referenziata. In caso negativo, VS &#8220;perderà tempo&#8221; durante la compilazione assumendo che della stessa dll sia disponibile una versione più aggiornata, provocando un notevole rallentamento della compilazione; per intenderci, può trascorrere anche qualche minuto prima che i risultati della compilazione inizino ad apparire nella finestra Output. Per maggior approfondimento è utile questo dettagliatissimo <a title="" href="http://weblogs.asp.net/scottgu/archive/2006/07/30/Common-Gotcha_3A00_-Slow-VS-2005-Web-Site-Build-Performance-Because-of-_1C20_Dueling-Assembly-References_1D20_.aspx" target="" name="" rel="noopener">post</a> di <a title="" href="http://weblogs.asp.net/scottgu" target="" name="" rel="noopener">ScottGu</a>

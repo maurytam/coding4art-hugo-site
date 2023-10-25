@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# e VB .NET in comparison on My New Hugo Site</title>
+    <link>https://example.org/categories/c#-e-vb-.net-in-comparison/</link>
+    <description>Recent content in C# e VB .NET in comparison on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Feb 2008 07:24:58 +0000</lastBuildDate><atom:link href="https://example.org/categories/c#-e-vb-.net-in-comparison/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sottili differenze tra C# e VB .NET #Part 2#</title>
+      <link>https://example.org/archive/2008/02/26/sottili-differenze-tra-c-e-vb-net-part-2.aspx</link>
+      <pubDate>Tue, 26 Feb 2008 07:24:58 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/26/sottili-differenze-tra-c-e-vb-net-part-2.aspx</guid>
+      <description>Questa informazione me la annoto perchè sicuramente utile. Avevo già parlato precedentemente delle sottili e a volte subdole differenze esistenti tra il linguaggio VB .NET e C#, differenze che possono anche riguardare il comportamento di Visual Studio, quindi non strettamente legate a costrutti di programmazione o alla semplice sintassi.
+Questa differenza però mi sorprende parecchio e non riesco a comprenderne a fondo il motivo. Presto detto: se si utilizza l’incremento automatico nel numero di versione in un assembly (per intenderci quando impostiamo questa riga</description>
+    </item>
+    
+    <item>
+      <title>Inconsistenza operatori di confronto dei Nullable Types in C#</title>
+      <link>https://example.org/archive/2007/10/14/inconsistenza-operatori-di-confronto-dei-nullable-types-in-c.aspx</link>
+      <pubDate>Sun, 14 Oct 2007 14:23:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/10/14/inconsistenza-operatori-di-confronto-dei-nullable-types-in-c.aspx</guid>
+      <description>Il linguaggio C# offre un supporto decisamente migliore dei Nullable Types rispetto a VB .NET. Nonostante ciò, utilizzando gli operatori di confronto su un tipo Nullable, es. un intero, il risultato è a dir poco strano e può dar luogo a bug piuttosto subdoli.
+Infatti, eseguendo il seguente codice:
+l’uguaglianza dei due tipi nullable con entrambe le variabili impostate a null dà come risultato “true”, mentre l’operatore di disuguaglianza sulle stesse variabili produce come risultato “false”.</description>
+    </item>
+    
+  </channel>
+</rss>

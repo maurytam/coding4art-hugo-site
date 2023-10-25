@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql Server 2005 on My New Hugo Site</title>
+    <link>https://example.org/categories/sql-server-2005/</link>
+    <description>Recent content in Sql Server 2005 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2008 10:00:37 +0000</lastBuildDate><atom:link href="https://example.org/categories/sql-server-2005/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oracle Data Provider for .NET</title>
+      <link>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</link>
+      <pubDate>Thu, 17 Apr 2008 10:00:37 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/17/oracle-data-provider-for-net.aspx</guid>
+      <description>Negli ultimi tempi mi è capitato spesso di lavorare su applicazioni che utilizzano Oracle come database piuttosto che Sql Server e, naturalmente, ho dovuto utilizzare nello strato di accesso ai dati le classi specifiche di Oracle, meglio note come Oracle Data Provider for .NET. Utilizzare queste classi significa avere a che fare con oggetti tipici di Oracle, es. gli Oracle data type, o i cursori utilizzati per contenere i resultset derivanti da una chiamata ad una store procedure, ecc.</description>
+    </item>
+    
+    <item>
+      <title>Failed to open a table in Sql Profiler</title>
+      <link>https://example.org/archive/2006/11/18/failed-to-open-a-table-in-sql-profiler.aspx</link>
+      <pubDate>Sat, 18 Nov 2006 08:13:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/11/18/failed-to-open-a-table-in-sql-profiler.aspx</guid>
+      <description>Applicare un service pack è una operazione che andrebbe meditata un pò, almeno andrebbe fatta dopo aver letto quali sono le fix apportate e quali sono gli eventuali impatti. A volte un però l’applicazione di un service pack provoca che una qualche funzionalità smette di ….funzionare. A parte gli scherzi, applicando il service pack 4 a Sql Server 2000 diventa impossibile aprire un trace table con Sql Profiler a causa del seguente errore bloccante:</description>
+    </item>
+    
+    <item>
+      <title>xp_cmdshell, appunti di utilizzo</title>
+      <link>https://example.org/archive/2006/10/20/xp_cmdshell-appunti-di-utilizzo.aspx</link>
+      <pubDate>Fri, 20 Oct 2006 10:33:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/20/xp_cmdshell-appunti-di-utilizzo.aspx</guid>
+      <description>Non è un semplice tip, infatti sottintende parecchio di più. Sto parlando di come impedire ad una istanza di Sql Server di avviarsi utilizzando…..sql stesso, reperibile sul sito della community .netSide, e scritto da Francesco Quaratino, disponibile qui Per quanto possa sembrare a prima vista strano voler impedire ad una istanza di Sql di avviarsi, ritengo tuttavia plausibile uno scenario reale in cui questa situazione possa verificarsi. Ad esempio, potremmo utilizzare una istanza di Sql solo per motivi amministrativi, e quindi solo un DBA può usufruire del servizio, ma è comunque necessario garantire agli utenti un accesso amministrativo al PC per altri motivi; infatti, in questo scenario è necessario assicurarsi che l’utente amministratore, ma non DBA, non possa avviare l’istanza.</description>
+    </item>
+    
+    <item>
+      <title>Data Scripter per Sql Server 2005</title>
+      <link>https://example.org/archive/2006/07/28/data-scripter-per-sql-server-2005.aspx</link>
+      <pubDate>Fri, 28 Jul 2006 09:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/07/28/data-scripter-per-sql-server-2005.aspx</guid>
+      <description>Scripting dei dati di una tabella di Sql Server 2005 mediante generazione automatica di istruzioni di insert. Questa funzionalità avrebbero a mio avviso dovuto includerla almeno già da un paio di versioni poichè in alcuni casi risulta davvero utile. Anzi, ricordo che durante consulenze passate qualche collega particolarmente devoto a Oracle trovava motivo di denigrare il dbengine di Microsoft a favore di Oracle solo perchè questa funzionalità era assente. Da quell’immenso repository di codice e documentazione che va sotto il nome di Code Project è possibile scaricare questo add-in per Sql Server 2005 Management Studio, che mette a disposizione una nuova voce di menù contestuale sull’item di una qualsiasi tabella permettendo di generare automaticamente le istruzioni di insert per tutte le righe o per un sottoinsieme di esse.</description>
+    </item>
+    
+  </channel>
+</rss>

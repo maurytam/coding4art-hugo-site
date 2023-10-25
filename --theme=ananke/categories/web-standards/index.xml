@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web standards on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/web-standards/</link>
+    <description>Recent content in Web standards on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2011 15:03:20 +0000</lastBuildDate><atom:link href="https://example.org/categories/web-standards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet Explorer 7 and 8 will download stylesheets twice if the http(s) protocol is missing</title>
+      <link>https://example.org/archive/2011/11/04/internet-explorer-7-and-8-will-download-stylesheets-twice-if.aspx</link>
+      <pubDate>Fri, 04 Nov 2011 15:03:20 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/11/04/internet-explorer-7-and-8-will-download-stylesheets-twice-if.aspx</guid>
+      <description>This is hard to believe, but is true:
+Internet Explorer 7 &amp;amp; 8 will download stylesheets twice if the http(s) protocol is missing.
+If you have a page with mixed protocol url request (i.e. a https page with tags “link” or “script” with http links), Internet Explorer displays a security warning.
+This is a security warning which alerts the user that a web page requested by a security connection (https) contains web request using a non secure connection (http) as well.</description>
+    </item>
+    
+    <item>
+      <title>ASP .NET 2.0 e gli standard web</title>
+      <link>https://example.org/archive/2006/02/24/asp-net-2-0-e-gli-standard-web.aspx</link>
+      <pubDate>Fri, 24 Feb 2006 07:30:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/02/24/asp-net-2-0-e-gli-standard-web.aspx</guid>
+      <description>Creare pagine web conformi agli standard di accessibilità e XHTML è oggigiorno fondamentale per garantirsi la corretta interpretazione delle varie pagine da parte di tutti i browser utilizzati. Questo articolo di MSDN mostra come costruire pagine web conformi a tali standard in ASP .NET 2.0</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LINQ on My New Hugo Site</title>
+    <link>https://example.org/categories/linq/</link>
+    <description>Recent content in LINQ on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Sep 2010 15:58:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/linq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LINQ &amp;ndash; Variabili temporanee con la parola chiave Let</title>
+      <link>https://example.org/archive/2010/09/03/linq-ndash-variabili-temporanee-con-la-parola-chiave-let.aspx</link>
+      <pubDate>Fri, 03 Sep 2010 15:58:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/03/linq-ndash-variabili-temporanee-con-la-parola-chiave-let.aspx</guid>
+      <description>L’uso di LINQ apre davvero a scenari molto molto interessanti grazie alla sua potenza e flessibilità.
+Oggi ho scoperto che in una query LINQ è possibile costruire una variabile temporanea ed utilizzarla successivamente nella esposizione del risultato della query.
+Ecco un esempio:
+Nella query LINQ precedente, mediante la parola chiave “let” è possibile creare una variabile temporanea (discount nell’esempio), farci delle manipolazioni, e ritrovarsi la variabile nella query.
+Figo</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #10</title>
+      <link>https://example.org/archive/2010/07/30/link-utili-della-settimana-10.aspx</link>
+      <pubDate>Fri, 30 Jul 2010 20:50:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/30/link-utili-della-settimana-10.aspx</guid>
+      <description>– On the Fly Zip and Attach” Windows Live Writer Plugin
+Questo add-in è utile a tutti i bloggers che (come me) usano Windows Live Writer per scrivere e pubblicare i propri posts. Esso permette di selezionare files / directory dal proprio PC, zipparli al volo ed includerli come allegato al proprio post onde permettere al lettore di farne il download. Decisamente da provare.
+– Dynamic LINQ Methods
+Molto molto interessante.</description>
+    </item>
+    
+    <item>
+      <title>i4o (ovvero index for objects)</title>
+      <link>https://example.org/archive/2009/09/02/i4o-ovvero-index-for-objects.aspx</link>
+      <pubDate>Wed, 02 Sep 2009 09:12:42 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/09/02/i4o-ovvero-index-for-objects.aspx</guid>
+      <description>Per chi (come me) utilizza LINQ questo progetto presente su Codeplex è senz’altro interessante.
+Come è noto LINQ effettua le ricerche in modo sequenziale, cosa che su collezioni con parecchi items può dar luogo ad un degrado delle prestazioni.
+Questo progetto si prefigge come obiettivo quello di dotare LINQ della ricerca indicizzata degli elementi, che, stando a quanto riportato nella descrizione del progetto, è in grado di rendere le query oltre mille volte più veloci rispetto alla ricerca sequenziale.</description>
+    </item>
+    
+    <item>
+      <title>101 LINQ Samples</title>
+      <link>https://example.org/archive/2008/04/23/101-linq-samples.aspx</link>
+      <pubDate>Wed, 23 Apr 2008 10:51:53 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/23/101-linq-samples.aspx</guid>
+      <description>Se lavorate con LINQ, questa pagina è utile averla sempre a portata di mouse. 101 LINQ Samples</description>
+    </item>
+    
+  </channel>
+</rss>

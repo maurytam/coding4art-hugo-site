@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workaround on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/workaround/</link>
+    <description>Recent content in Workaround on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Sep 2008 15:54:08 +0000</lastBuildDate><atom:link href="https://example.org/categories/workaround/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual studio 2008 ide crash dopo &#34;Choose items&#34; dalla toolbox</title>
+      <link>https://example.org/archive/2008/09/04/visual-studio-2008-ide-crash-dopo-quot-choose-items-quot.aspx</link>
+      <pubDate>Thu, 04 Sep 2008 15:54:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/09/04/visual-studio-2008-ide-crash-dopo-quot-choose-items-quot.aspx</guid>
+      <description>Qualche giorno fa mi sono imbattuto in uno strano crash di Visual Studio 2008, dopo aver installato il Service Pack 1, vale a dire che il comando “Choose items” della toolbox era capace di mandare in crash l’intero IDE, scrivendo un laconico messaggio nell’Event viewer, del tipo
+NET Runtime version 2.0.50727.3053 – Fatal Execution Engine Error (7A035E00) (80131506)
+di nessuna utilità per la risoluzione del problema, senza possibilità di scampo quindi.</description>
+    </item>
+    
+    <item>
+      <title>Creare una &#34;full trust&#34; xbap application</title>
+      <link>https://example.org/archive/2008/08/04/creare-una-quot-full-trust-quot-xbap-application.aspx</link>
+      <pubDate>Mon, 04 Aug 2008 16:22:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/08/04/creare-una-quot-full-trust-quot-xbap-application.aspx</guid>
+      <description>Come chi programma in WPF ben sa, una applicazione WPF browser, meglio nota come XBAP application, gira all’interno del browser in un ambiente partial trust, oppure in una sandbox di sicurezza, come meglio si preferisce, per evitare appunto che il codice di una tale applicazione possa accedere a informazioni confidenziali oppure effettuare azioni non autorizzate. In particolari scenari, tuttavia, ad esempio in applicazioni Intranet, può nascere l’esigenza di dotare tali applicazioni di un maggior numero di permessi, oppure addirittura farle girare in ambiente full trust.</description>
+    </item>
+    
+    <item>
+      <title>Impossibile aggiungere una service reference in visual studio 2008</title>
+      <link>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</link>
+      <pubDate>Mon, 28 Jul 2008 10:03:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</guid>
+      <description>Questo workaround spero sia utile a chi si è trovato nella stessa mia situazione, e cioè che improvvisamente Visual Studio 2008 si rifiuta di aggiungere una Service Reference ad un servizio WCF, dando questo errore:
+The components required to enumerate web references are not installed on this computer. Please re-install Visual studio. Ho poi scoperto che il problema si presentava anche aggiungendo semplici web reference (ASP .NET web services) a progetti creati con Visual Studio 2005.</description>
+    </item>
+    
+    <item>
+      <title>Visual source safe – troubleshooting</title>
+      <link>https://example.org/archive/2008/07/20/visual-source-safe-troubleshooting.aspx</link>
+      <pubDate>Sun, 20 Jul 2008 16:20:43 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/20/visual-source-safe-troubleshooting.aspx</guid>
+      <description>Nel mio lavoro quotidiano come consulente uso spesso e volentieri Visual Source Safe (sigh!) come repository del codice sorgente. Come chi già lo usa sicuramente ben sa, Source Safe è un prodotto ormai datato che si porta dietro un pò di problemi di varia natura. Quindi, non è sempre facile “addomesticarlo” per ottenere quello che si vuole. Appunto un paio di workaround su come evitare certe situazioni che possono portare a problemi:</description>
+    </item>
+    
+    <item>
+      <title>IIS ASP .NET Tab missing</title>
+      <link>https://example.org/archive/2008/06/11/iis-asp-net-tab-missing.aspx</link>
+      <pubDate>Wed, 11 Jun 2008 03:54:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/06/11/iis-asp-net-tab-missing.aspx</guid>
+      <description>Vi è mai capitato che nella console di amministrazione di IIS per una certa web application sparisse il tab ASP .NET senza apparente motivo ?
+A me sì, con tutte le conseguenze del caso, e senza che riuscissi a trovare una soluzione nei forum e user group. Ora finalmente la soluzione esiste.
+E’ spiegata in modo dettagliato in questo post, ed inoltre, come afferma l’autore del post, non esiste nessuna soluzione immediata che pone riparo a questa anomalia.</description>
+    </item>
+    
+    <item>
+      <title>Problemi di performance in Visual Studio 2008</title>
+      <link>https://example.org/archive/2008/04/18/problemi-di-performance-in-visual-studio-2008.aspx</link>
+      <pubDate>Fri, 18 Apr 2008 04:33:01 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/18/problemi-di-performance-in-visual-studio-2008.aspx</guid>
+      <description>Ero praticamente certo che sarebbe uscita la hotfix giusta per me riguardante Visual Studio 2008.
+Negli ultimi tempi ho sperimentato in prima persona rallentamenti eccessivi e chiaramente molto fastidiosi nell’utilizzo di alcune funzionalità dell’IDE e precisamente:
+Passando alla vista Design di una Web Form; Passando alla vista Html Source di una Web Form; Compilando un progetto web di grosse dimensioni; Oggi ho scoperto che da pochissimo tempo è disponibile una hotfix che risolve tutti e tre i problemi sopradescritti.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting remote assistance</title>
+      <link>https://example.org/archive/2007/10/14/troubleshooting-remote-assistance.aspx</link>
+      <pubDate>Sun, 14 Oct 2007 13:08:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/10/14/troubleshooting-remote-assistance.aspx</guid>
+      <description>Per una volta parlo di come risolvere un piccolo ma noioso problema sistemistico: provando ad utilizzare l’assistenza remota di MSN mi appariva questo strano errore:
+“Impossibile aprire la Guida in linea e supporto tecnico perchè un servizio di sistema non è in esecuzione. Per risolvere il problema, avviare il servizio denominato ‘Help Service”
+Il servizio in questione, chiamato “Guida in linea e supporto tecnico” nella versione italiana, è chiaramente la Guida in linea di Windows XP, che evidentemente non era presente sulla macchina.</description>
+    </item>
+    
+    <item>
+      <title>Non esiste solo l’informatica</title>
+      <link>https://example.org/archive/2006/08/24/non-esiste-solo-linformatica.aspx</link>
+      <pubDate>Thu, 24 Aug 2006 11:07:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/08/24/non-esiste-solo-linformatica.aspx</guid>
+      <description>In questi giorni di vacanze forzate a casa per via di qualche ‘problemuccio’ di salute (per fortuna é passato tutto :)) ho riassaporato 2 tra le mie passioni più grandi: la musica e la lettura. Ho letto altri libri nel frattempo usciti della saga di Carlos Castaneda, scrittore e antropologo peruviano scomparso da qualche anno, e delle sue esperienze con don Juan, un indios Yaqui del Messico. Si tratta di una delle storie più affascinanti che abbia mai letto circa culture e filosofie completamente diverse dalla nostra, che mettono in risalto quanto i nostri sogni, le nostre ansie, paure, il ns.</description>
+    </item>
+    
+    <item>
+      <title>Esecuzione side by side di applicazioni ASP .NET</title>
+      <link>https://example.org/archive/2006/01/29/esecuzione-side-by-side-di-applicazioni-asp-net.aspx</link>
+      <pubDate>Sun, 29 Jan 2006 18:49:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/01/29/esecuzione-side-by-side-di-applicazioni-asp-net.aspx</guid>
+      <description>Con l’uscita della versione 2.0 del Framework .NET molte applicazioni ASP .NET migreranno alla nuova versione, che assicura una compatibilità al 100% all’indietro e una migliore compatibilità verso gli standard Web (vedi XHTML). Questa migrazione avverrà certamente per gradi, e ci troveremo sicuramente in situazioni in cui sullo stesso server saranno installate applicazioni ASP .NET compilate con differenti versioni del Framework. Questo non è affatto un problema grazie alla cosiddetta esecuzione side by side del codice gestito, mediante la quale differenti versioni del Framework .</description>
+    </item>
+    
+    <item>
+      <title>Messaggio di errore e/o eccezione in applicatione ASP .NET in configurazione application pool multiplo</title>
+      <link>https://example.org/archive/2006/01/29/messaggio-di-errore-eo-eccezione-in-applicatione-asp-net-in.aspx</link>
+      <pubDate>Sun, 29 Jan 2006 16:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/01/29/messaggio-di-errore-eo-eccezione-in-applicatione-asp-net-in.aspx</guid>
+      <description>Se si ospitano più applicazioni web ASP .NET in application pool distinti su macchine multiprocessore dotati di SO Windows 2003 si potrebbe andare incontro ad un lento degrado delle prestazioni fino ad ottenere:
+a) OutOfMemoryException
+b) Classico messaggio d’errore “Server Application Unavailable”
+Questo comportamento è causato dal funzionamento del meccanismo del garbage collector su sistemi multiprocessore. Su tali sistemi il GC è attivo in modalità Server; questa modalità permette di aumentare le sue prestazioni attraverso la creazione di un heap distinto per ogni processore presente, caratteristica che in presenza di vari worker process porta ad un consumo eccessivo di memoria e da qui ai messaggi di errore menzionati.</description>
+    </item>
+    
+  </channel>
+</rss>

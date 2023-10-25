@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on My New Hugo Site</title>
+    <link>https://example.org/categories/architecture/</link>
+    <description>Recent content in Architecture on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Oct 2011 10:16:39 +0000</lastBuildDate><atom:link href="https://example.org/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Architect Conference 2011&amp;ndash;London</title>
+      <link>https://example.org/archive/2011/10/05/software-architect-conference-2011ndashlondon.aspx</link>
+      <pubDate>Wed, 05 Oct 2011 10:16:39 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/10/05/software-architect-conference-2011ndashlondon.aspx</guid>
+      <description>Oh yes I’ll be there…
+Technorati’s Tag: Technical conference,Architecture</description>
+    </item>
+    
+    <item>
+      <title>Articolo &amp;ldquo;Programmazione per contratti con il Framework .Net 4.0&amp;rdquo;</title>
+      <link>https://example.org/archive/2010/04/20/articolo-ldquoprogrammazione-per-contratti-con-il-framework-net-4-0rdquo.aspx</link>
+      <pubDate>Tue, 20 Apr 2010 21:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/04/20/articolo-ldquoprogrammazione-per-contratti-con-il-framework-net-4-0rdquo.aspx</guid>
+      <description>E’ online il mio primo articolo per UgiDotNet, ovvero “Programmazione per contratti con il Framework .Net 4.0”, argomento molto molto interessante poichè è ora possibile adottare l’approccio cosiddetto “Contract First Development” nel design delle proprie applicazioni.
+Questo approccio aiuta sicuramente a scrivere applicazioni più robuste, cercando di limitare per quanto possibile i bugs a runtime.
+Ovviamente sono graditissimi eventuali feedback, contattandomi mediante la form contact di questo blog.</description>
+    </item>
+    
+    <item>
+      <title>Software Architecture #1 Il design pattern Decorator</title>
+      <link>https://example.org/archive/2010/04/12/software-architecture-1-il-design-pattern-decorator.aspx</link>
+      <pubDate>Mon, 12 Apr 2010 04:40:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/04/12/software-architecture-1-il-design-pattern-decorator.aspx</guid>
+      <description>Il pattern “Decorator” appartiene alla famiglia dei design pattern della GoF (Gang of Four), ed è classificato come pattern strutturale. E’ un pattern molto semplice da usare, che permette di aggiungere dei comportamenti personalizzati, e quindi delle responsabilità, ad una certa classe senza per questo utilizzare tecniche di subclassing.
+Immaginiamo di avere un componente per il log delle informazioni. Esso invoca un servizio di logging e rispetta questo contratto definito mediante una semplice interfaccia:</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #5</title>
+      <link>https://example.org/archive/2010/03/26/link-utili-della-settimana-5.aspx</link>
+      <pubDate>Fri, 26 Mar 2010 13:29:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/03/26/link-utili-della-settimana-5.aspx</guid>
+      <description>– Fluent Mock Builder, fornisce una “fluent interface” per costruire complessi oggetti “mockable” con il framework di mocking Mock, una libreria di mocking che sfrutta a fondo le nuove caratteristiche di .NET 3.5 (es. expression trees), o di C# 3.0 (es. le lambda expression). Il tutto può essere usato negli Unit test di progetti ASP .NET MVC;
+–NInject, un framework open source di dipendency injection per .NET;
+–StructureMap, altro tool di Dipendency Injection / Inversion of Control per il mondo .</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #1</title>
+      <link>https://example.org/archive/2009/10/09/link-utili-della-settimana-2.aspx</link>
+      <pubDate>Fri, 09 Oct 2009 03:50:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/09/link-utili-della-settimana-2.aspx</guid>
+      <description>– &amp;lt;a href=&amp;ldquo;http://www.galasoft.ch/mvvm/getstarted/&amp;quot; target=&amp;rdquo;_blank&amp;quot; mce_href=&amp;ldquo;http://www.galasoft.ch/mvvm/getstarted/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;MVVM Toolkit Light
+– &amp;lt;a href=&amp;ldquo;http://ajaxcontroltoolkit.codeplex.com/release/projectreleases.aspx?releaseid=33804&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://ajaxcontroltoolkit.codeplex.com/release/projectreleases.aspx?releaseid=33804&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Ajax Control Toolkit release 30930 (30 sett 2009);
+–&amp;lt;a href=&amp;ldquo;http://wscfblue.codeplex.com/&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://wscfblue.codeplex.com/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;thinktecture.WSCF.blue (Contract first WCF Tool)
+– The &amp;lt;a href=&amp;ldquo;http://msdn.microsoft.com/en-us/magazine/dd419663.aspx&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://msdn.microsoft.com/en-us/magazine/dd419663.aspx&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;ModelView-ViewModel design pattern for WPF
+– &amp;lt;a href=&amp;ldquo;http://www.coderun.com/&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://www.coderun.com/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Code Run (questo è davvero incredibile, si evincono chiaramente le potenzialità del Cloud Computing). Trattasi di un IDE Online, con cui è possibile sviluppare progetti .</description>
+    </item>
+    
+  </channel>
+</rss>

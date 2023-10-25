@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variuos on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/variuos/</link>
+    <description>Recent content in Variuos on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Apr 2013 13:58:28 +0000</lastBuildDate><atom:link href="https://example.org/categories/variuos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raven2Go posts editor portable application</title>
+      <link>https://example.org/archive/2013/04/04/raven2go-posts-editor-portable-application.aspx</link>
+      <pubDate>Thu, 04 Apr 2013 13:58:28 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/04/04/raven2go-posts-editor-portable-application.aspx</guid>
+      <description> &amp;lt;p&amp;gt; Main features are: &amp;lt;/p&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; Tabbed true WYSIWYG Editing &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Manage multiple media storage services &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Improved content management &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Manage multiple blogs offline &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; WordPress 2.2+ Page &amp;amp; Tag support &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;p&amp;gt; &amp;lt;a href=&amp;quot;http://www.zoundryraven.com/download.html&amp;quot;&amp;gt;Download&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/tbody&amp;gt; &amp;lt;/table&amp;gt; &amp;lt;p class=&amp;quot;poweredbyzoundry&amp;quot;&amp;gt; Powered by &amp;lt;a class=&amp;quot;poweredbyzoundry_link&amp;quot; href=&amp;quot;http://www.zoundryraven.com&amp;quot; rel=&amp;quot;nofollow&amp;quot;&amp;gt;Zoundry Raven&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title>Useful links of the week #24</title>
+      <link>https://example.org/archive/2011/05/27/useful-links-of-the-week-24.aspx</link>
+      <pubDate>Fri, 27 May 2011 10:40:06 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/05/27/useful-links-of-the-week-24.aspx</guid>
+      <description>– Using HTML5’s New Semantic Tags Today
+– Ncqrs, framework for .NET helps build scalable, extensible and maintainable applications by supporting developers apply the CQRS architectural pattern.
+– The Ultimate List of Freely Available .NET Libraries – LINQ to LDAP
+LINQ provider built on top of System.DirectoryServices.Protocols for querying LDAP servers</description>
+    </item>
+    
+    <item>
+      <title>Useful links of the week #23</title>
+      <link>https://example.org/archive/2011/03/09/useful-links-of-the-week-23.aspx</link>
+      <pubDate>Wed, 09 Mar 2011 09:45:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/03/09/useful-links-of-the-week-23.aspx</guid>
+      <description>– Support dynamic fields with NHibernate and .Net 4.0
+Very very interesting Ayende’s blog post</description>
+    </item>
+    
+    <item>
+      <title>CC License to this blog</title>
+      <link>https://example.org/archive/2011/01/24/cc-license-to-this-blog.aspx</link>
+      <pubDate>Mon, 24 Jan 2011 09:07:45 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/01/24/cc-license-to-this-blog.aspx</guid>
+      <description>I added a Creative Commons License to this blog.
+In short, you are able for free to copy, distribute and transmit the work (to share), to adapt the work (to remix),
+but you must attribute this work to Maurizio Tammacco.
+You can find how to attribute this work in the link visible to the right.</description>
+    </item>
+    
+    <item>
+      <title>Useful links of the week #22</title>
+      <link>https://example.org/archive/2011/01/24/useful-links-of-the-week-22.aspx</link>
+      <pubDate>Mon, 24 Jan 2011 08:30:55 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/01/24/useful-links-of-the-week-22.aspx</guid>
+      <description>.NET Extensions – Extension Methods Library for C# and VB.NET- Release 2011.03
+– Combres
+.NET library which enables minification, compression, combination, and caching of JavaScript and CSS resources for ASP.NET and ASP.NET MVC web applications. Simply put, it helps your applications rank better with YSlow and PageSpeed
+– Migliorare le performance di una applicazione ASp .Net MVC
+Excellent Dario Santarelli’s post (in Italian) full of various links in order to optimize performance of ASP .</description>
+    </item>
+    
+    <item>
+      <title>Useful links of the week #21</title>
+      <link>https://example.org/archive/2010/12/22/useful-links-of-the-week-21.aspx</link>
+      <pubDate>Wed, 22 Dec 2010 15:41:54 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/12/22/useful-links-of-the-week-21.aspx</guid>
+      <description>– Abstract SQL
+ADO.NET Sql classes wrapper; provides a clean fluent interface library that allows you to write very concise code and avoid the repetitiveness of ADO.NET. It can be used in all types of applications, even supports CLR stored procedures. It is written in C# 2.0.
+– Gridify for ASP .NET MVC
+Easy solution for grids on top of ASP.NET MVC
+Make grids from your data tables in a really lightweight manner!</description>
+    </item>
+    
+    <item>
+      <title>Useful links of the week #20</title>
+      <link>https://example.org/archive/2010/11/29/useful-links-of-the-week-20.aspx</link>
+      <pubDate>Mon, 29 Nov 2010 11:54:07 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/11/29/useful-links-of-the-week-20.aspx</guid>
+      <description>– NHibernate Open Source Projects EcoSystem</description>
+    </item>
+    
+    <item>
+      <title>Usefull links of the week #19</title>
+      <link>https://example.org/archive/2010/11/05/usefull-links-of-the-week-19.aspx</link>
+      <pubDate>Fri, 05 Nov 2010 13:22:50 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/11/05/usefull-links-of-the-week-19.aspx</guid>
+      <description>– A set of LINQ utilities and operators
+– SharpSSH – A Secure Shell (SSH) library for .NET
+More details here</description>
+    </item>
+    
+    <item>
+      <title>Useful links of the week #18</title>
+      <link>https://example.org/archive/2010/10/22/useful-links-of-the-week-18.aspx</link>
+      <pubDate>Fri, 22 Oct 2010 10:12:19 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/10/22/useful-links-of-the-week-18.aspx</guid>
+      <description>– a series of slides on a comparison between Entity Framework 4.0 and NHibernate
+– jsbeautifier (Auto-Reformat Javascript code). This tool is very useful. How many times have I struggled with Javascript code written in a really incomprensible mode !</description>
+    </item>
+    
+    <item>
+      <title>So, let’s start</title>
+      <link>https://example.org/archive/2010/10/18/so-lets-start.aspx</link>
+      <pubDate>Mon, 18 Oct 2010 11:01:29 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/10/18/so-lets-start.aspx</guid>
+      <description>I started writing on my personal blog 5 years ago, although i’ve never been a prolific blogger.
+I wrote 3 average posts per month, 1 average post per week, at least that’s what the SubText’s statistics say.
+Now i think it’s time to change the language of my blog.
+In fact, from this post, i decided writing my posts in English, that is the main language on the Web, and therefore i will not write my posts in Italian anymore.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #17</title>
+      <link>https://example.org/archive/2010/10/15/link-utili-della-settimana-17.aspx</link>
+      <pubDate>Fri, 15 Oct 2010 13:24:18 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/10/15/link-utili-della-settimana-17.aspx</guid>
+      <description>Net Extensions – Extension Methods Library for C# and VB .Net Ver. 2010.12. Utile raccolta di extension methods.
+Tackle
+Applicazione web basata su ASP .Net e Sql Server per la gestione di piccoli e grandi team di sviluppo secondo sprints basati su Scrum. Da provare, non fosse altro perchè è gratuita.
+Visual Studio 2010 hotfixes VS 2010 Find and Replace Dialog Growing
+VS 2010 Cut/Copy “Insufficient Memory” issue
+Scrolling context menu</description>
+    </item>
+    
+    <item>
+      <title>Vita da developer</title>
+      <link>https://example.org/archive/2010/10/13/vita-da-developer.aspx</link>
+      <pubDate>Wed, 13 Oct 2010 10:13:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/10/13/vita-da-developer.aspx</guid>
+      <description>Quante volte mi è successo di sentire (e di dire) questa frase!</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #16</title>
+      <link>https://example.org/archive/2010/10/08/link-utili-della-settimana-16.aspx</link>
+      <pubDate>Fri, 08 Oct 2010 07:21:26 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/10/08/link-utili-della-settimana-16.aspx</guid>
+      <description>– Mantenere sincronizzati un Team Foundation Server locale con quello di CodePlex mediante l’utilizzo di Integration Platform
+– NuPack: NuPack v1 CTP 1: questo è un tool davvero molto utile, ne ha parlato anche ScottGu qui. Trattasi di un progetto Open Source che permette di semplificare quelle tediose (a volte) operazioni preliminari che si compiono quando si deve inserire una nuova libreria di terze parti nei propri progetti (pensiamo a NHibernate, Log4Net, Castle Windsor, Rhino Mocks, solo per citarne alcuni), con annesse anche le dipendenze.</description>
+    </item>
+    
+    <item>
+      <title>&lt;/WebHost4Life&gt;</title>
+      <link>https://example.org/archive/2010/09/28/ltwebhost4lifegt.aspx</link>
+      <pubDate>Tue, 28 Sep 2010 08:15:38 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/28/ltwebhost4lifegt.aspx</guid>
+      <description>Come evidenziato anche da altri bloggers, ad esempio qui, qui, qui, qui e qui, mi associo anche io alle lamentele per la migrazione disastrosa di WebHost4life, mio provider da parecchio tempo su cui ospito(avo), questo blog.
+Sino a prima della migrazione, WebHost4life funzionava in modo eccellente, offrendo un ottimo servizio di hosting a prezzi accettabilissimi, tant’è che lo consigliavo a tutti coloro che mi chiedevano lumi su servizi di hosting professionali.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #15</title>
+      <link>https://example.org/archive/2010/09/24/link-utili-della-settimana-15.aspx</link>
+      <pubDate>Fri, 24 Sep 2010 10:35:36 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/24/link-utili-della-settimana-15.aspx</guid>
+      <description>– Ninja Database
+Database minimale (sotto i 100k) per Windows Phone 7, Silverlight 3 e 4, .Net 3.5 e .Net 4.0, che permette di salvare e ricaricare qualsiasi oggetto pubblico su un file usando una serializzazione binaria compatta. Da provare soprattutto se si sviluppa per dispositivi mobili</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #14</title>
+      <link>https://example.org/archive/2010/09/17/link-utili-della-settimana-14.aspx</link>
+      <pubDate>Fri, 17 Sep 2010 16:59:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/17/link-utili-della-settimana-14.aspx</guid>
+      <description>– RavenDB
+Prodotto Open Source con opzioni commerciali, trattasi di un database documentale (non relazionale quindi), per la piattaforma .Net. che memorizza documenti JSON schema-less. Da provare sicuramente.
+– NBuilder, open source software con un obiettivo molto molto utile per tutti coloro che, come me, hanno l’abitudine di creare Unit Tests per il loro codice. Questa applicazione infatti genera rapidamente liste di oggetti da utilizzare poi nei propri tests, assegnando particolari valori a certe proprietà e permettendo l’override dei valori delle proprietà a cui si ‘è interessati mediante lambda expression.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #13</title>
+      <link>https://example.org/archive/2010/09/10/link-utili-della-settimana-13.aspx</link>
+      <pubDate>Fri, 10 Sep 2010 18:23:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/10/link-utili-della-settimana-13.aspx</guid>
+      <description>– PreCode
+Trattasi di un editor di Snippet Code per Windows Live Writer con il supporto per SyntaxHighlighter. Da provare, uno dei tanti tool per inserire snippets code nei propri posts.
+– Hanselminutes Podcast about NHibernate 3
+Interessante podcast di Scott Hanselmann in cui Scott chatta con Jason Dentler sulla nuova versione 3.0 di NHibernate. Comprende inoltre una serie di link utili su NHibernate.
+– Installare Ubuntu 10.4 LTS su Windows Virtual PC su Windows 7.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #11</title>
+      <link>https://example.org/archive/2010/08/06/link-utili-della-settimana-11.aspx</link>
+      <pubDate>Fri, 06 Aug 2010 18:47:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/08/06/link-utili-della-settimana-11.aspx</guid>
+      <description>– jQuery Code Snippets for Visual Studio 2010
+– Buiding iPhone and iPod Touch Applications for the .Net/C# developer with MonoTouch
+– MonoTouch
+Trattasi di un e-book gratuito circa l’utilizzo di MonoTouch per sviluppare in C# applicazioni funzionanti su iPhone.
+L’altro link punta alla versione trial di MonoTouch, che non scade mai ma che consente di sviluppare applicazioni iPhone che girano SOLO su emulatore.
+Tanto lo so che un giorno o l’altro diventerò uno sviluppatore iPhone</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #9</title>
+      <link>https://example.org/archive/2010/07/23/link-utili-della-settimana-9.aspx</link>
+      <pubDate>Fri, 23 Jul 2010 18:49:53 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/07/23/link-utili-della-settimana-9.aspx</guid>
+      <description>– Mandare una mail verso una cartella con ASP :Net
+Decisamente utile
+– Microsoft Network Monitor 3.4
+Tool che permette di catturare, visionare ed analizzare il traffico di rete. Utile anche agli sviluppatori – NHibernate Mapping Generator 2.0 Beta 1
+Presente il supporto per la generazione del “fluent mapping”, anche se fino ad ora limitato a Sql Server
+– Team Foundation Server 2010 Power Tools April 2010</description>
+    </item>
+    
+    <item>
+      <title>MySolutionLab</title>
+      <link>https://example.org/archive/2010/03/18/mysolutionlab.aspx</link>
+      <pubDate>Thu, 18 Mar 2010 16:22:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/03/18/mysolutionlab.aspx</guid>
+      <description>&amp;lt;td valign=&amp;quot;top&amp;quot; width=&amp;quot;319&amp;quot;&amp;gt; &amp;lt;a href=&amp;quot;http://www.mysolutionlab.com/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener&amp;quot;&amp;gt;MySolutionLab&amp;lt;/a&amp;gt; è un portale focalizzato sullo sviluppo di software visto come attività ingegneristica, e quindi conforme ai requisiti di (tratto dal sito):&amp;lt;/p&amp;gt; &amp;lt;blockquote&amp;gt; &amp;lt;p&amp;gt; …. correttezza, affidabilità, robustezza, efficienza, usabilita&amp;amp;#8217;, scalabilita&amp;amp;#8217;, fault tolerance. &amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;/td&amp;gt; Corretti e Affidabili: un sistema e’ corretto se si comporta come stabilito nei suoi requisiti funzionali.
+Robusti: un sistema e’ robusto se si comporta in modo ragionevole in situazioni impreviste.</description>
+    </item>
+    
+    <item>
+      <title>Java meglio di .NET ?</title>
+      <link>https://example.org/archive/2010/01/26/java-meglio-di-net.aspx</link>
+      <pubDate>Tue, 26 Jan 2010 03:28:50 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/01/26/java-meglio-di-net.aspx</guid>
+      <description>Il titolo di questo post è volutamente ironico, ed affronta un argomento all’ordine del giorno in ogni ambiente di lavoro e/o community in cui si ha a che fare con le tecnologia legate al mondo del software.
+In questi ambienti capita spesso infatti di sentire o di partecipare a discussioni circa il fatto che quella o quell’altra tecnologia prevale a parità di contesto di utilizzo, es. Java è meglio di .</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #4</title>
+      <link>https://example.org/archive/2009/10/30/link-utili-della-settimana-4.aspx</link>
+      <pubDate>Fri, 30 Oct 2009 20:05:23 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/30/link-utili-della-settimana-4.aspx</guid>
+      <description> IE Tester 0.4.2 Ottimo tool gratuito per testare funzionalità di layout nelle varie versioni di Internet Explorer. Peccato che manchi un supporto per altri browser. Come installare Windows 7 da drive USB </description>
+    </item>
+    
+    <item>
+      <title>&lt;/xplayn.org&gt;</title>
+      <link>https://example.org/archive/2009/10/27/ltxplayn-orggt.aspx</link>
+      <pubDate>Tue, 27 Oct 2009 20:50:11 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/27/ltxplayn-orggt.aspx</guid>
+      <description>Questo blog cambia nome, veste grafica e motore di blogging. Causa perdurata inattività, ho deciso di chiudere il sito xplayn.org, da me aperto insieme all’amico Francesco Quaratino.
+Il nuovo nome, coding4art.com è ovviamente un omaggio alla programmazione software vista come un’arte o più precisamente un’attività ingegneristica e non artigianale. Si parla tanto di metodologie applicate alla produzione software, Agile, waterfall o MSF che sia, ma spesso e volentieri questa viene vista come un’attività artigianale, espletata senza o quasi nessuna metodologia, da programmatori senza esperienza specifica nella particolare tecnologia scelta, senza nessuna cura per il codice sorgente, senza nessuna best practice o guidelines applicata o peggio ancora con varie best practice mischiate tra loro, senza nessuna pianificazione riguardante argomenti come sicurezza, performance, scalabilità, manutenibilità ma con un unico obiettivo in testa, ovvero creare nel più breve tempo possibile una applicazione in cui i requisiti utente siano soddisfatti, ovvero che funzioni, e basta, con le conseguenze che questo approccio comporta.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #3</title>
+      <link>https://example.org/archive/2009/10/16/link-utili-della-settimana-3.aspx</link>
+      <pubDate>Fri, 16 Oct 2009 07:55:14 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/16/link-utili-della-settimana-3.aspx</guid>
+      <description>– Doloto, time optimizers for Ajax applications
+– AutoMapper, framework per mappare automaticamente e quindi creare un oggetto semplice, es. un DTO, mediante un oggetto complesso come una entità di dominio
+– WPF tutorial;
+– Microsoft Ajax Library (Preview 6) e Microsoft Ajax Minifier ( Microsoft Ajax Javascript Library -&amp;gt; nuova e migliorata sintassi imperativa, miglior integrazione con JQuery, nuovo client script loader, Minifier Tool, per ridurre le dimensioni dei file javascript scaricati sul client mediante minification)</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #2</title>
+      <link>https://example.org/archive/2009/10/12/link-utili-della-settimana-1.aspx</link>
+      <pubDate>Mon, 12 Oct 2009 01:52:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/12/link-utili-della-settimana-1.aspx</guid>
+      <description>&amp;lt;a href=&amp;ldquo;http://www.sadev.co.za/content/tripping-over-logs-story-unity-part-1&amp;quot; target=&amp;rdquo;_blank&amp;quot; mce_href=&amp;ldquo;http://www.sadev.co.za/content/tripping-over-logs-story-unity-part-1&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Descrizione di &amp;lt;a href=&amp;ldquo;http://www.codeplex.com/unity&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://www.codeplex.com/unity&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Unity, il framework di Inversion of Control e Dipendency Injection sviluppato dal team di P&amp;amp;P (&amp;lt;a href=&amp;ldquo;http://msdn.microsoft.com/en-us/library/dd362339.aspx&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://msdn.microsoft.com/en-us/library/dd362339.aspx&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;qui è presente la versione 1.2 per Silverlight) 45 passi per diventare &amp;lt;a href=&amp;ldquo;http://blogs.dotnethell.it/ciupaz/45-passi-per-diventare-â€œagiliâ€__15721.aspx&amp;rdquo; target=&amp;rdquo;_blank&amp;quot; mce_href=&amp;ldquo;http://blogs.dotnethell.it/ciupaz/45-passi-per-diventare-â€œagiliâ€__15721.aspx&amp;rdquo; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;agili &amp;lt;a href=&amp;ldquo;http://xval.codeplex.com/&amp;quot; target=&amp;rdquo;_blank&amp;quot; mce_href=&amp;ldquo;http://xval.codeplex.com/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;xVal, libreria per la validazione client side di applicazioni ASP .NET MVC &amp;lt;a href=&amp;ldquo;http://www.microsoft.com/downloads/details.aspx?familyid=051EE83C-5CCF-48ED-8463-02F56A6BFC09&amp;amp;displaylang=en&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://www.microsoft.com/downloads/details.aspx?familyid=051EE83C-5CCF-48ED-8463-02F56A6BFC09&amp;amp;displaylang=en&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Anti XSS Library ver.</description>
+    </item>
+    
+    <item>
+      <title>Visualcv, un ottimo sito per cv online</title>
+      <link>https://example.org/archive/2009/02/20/visualcv-un-ottimo-sito-per-cv-online.aspx</link>
+      <pubDate>Fri, 20 Feb 2009 07:10:40 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/02/20/visualcv-un-ottimo-sito-per-cv-online.aspx</guid>
+      <description>Mi appunto questo ottimo sito per uso futuro: VisualCv.
+Consente di inserire il proprio cv online ed arricchirlo di contenuti multimediali: immagini, audio, video, grafici. Inoltre consente di pubblicarlo nel rispetto della politica di privacy scelta, di inviarlo via mail, di convertirlo automaticamente in formato PDF, di ottenere una URL unica da inviare a chi può essere interessato alla sua visualizzazione. Sul sito sono presenti diversi esempi di cv, fatti davvero bene e con un alto indice di usabilità.</description>
+    </item>
+    
+    <item>
+      <title>Xobni – il tool di cui si sentiva la mancanza</title>
+      <link>https://example.org/archive/2008/05/07/xobni-il-tool-di-cui-si-sentiva-la-mancanza.aspx</link>
+      <pubDate>Wed, 07 May 2008 10:09:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/05/07/xobni-il-tool-di-cui-si-sentiva-la-mancanza.aspx</guid>
+      <description>Per chi utilizza Outlook in modo intensivo questo è davvero un must-have tool. Sto parlando di Xobni, un add-in per Outlook 2003/2007 che permette di gestire i messaggi di posta in modo molto efficiente. Tra le sue caratteristiche segnalo:
+Efficientissimo motore di ricerca di messaggi e/o persone con nutrito numero di opzioni; Gestione dei messaggi in thread; Estrazione automatica del numero di telefono del mittente dal messaggio di posta (spettacolare); Ricerca istantanea degli allegati legati ad un particolare mittente; Creazione di mail di invito ad un evento con estrazione automatica dei periodi di disponibilità dal proprio calendario; Statistiche estremamente dettagliate sulle mail scambiate con ogni mittente; Navigazione della mailbox in base al profilo della persona; La feature che personalmente trovo estremamente comoda è la ricerca degli allegati legati ad una particolare persona.</description>
+    </item>
+    
+    <item>
+      <title>ALT.NET Geek code</title>
+      <link>https://example.org/archive/2008/04/23/alt-net-geek-code.aspx</link>
+      <pubDate>Wed, 23 Apr 2008 10:38:24 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/23/alt-net-geek-code.aspx</guid>
+      <description>“What’s it mean? Well, it’s a code that describes the processes and tools that I like to use to develop”
+Ecco il mio:</description>
+    </item>
+    
+    <item>
+      <title>Opportunità di lavoro</title>
+      <link>https://example.org/archive/2008/02/29/opportunit-224-di-lavoro.aspx</link>
+      <pubDate>Fri, 29 Feb 2008 08:54:51 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/29/opportunit-224-di-lavoro.aspx</guid>
+      <description>Interessante opportunità di lavoro su Milano:
+importante azienda cerca programmatore/programmatrice senior C# con buona conoscenza .NET Framework, ASP .NET e Oracle.
+Offresi contratto di assunzione e/o di consulenza.
+Titolo preferenziale: conoscenza del .Framework 3.5 e di C# 3.0.
+Le persone eventualmente interessate possono contattarmi attraverso la form contact di questo blog.</description>
+    </item>
+    
+    <item>
+      <title>Nuovo feed</title>
+      <link>https://example.org/archive/2008/02/25/nuovo-feed.aspx</link>
+      <pubDate>Mon, 25 Feb 2008 05:10:54 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/25/nuovo-feed.aspx</guid>
+      <description>Come già comunicato qui ho deciso di spostare il feed del mio blog su FeedBurner, un ottimo servizio esterno che consente tra l’altro di ottenere gratuitamente servizi aggiuntivi, e soprattutto di svincolare il proprio blog dal proprio feed rss “interno”, permettendo quindi di centralizzarlo con indubbi benefici, es. la possibilità di pubblicare i propri contenuti anche su altri blogs.
+Chi volesse sottoscrivere il mio blog dovrà dunque utilizzare il nuovo feed disponibile all’url: http://feeds.</description>
+    </item>
+    
+    <item>
+      <title>FeedBurner e CommunityServer</title>
+      <link>https://example.org/archive/2008/02/11/feedburner-e-communityserver.aspx</link>
+      <pubDate>Mon, 11 Feb 2008 13:01:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/11/feedburner-e-communityserver.aspx</guid>
+      <description>Finalmente ho trovato il tempo per aggiornare la versione di Community Server con cui gira questo blog; ho infatti effettuato un aggiornamento “doppio” passando dalla versione 1.1 alla versione 2007.1. L’aggiornamento era d’obbligo per via delle nuove feature della versione 2007. Ma non è stato semplice, anche per via della connessione Internet a mia disposizione (una lentissima UMTS).
+A proposito, questo è l’ultimo post scaricabile attraverso il consueto rss feed; ho deciso infatti di usufruire del servizio messo a disposizione da FeedBurner, un servizio esterno che eroga feed rss, fornendo nel contempo altri utili servizi.</description>
+    </item>
+    
+    <item>
+      <title>How addicted to blogging are you ?</title>
+      <link>https://example.org/archive/2007/06/30/how-addicted-to-blogging-are-you.aspx</link>
+      <pubDate>Sat, 30 Jun 2007 14:07:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/06/30/how-addicted-to-blogging-are-you.aspx</guid>
+      <description>Ultimamente non sto bloggando molto, causa impicci di varia natura, e conto di recuperare velocemente il terreno perduto !. Ma la lettura dei blogs rappresenta un momento della giornata per me irrinunciabile, quasi paragonato a leggere la posta elettronica. Insomma, curare il proprio blog o leggere quello altrui è quasi “uno stile di vita”. A tal proposito trovo molto simpatica questa iniziativa che attraverso un breve test on line tira fuori un risultato su quanto si è “addicted to blogging”.</description>
+    </item>
+    
+    <item>
+      <title>Taggato !!</title>
+      <link>https://example.org/archive/2007/01/05/taggato.aspx</link>
+      <pubDate>Fri, 05 Jan 2007 05:38:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2007/01/05/taggato.aspx</guid>
+      <description>Speravo di farla franca ma l’amico Mighell ha pensato bene di taggarmi ! Quindi adesso tocca a me: ecco le 5 cose che pochissime persone (forse nessuna…) conosce di me:
+Ho tante passioni che non riesco a vivere come vorrei causa mancanza di tempo (chiamateli hobby….) e sono, in ordine sparso: astronomia, astrofisica, fisica quantistica, scacchi (il mio sogno è stato sempre battermi con l”International Woman Grandmaster Alexandra Kosteniuk, senza però che pensate a male ), tecnologia in generale.</description>
+    </item>
+    
+    <item>
+      <title>Happy new year to all my friends !</title>
+      <link>https://example.org/archive/2006/12/31/happy-new-year-to-all-my-friends.aspx</link>
+      <pubDate>Sun, 31 Dec 2006 13:59:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/12/31/happy-new-year-to-all-my-friends.aspx</guid>
+      <description>Auguroni di felice 2007 a tutti i lettori di questo blog</description>
+    </item>
+    
+    <item>
+      <title>GUISA – Nuovo user group per architect</title>
+      <link>https://example.org/archive/2006/10/26/guisa-nuovo-user-group-per-architect.aspx</link>
+      <pubDate>Thu, 26 Oct 2006 06:26:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/26/guisa-nuovo-user-group-per-architect.aspx</guid>
+      <description>Finalmente uno user Group di architetti dove si parla solo esclusivamente di architetture, pattern, ecc. ecc.
+Io ne sentivo sinceramente la mancanza, e, non c’è da dubitarne, lo terrò costantemente sotto osservazione.</description>
+    </item>
+    
+    <item>
+      <title>Articolo sui servizi &#34;provider based&#34;</title>
+      <link>https://example.org/archive/2006/10/16/articolo-sui-servizi-quotprovider-basedquot.aspx</link>
+      <pubDate>Mon, 16 Oct 2006 07:01:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/16/articolo-sui-servizi-quotprovider-basedquot.aspx</guid>
+      <description>E’ disponibile il mio primo articolo per il nuovo user group del sud Italia dotnetSide, dedicato alle tecnologie Microsoft con particolare attenzione al .NET Framework. L’articolo è una panoramica sul Provider Model di ASP .NET 2.0, e focalizza l’attenzione soprattutto su come creare un proprio servizio applicativo ed agganciarvi i providers di implementazione degli algoritmi. Qualsiasi feedback sull’argomento è gradito.</description>
+    </item>
+    
+    <item>
+      <title>T-SQL Puzzle’s Blog</title>
+      <link>https://example.org/archive/2006/09/22/t-sql-puzzles-blog.aspx</link>
+      <pubDate>Fri, 22 Sep 2006 08:10:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/09/22/t-sql-puzzles-blog.aspx</guid>
+      <description>Dopo Kalen Delaney come già detto da Francesco, anche Itzik Ben-Gan ha aperto un suo blog. Chi ha letto i suoi articoli su T-SQL sa che Itzik è un personaggio davvero unico, come i suoi T-SQL Puzzle. Un’altro blog davvero imperdibile !</description>
+    </item>
+    
+    <item>
+      <title>Previsioni / speranze / promesse per l’anno 2006</title>
+      <link>https://example.org/archive/2006/01/16/previsioni-speranze-promesse-per-lanno-2006.aspx</link>
+      <pubDate>Mon, 16 Jan 2006 02:45:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/01/16/previsioni-speranze-promesse-per-lanno-2006.aspx</guid>
+      <description>Visto che ogni inizio anno è tempo di promesse e buoni propositi, non sarò certo io a tirarmi indietro.
+In ordine sparso ecco la mia lista di previsioni/speranze/promesse per l’anno appena iniziato:
+Concludere in tempi ragionevolmente brevi il nuovo percorso di certificazione Microsoft MCPD Partecipare allo sviluppo di un software open-source (di quelli non banali) Imparare un nuovo linguaggio di programmazione (mi piacerebbe il C++, ma la vedo molto dura) Guadagnare di più [ ……personale ….</description>
+    </item>
+    
+  </channel>
+</rss>

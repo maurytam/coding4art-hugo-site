@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T-SQL on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/t-sql/</link>
+    <description>Recent content in T-SQL on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2009 00:10:33 +0000</lastBuildDate><atom:link href="https://example.org/categories/t-sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Righe casuali in SQL Server 2000</title>
+      <link>https://example.org/archive/2009/10/26/righe-casuali-in-sql-server-2000.aspx</link>
+      <pubDate>Mon, 26 Oct 2009 00:10:33 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/26/righe-casuali-in-sql-server-2000.aspx</guid>
+      <description>Ordinare le righe di una tabella di Sql Server in modo casuale, cioè con ordinamento variabile di volta in volta, non è certamente una operazione di ogni giorno e, a prima vista, può anche sembrare una operazione complessa. In realtà è abbastanza semplice se ci si affida alla funzione NEWID() che ritorna un GUID univoco in assoluto; pertanto la seguente query:
+T-SQL
+restituirà un resultset ordinato ogni volta in modo differente.</description>
+    </item>
+    
+    <item>
+      <title>Manipolare i campi identity in T-SQL</title>
+      <link>https://example.org/archive/2009/10/26/manipolare-i-campi-identity-in-t-sql.aspx</link>
+      <pubDate>Mon, 26 Oct 2009 00:07:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/26/manipolare-i-campi-identity-in-t-sql.aspx</guid>
+      <description>Spesso può essere utile verificare il valore identity associato ad una colonna di una tabella di database ed eventualmente modificarlo, impostandolo chiaramente ad un valore almeno uguale al valore più alto del campo. Questa operazione è utile soprattutto quando si popola una tabella con un campo di questo tipo con informazioni di test, che successivamente sono eliminate, ed è quindi utile azzerare il valore identity per farlo ripartire da 1.</description>
+    </item>
+    
+    <item>
+      <title>Accedere al registro di Windows utilizzando T-SQL</title>
+      <link>https://example.org/archive/2009/10/25/accedere-al-registro-di-windows-utilizzando-t-sql.aspx</link>
+      <pubDate>Sun, 25 Oct 2009 23:46:55 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/25/accedere-al-registro-di-windows-utilizzando-t-sql.aspx</guid>
+      <description>Sql Server prevede una serie di stored procedure di sistema per svolgere funzioni di amministrazione del server, gestione della posta elettronica, esecuzione di comandi di sistema, etc., alcune delle quali anche non documentate, e che possono tornare utili in diverse occasioni. Poichè si tratta di una applicazione basata su COM utilizza il registro di sistema per memorizzare informazioni vitali per il suo funzionamento. Attraverso una store procedure non documentata chiamata xp_regread è possibile leggere il valore di una qualsiasi chiave di registro, utilizzando il tal modo solo codice T-SQL.</description>
+    </item>
+    
+  </channel>
+</rss>

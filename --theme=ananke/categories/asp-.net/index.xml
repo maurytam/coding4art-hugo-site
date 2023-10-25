@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP .NET on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/asp-.net/</link>
+    <description>Recent content in ASP .NET on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2013 13:13:07 +0000</lastBuildDate><atom:link href="https://example.org/categories/asp-.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ASP .NET] How to access Request data when HttpContext.Current.Request is unavailable</title>
+      <link>https://example.org/archive/2013/10/03/asp-net-how-to-access-request-data-when-httpcontext-current.aspx</link>
+      <pubDate>Thu, 03 Oct 2013 13:13:07 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/10/03/asp-net-how-to-access-request-data-when-httpcontext-current.aspx</guid>
+      <description>What happened if you need to access the HttpRequest object whitin the event Application_Start of an ASP .NET Web Application ?
+Response: you end up with an exception.
+Someone might observe that such event is not a valid place for a task like that, but sometimes things are simply different from those that appear at first sight.
+So, if you want to get for example the virtual path or the physical path of a web application before the HttpRequest object is constructed this is a valid solution:</description>
+    </item>
+    
+    <item>
+      <title>L&amp;rsquo;evento Application_Start ed il suo corretto utilizzo</title>
+      <link>https://example.org/archive/2010/02/24/lrsquoevento-application_start-ed-il-suo-corretto-utilizzo.aspx</link>
+      <pubDate>Wed, 24 Feb 2010 04:29:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/02/24/lrsquoevento-application_start-ed-il-suo-corretto-utilizzo.aspx</guid>
+      <description>Regola importante in una applicazione ASP .NET:
+durante l’evento Application_Start dovrebbero essere assegnate solo variabili statiche e mai variabili d’istanza; ciò è dovuto al fatto che questo evento viene sollevato solo 1 volta durante il ciclo di vita dell’applicazione e, insieme all’evento Application_End, non è legato alla istanza in esecuzione della classe HttpApplication ma, al contrario, entrambi sono considerati eventi speciali.
+Infatti, ogni applicazione ASP .NET in esecuzione è associata ad un oggetto HttpApplication, capace di gestire una richiesta alla volta.</description>
+    </item>
+    
+    <item>
+      <title>ASP .NET 4.0 #3 Ci&amp;ograve; che non &amp;egrave; cambiato</title>
+      <link>https://example.org/archive/2009/11/25/asp-net-4-0-3-ciograve-che-non-egrave-cambiato.aspx</link>
+      <pubDate>Wed, 25 Nov 2009 03:42:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/11/25/asp-net-4-0-3-ciograve-che-non-egrave-cambiato.aspx</guid>
+      <description>ASP .NET 4.0 è ormai alle porte, con la versione beta è possibile scoprire le novità rispetto alla versione precedente, e non sono certamente poche, ma a livello di controlli lato server ce ne sono alcuni praticamente immutati rispetto alle precedenti versioni. Mi riferisco ad esempio al controllo Http File Upload, rimasto identico nelle varie versioni di ASP .NET che si sono succedute. Questo controllo soffre di qualche problema e non è certo il massimo in ottica web 2.</description>
+    </item>
+    
+    <item>
+      <title>L&amp;rsquo;evento page load &amp;egrave; eseguito 2 volte</title>
+      <link>https://example.org/archive/2009/11/15/lrsquoevento-page-load-egrave-eseguito-2-volte.aspx</link>
+      <pubDate>Sun, 15 Nov 2009 05:17:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/11/15/lrsquoevento-page-load-egrave-eseguito-2-volte.aspx</guid>
+      <description>Convertire un progetto ASP .NET dalla versione 1.1 ad una versione successiva del .NET Framework nasconde un inconveniente a cui occorre porre rimedio manualmente.
+L’inconveniente è dovuto alla introduzione delle partial class a partire dalla versione 2.0 del .NET Framework, in contrapposizione al codice generato dal designer nella versione 1.1.
+Questo fa si che importando il codice sorgente nella nuova versione utilizzata ci si ritrovi, ad esempio, con un event handler come questo nel metodo InitializeComponent</description>
+    </item>
+    
+    <item>
+      <title>ASP .Net e i thread secondari</title>
+      <link>https://example.org/archive/2009/09/28/asp-net-e-i-thread-secondari.aspx</link>
+      <pubDate>Mon, 28 Sep 2009 06:24:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/09/28/asp-net-e-i-thread-secondari.aspx</guid>
+      <description>Interessantissimo post di Stefano Pronti del nuovo blog MSDN di Supporto Tecnico agli Sviluppatori, che spiega le disastrose conseguenze di non richiamare il metodo Dispose su risorse unmanaged, utilizzate all’interno di una web application.
+Per farla breve, le risorse unmanaged utilizzavano un thread secondario rispetto a quello che prende in carico la web request, ed in questo thread secondario veniva sollevata una eccezione non gestita durante la fase di finalizzazione del garbage collector, che, come è noto, viene eseguito in un thread diverso.</description>
+    </item>
+    
+    <item>
+      <title>HttpResponse.ApplyAppPathModifier</title>
+      <link>https://example.org/archive/2009/01/27/httpresponse-applyapppathmodifier.aspx</link>
+      <pubDate>Tue, 27 Jan 2009 14:00:20 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/01/27/httpresponse-applyapppathmodifier.aspx</guid>
+      <description>Se si usano le sessioni ASP .NET coockieless, ovvero sessioni in cui il SessionID viene inserito nell’url nella seguente forma:
+/App/(S(avsbnbml2n1n5mi5rmfqnu65))/default.aspx
+il metodo ApplyAppPathModifier della classe HttpResponse risulta estremamente utile, poichè, passandogli come parametro stringa un path virtuale, restituisce lo stesso path con il SessiondID inserito correttamente nell’url, sollevando lo sviluppatore dalla costruzione manuale dello stesso. Ciò risulta evidente ogni qual volta è necessario utilizzare url caricati dinamicamente.</description>
+    </item>
+    
+    <item>
+      <title>IIS ASP .NET Tab missing</title>
+      <link>https://example.org/archive/2008/06/11/iis-asp-net-tab-missing.aspx</link>
+      <pubDate>Wed, 11 Jun 2008 03:54:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/06/11/iis-asp-net-tab-missing.aspx</guid>
+      <description>Vi è mai capitato che nella console di amministrazione di IIS per una certa web application sparisse il tab ASP .NET senza apparente motivo ?
+A me sì, con tutte le conseguenze del caso, e senza che riuscissi a trovare una soluzione nei forum e user group. Ora finalmente la soluzione esiste.
+E’ spiegata in modo dettagliato in questo post, ed inoltre, come afferma l’autore del post, non esiste nessuna soluzione immediata che pone riparo a questa anomalia.</description>
+    </item>
+    
+    <item>
+      <title>Messaggio di errore Ambiguous match found e httpParseException</title>
+      <link>https://example.org/archive/2008/03/17/messaggio-di-errore-ambiguous-match-found-e-httpparseexception.aspx</link>
+      <pubDate>Mon, 17 Mar 2008 08:58:15 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/03/17/messaggio-di-errore-ambiguous-match-found-e-httpparseexception.aspx</guid>
+      <description>Scenario: web application che utilizza la versione 1.1 di ASP .NET migrata direttamente alla versione 3.5. Dopo la migrazione su una delle pagine ASPX viene sollevato una HttpParseException durante il caricamento della stessa. L’eccezione in questione, come si evince dal nome, viene generata dal runtime di ASP .NET quando il parsing di una pagina ASPX fallisce a runtime. Il messaggio di errore recita “Ambiguous match found”, e quindi non aiuta granchè.</description>
+    </item>
+    
+    <item>
+      <title>Partial rendering troubleshooting</title>
+      <link>https://example.org/archive/2008/03/13/partial-rendering-troubleshooting.aspx</link>
+      <pubDate>Thu, 13 Mar 2008 10:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/03/13/partial-rendering-troubleshooting.aspx</guid>
+      <description>Regola importante: l’update parziale di una pagina ASP .NET 2.0 (o successivi) attraverso l’UpdatePanel di Ajax non funziona in presenza di questo tag nel file di configurazione dell’applicazione (o nel machine.config):
+Infatti, con questa impostazione la proprietà “SupportPartialRendering” dell’oggetto ScriptManager ritorna il valore false.
+Il tag in questione imposta la modalità di rendering dei controlli, es.: in modalità compatibile XHTML (mode=”Transitional” o “Strict”) oppure no (mode=”Legacy”).
+In ASP .NET 1.1 i controlli subivano un rendering non XHTML compatibile, e questo comportamento è stato modificato in ASP .</description>
+    </item>
+    
+    <item>
+      <title>TextBox ReadOnly in .NET 2.0 e successivi</title>
+      <link>https://example.org/archive/2008/02/26/textbox-readonly-in-net-2-0-e-successivi.aspx</link>
+      <pubDate>Tue, 26 Feb 2008 09:13:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/02/26/textbox-readonly-in-net-2-0-e-successivi.aspx</guid>
+      <description>Il controllo TextBox di una web application dispone della proprietà ReadOnly che, ovviamente, impedisce l’interazione dell’utente con il controllo quando è impostata a True.
+Ma c’è un particolare importantissimo da considerare: a partire dalla versione 2.0 del .NET Framework il contenuto di un textbox in modalità “ReadOnly” è inviato al server durante un postback della pagina, ma il server ignora questo valore; in altre parole il contenuto del textbox viene perso durante un postback.</description>
+    </item>
+    
+    <item>
+      <title>Eccezioni non gestite in ASP .NET 2.0</title>
+      <link>https://example.org/archive/2008/01/10/eccezioni-non-gestite-in-asp-net-2-0.aspx</link>
+      <pubDate>Thu, 10 Jan 2008 18:43:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/01/10/eccezioni-non-gestite-in-asp-net-2-0.aspx</guid>
+      <description>Le eccezioni non gestite generate da una applicazione ASP .NET compilata con la versione 2.0 del .NET Framework sono trattate diversamente da quanto avveniva con le applicazioni ASP .NET compilate con la versione 1.0/1.1. Queste ultime semplicemente ignoravano le eccezioni non gestite sollevate all’esterno del contesto corrente, es. un thread diverso da quello principale, mentre le eccezioni sollevate all’interno del contesto erano trattate normalmente come qualsiasi eccezione non gestita. Con il .</description>
+    </item>
+    
+    <item>
+      <title>Single Sign On &amp; sezione &lt;machineKey&gt;</title>
+      <link>https://example.org/archive/2006/10/11/single-sign-on-amp-sezione-ltmachinekeygt.aspx</link>
+      <pubDate>Wed, 11 Oct 2006 07:17:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/11/single-sign-on-amp-sezione-ltmachinekeygt.aspx</guid>
+      <description>Girovagando tra la rete mi sono imbattuto in questo utilissimo tool utilizzabile on-line per la generazione della sezione del web.config, nel caso, molto concreto oggigiorno, si voglia implementare il meccanismo di SSO (Single Sign On) per le proprie applicazioni. In sostanza si tratta di effettuare il login una sola volta ed essere riconosciuto da n applicazioni che condividono in questo modo il contesto di sicurezza dell’utente, con indubbi benefici.</description>
+    </item>
+    
+    <item>
+      <title>Delete Subdirectory &amp; AppDomain recycle</title>
+      <link>https://example.org/archive/2006/10/09/delete-subdirectory-amp-appdomain-recycle.aspx</link>
+      <pubDate>Mon, 09 Oct 2006 10:59:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/10/09/delete-subdirectory-amp-appdomain-recycle.aspx</guid>
+      <description>Tra le cause che provocano lo scaricamento immediato dell’AppDomain di una applicazione ASP .NET 2.0 è presente anche la cancellazione di una sub-directory della applicaizione principale, operata attraverso Windows Explorer. Infatti, dopo tale operazione nell’Event Viewer del server appare un messaggio di tipo informativo.
+Questo comportamento è differente rispetto a ad ASP.NET 1.0/1.1, dove la stessa operazione non produceva assolutamente nulla nè l’engine veniva notificato dell’evento; quindi il contenuto della directory cancellata continuava ad essere considerato valido con il potenziale rischio di errore a run-time.</description>
+    </item>
+    
+    <item>
+      <title>Check-list per applicazioni ASP .NET in produzione</title>
+      <link>https://example.org/archive/2006/09/15/check-list-per-applicazioni-asp-net-in-produzione.aspx</link>
+      <pubDate>Fri, 15 Sep 2006 10:22:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/09/15/check-list-per-applicazioni-asp-net-in-produzione.aspx</guid>
+      <description>Riporto di seguito una lista, in ordine sparso, tratta dalla mia esperienza sul campo dei possibili accorgimenti e/o errori che influiscono sulla scalabilità o sulle performance e che tornano quindi utili quando si trasferisce su di un server di produzione una applicazione ASP .NET complessa con elevato numero di accessi concorrenti:
+Chiaramente questa non vuole essere una lista esaustiva circa tutti i possibili scenari a cui si può andare incontro quando si effettua il deployment in produzione di una applicazione web, ma solo una semplice check-list pronta all’uso che provvederò magari ad aggiornare man mano che entrano in gioco altri fattori.</description>
+    </item>
+    
+    <item>
+      <title>Data caching: considerazioni</title>
+      <link>https://example.org/archive/2006/09/08/data-caching-considerazioni.aspx</link>
+      <pubDate>Fri, 08 Sep 2006 10:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/09/08/data-caching-considerazioni.aspx</guid>
+      <description>L’utilizzo della cache in applicazioni web non è sempre intuitivo come potrebbe sembrare. Se inseriamo un oggetto in cache assegnandogli, ad es., una scadenza assoluta di 1 ora, potremmo pensare che lo stesso rimanga in cache fino a che non scade. Invece non è così. Un oggetto in cache può in qualsiasi momento antecedente la sua scadenza (cioè quando è ancora valido) essere eletto per una operazione di garbage collection; quindi può essere distrutto e, in tal caso, la memoria da esso occupata viene liberata, a prescindere se il suo periodo di validità si è esaurito oppure no.</description>
+    </item>
+    
+    <item>
+      <title>Una risorsa fondamentale per il mio lavoro</title>
+      <link>https://example.org/archive/2006/08/29/una-risorsa-fondamentale-per-il-mio-lavoro.aspx</link>
+      <pubDate>Tue, 29 Aug 2006 10:49:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/08/29/una-risorsa-fondamentale-per-il-mio-lavoro.aspx</guid>
+      <description>Di questo link ne faccio un post nel mio blog per tenerlo sempre a portata di….mouse!. Trattasi di una raccolta di link di Scott Gu, uno dei maggiori esperti mondiali di ASP .NET e di .NET in generale, riguardanti tips &amp;amp; tricks, approfondimenti e veri e propri tutorial per chi sviluppa applicazioni web di livello enterprise. Il livello di dettaglio e la chiarezza espositiva di Scott Gu è davvero superlativa, e attraverso il suo blog si entra in possesso di “conoscenza” che forse nemmeno i libri di livello avanzato o i workshop tecnici più spinti riescono a fornire.</description>
+    </item>
+    
+    <item>
+      <title>Web deployment project, la mia esperienza</title>
+      <link>https://example.org/archive/2006/08/28/web-deployment-project-la-mia-esperienza.aspx</link>
+      <pubDate>Mon, 28 Aug 2006 10:26:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/08/28/web-deployment-project-la-mia-esperienza.aspx</guid>
+      <description>Il nuovo modello di compilazione-deployment di ASP .NET 2.0 non è certamente facile da usare e nemmeno intuitivo, soprattutto per chi proviene da ASP .NET 1.0/1.1. Non a caso Microsoft ha rilasciato un add-in, il Web deployment Project, praticamente in concomitanza con l’uscita di Visual Studio 2005, che permette di utilizzare il modello di compilazione di ASP.NET 2.0, pur garantendo un alto grado di flessibilità; infatti è possibile compilare una applicazione web in un singolo assembly, oppure in un assembly separato per ogni sua directory, oppure ancora in un assembly separato per ogni pagina/controllo.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Path Provider</title>
+      <link>https://example.org/archive/2006/02/20/virtual-path-provider.aspx</link>
+      <pubDate>Mon, 20 Feb 2006 18:02:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/02/20/virtual-path-provider.aspx</guid>
+      <description>Una tra le feature più innovative di ASP .NET 2.0 è il cosiddetto Virtual Path Provider. Devo dire però che, dopo aver approfondito l’argomento grazie a questo post di Dino Esposito e da lì al link relativo all’articolo su MSDN, non riesco ancora a trovare un campo di applicazione “logico” per questa nuova funzionalità, almeno in ambienti di produzione ad alta disponibilità. Attraverso questa feature si avrà la possibilità di astrarre la risorsa fisica (file, directory) che viene inglobata nella richiesta di una pagina ASP.</description>
+    </item>
+    
+    <item>
+      <title>.NET Pet Shop 4.0</title>
+      <link>https://example.org/archive/2006/02/18/net-pet-shop-4-0.aspx</link>
+      <pubDate>Sat, 18 Feb 2006 15:27:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/02/18/net-pet-shop-4-0.aspx</guid>
+      <description>E’ disponibile per il download la versione 4.0 di .NET Pet Shop, una applicazione “benchmark” di esempio per confrontare le prestazioni di una applicazione ASP .NET di classe enterprise con una equivalente applicazione J2EE. La versione 4.0 è focalizzata su ASP .NET 2.0 e mostra come ottenere una applicazione robusta riducendo il numero di righe di codice sorgente necessarie.
+In questa versione è possibile vedere all’opera le seguenti caratteristiche della versione 2.</description>
+    </item>
+    
+  </channel>
+</rss>

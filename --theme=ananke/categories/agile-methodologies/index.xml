@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile methodologies on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/agile-methodologies/</link>
+    <description>Recent content in Agile methodologies on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2010 12:06:28 +0000</lastBuildDate><atom:link href="https://example.org/categories/agile-methodologies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Agile, Waterfall and so on..</title>
+      <link>https://example.org/archive/2010/11/25/thoughts-on-agile-waterfall-and-so-on.aspx</link>
+      <pubDate>Thu, 25 Nov 2010 12:06:28 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/11/25/thoughts-on-agile-waterfall-and-so-on.aspx</guid>
+      <description>In the extreme programming mailing list I read this topic that i carried over verbatim:
+If I had a common flaw I see in all recent projects is that there is more focus on analysis, has passed the message that the analysis is unnecessary and can be done during construction or not do at all. I totally agree with this thought, that is independent from the application of each methodology, whatever you want</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana</title>
+      <link>https://example.org/archive/2009/09/25/link-utili-della-settimana.aspx</link>
+      <pubDate>Fri, 25 Sep 2009 07:28:26 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/09/25/link-utili-della-settimana.aspx</guid>
+      <description>Descrizione di Unity, il framework di Inversion of Control e Dipendency Injection sviluppato dal team di P&amp;amp;P (qui Ã¨ presente la versione 1.2 per Silverlight) 45 passi per diventare agili xVal, libreria per la validazione client side di applicazioni ASP .NET MVC Anti XSS Library ver. 3.1 CodePad .NET 1.0 Beta 2, un editor leggero per provare spezzoni di codice Strongly typed session variables in ASP .NET MVC Visual Studio 2010 e .</description>
+    </item>
+    
+  </channel>
+</rss>

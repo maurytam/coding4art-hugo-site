@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WCF on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/wcf/</link>
+    <description>Recent content in WCF on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jun 2012 13:41:35 +0000</lastBuildDate><atom:link href="https://example.org/categories/wcf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WCF 4.0 and its defaults</title>
+      <link>https://example.org/archive/2012/06/06/wcf-4-0-and-its-defaults.aspx</link>
+      <pubDate>Wed, 06 Jun 2012 13:41:35 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2012/06/06/wcf-4-0-and-its-defaults.aspx</guid>
+      <description>The default endpoint and default binding provided by WCF 4.0 are obviously great features that can save developing and testing time, but sometimes this conventional configuration don’t help in case you have some trouble with certain setting that doesn’t work.
+The setting I mean in this case concern the Windows Authentication over HTTP.
+To enable this setting you have only to configure the basic http bindings with a specified security mode, and then, obviously, configure the IIS authentication for the site/virtual directory that host your service to enable Windows Authentication and disable Anonymous access.</description>
+    </item>
+    
+    <item>
+      <title>AddessAccessDeniedException in WCF 4.0</title>
+      <link>https://example.org/archive/2011/06/28/addessaccessdeniedexception-in-wcf-4-0.aspx</link>
+      <pubDate>Tue, 28 Jun 2011 15:38:55 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/06/28/addessaccessdeniedexception-in-wcf-4-0.aspx</guid>
+      <description>If you host a WCF service on a machine with UAC enabled, Vista or Win7 for example, you might run into a seemingly strange exception:
+The reason is due to the fact that to host a WCF service you need to register its url, and this task requires administrator privileges, and this means as well that if you run Visual Studio as Administrator everything works fine, but what if you don’t have this possibility ?</description>
+    </item>
+    
+    <item>
+      <title>Default endpoints in WCF 4.0</title>
+      <link>https://example.org/archive/2011/06/28/default-endpoints-in-wcf-4-0.aspx</link>
+      <pubDate>Tue, 28 Jun 2011 14:55:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/06/28/default-endpoints-in-wcf-4-0.aspx</guid>
+      <description>Starting from WCF 4.0 it’s possible to use a default endpoint in absence of explicit configuration. This means that you can avoid to configure an explicit endpont because of a default mapping between protocol schema and bindings described in the configuration file machine.config.
+Here is the default content of that mapping:
+For example, in the case of presence of “http” in the protocol, it will be used the default binding “basicHttpBinding” without the need to configure an endpoint explicitly.</description>
+    </item>
+    
+    <item>
+      <title>Impossibile aggiungere una service reference in visual studio 2008</title>
+      <link>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</link>
+      <pubDate>Mon, 28 Jul 2008 10:03:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/28/impossibile-aggiungere-una-service-reference-in-visual-studio-2008.aspx</guid>
+      <description>Questo workaround spero sia utile a chi si è trovato nella stessa mia situazione, e cioè che improvvisamente Visual Studio 2008 si rifiuta di aggiungere una Service Reference ad un servizio WCF, dando questo errore:
+The components required to enumerate web references are not installed on this computer. Please re-install Visual studio. Ho poi scoperto che il problema si presentava anche aggiungendo semplici web reference (ASP .NET web services) a progetti creati con Visual Studio 2005.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+---
+title: Attributo AllowPartiallyTrustedCallers
+author: mtammacco
+type: post
+date: 2006-11-02T06:51:00+00:00
+url: /archive/2006/11/02/attributo-allowpartiallytrustedcallers.aspx
+categories:
+  - Technical articles
+
+---
+<font face="Verdana" size="2" />
+
+In determinate circostanze, è possibile che una applicazione ASP .NET restituisca un errore del tipo &#8220;Configuration Error&#8221;, &#8220;Required permissions cannot be acquired&#8221;. Il testo di questo errore è fuorviante, nel senso che non fornisce alcun dettaglio, ma c&#8217;è un motivo ben preciso. Esso si verifica quando un membro pubblico di una classe inserita in un assembly firmato con uno strong name e registrato nella GAC, viene chiamato da codice situato in un assembly che non dispone del permesso &#8220;FullTrust&#8221;. Infatti, come regola generale, per poter accedere ai membri pubblici di classi inseriti in assembly firmati con strong name è necessario che il codice chiamante abbia il permesso FullTrust. Qualsiasi altro permesso genera una SecurityException, mascherata da ASP .NET nello &#8220;strano&#8221; messaggio di errore menzionato prima, per non fornire dettagli sull&#8217;errore che potrebbero risultare pericolosi. Questo requisito è dovuto al fatto che il CLR aggiunge una richiesta &#8220;Link Demand&#8221; per il permesso FullTrust (quindi solo per il codice immediatamente prima nello stack delle chiamate e non per tutto il codice nello stack) per ogni membro pubblico delle classi situate in assembly firmate con strong name. Questo errore può avvenire anche se l&#8217;assembly in questione possiede il permesso &#8220;FullTrust&#8221; garantitogli dall&#8217;amministratore di sistema, ma il suo codice &#8220;rifiuta&#8221; determinati permessi, utilizzando ad esempio la modalità _SecurityAction.RequestRefuse_ oppure _SecurityAction.RequestOptional_. In questo caso l&#8217;assembly è a tutti gli effetti un &#8220;partially trusted assembly&#8221;. Il comportamento garantito dal CLR è corretto per la stragrande maggioranza delle situazioni, ma può essere sovrascritto per far fronte a situazioni in cui un assembly &#8220;strong named&#8221; deve essere richiamato da un assembly &#8220;partially trusted&#8221;. Per permettere questo, è necessario decorare l&#8217;assembly &#8220;strong named&#8221; con l&#8217;attributo _AllowPartiallyTrustedCallerAttribute()._ Così facendo aumentano i potenziali rischi di sicurezza dell&#8217;uso del codice.
+
+Comunque, questa situazione non può essere risolta nel modo citato se la singola classe all&#8217;interno di un assembly &#8220;strong named&#8221; richiede esplicitamente il permesso &#8220;FullTrust&#8221; per i chiamanti attraverso un LinkDemand oppure un Demand normale. In questo caso, nonostante l&#8217;attributo AllowPartiallyTrustedCallers a livello dei assembly, questa classe in particolare continuerà a generare una SecurityException nel caso di codice chiamante che non sia &#8220;FullTrust&#8221;.<font face="Verdana" size="2" />

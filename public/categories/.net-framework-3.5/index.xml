@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.NET Framework 3.5 on My New Hugo Site</title>
+    <link>https://example.org/categories/.net-framework-3.5/</link>
+    <description>Recent content in .NET Framework 3.5 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Sep 2010 15:58:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/.net-framework-3.5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LINQ &amp;ndash; Variabili temporanee con la parola chiave Let</title>
+      <link>https://example.org/archive/2010/09/03/linq-ndash-variabili-temporanee-con-la-parola-chiave-let.aspx</link>
+      <pubDate>Fri, 03 Sep 2010 15:58:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/03/linq-ndash-variabili-temporanee-con-la-parola-chiave-let.aspx</guid>
+      <description>L’uso di LINQ apre davvero a scenari molto molto interessanti grazie alla sua potenza e flessibilità.
+Oggi ho scoperto che in una query LINQ è possibile costruire una variabile temporanea ed utilizzarla successivamente nella esposizione del risultato della query.
+Ecco un esempio:
+Nella query LINQ precedente, mediante la parola chiave “let” è possibile creare una variabile temporanea (discount nell’esempio), farci delle manipolazioni, e ritrovarsi la variabile nella query.
+Figo</description>
+    </item>
+    
+    <item>
+      <title>Object Identity / Equality</title>
+      <link>https://example.org/archive/2010/05/04/object-identity-equality.aspx</link>
+      <pubDate>Tue, 04 May 2010 03:03:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/05/04/object-identity-equality.aspx</guid>
+      <description>E’ noto che il metodo virtuale Equals ereditato da ogni oggetto dalla classe System.Object permette di definire un criterio di uguaglianza tra due oggetti non basato esclusivamente sulla reference (ovvero 2 oggetti sono uguali se puntano alla stessa istanza di un determinato oggetto).
+E’ altresì noto che ridefinendo il metodo Equals siamo costretti a ridefinire il metodo GetHashCode per far si che in presenza di 2 oggetti uguali (Equals che ritorna true), il metodo GetHashCode ritorni lo stesso valore di hash per i 2 oggetti, questo perchè l’oggetto in questione potrebbe essere usato come chiave in una collezione di tipo HashTable o Dictionary&amp;lt;T,V&amp;gt;.</description>
+    </item>
+    
+    <item>
+      <title>Raccolta extension methods</title>
+      <link>https://example.org/archive/2010/04/13/raccolta-extension-methods.aspx</link>
+      <pubDate>Tue, 13 Apr 2010 18:46:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/04/13/raccolta-extension-methods.aspx</guid>
+      <description>Gli extension methods sono una feature estremamente potente ed interessante, introdotta a partire dal .Net Framework 3.5 SP1.
+A tal proposito, su Codeplex è presente un interessantissima libreria di codice che raccoglie extension methods applicati a svariati tipi.
+Davvero molto molto utile.
+Come detto qui da Gianluca Carucci, questa feature non necessita necessariamente della versione 3.5 del .Net Framework per essere utilizzata, ma, con un piccolo accorgimento, è possibile sfruttarne a pieno le potenzialità utilizzando anche il .</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #1</title>
+      <link>https://example.org/archive/2009/10/09/link-utili-della-settimana-2.aspx</link>
+      <pubDate>Fri, 09 Oct 2009 03:50:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/10/09/link-utili-della-settimana-2.aspx</guid>
+      <description>– &amp;lt;a href=&amp;ldquo;http://www.galasoft.ch/mvvm/getstarted/&amp;quot; target=&amp;rdquo;_blank&amp;quot; mce_href=&amp;ldquo;http://www.galasoft.ch/mvvm/getstarted/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;MVVM Toolkit Light
+– &amp;lt;a href=&amp;ldquo;http://ajaxcontroltoolkit.codeplex.com/release/projectreleases.aspx?releaseid=33804&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://ajaxcontroltoolkit.codeplex.com/release/projectreleases.aspx?releaseid=33804&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Ajax Control Toolkit release 30930 (30 sett 2009);
+–&amp;lt;a href=&amp;ldquo;http://wscfblue.codeplex.com/&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://wscfblue.codeplex.com/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;thinktecture.WSCF.blue (Contract first WCF Tool)
+– The &amp;lt;a href=&amp;ldquo;http://msdn.microsoft.com/en-us/magazine/dd419663.aspx&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://msdn.microsoft.com/en-us/magazine/dd419663.aspx&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;ModelView-ViewModel design pattern for WPF
+– &amp;lt;a href=&amp;ldquo;http://www.coderun.com/&amp;quot; target=&amp;rdquo;_blank&amp;rdquo; mce_href=&amp;ldquo;http://www.coderun.com/&amp;quot; rel=&amp;ldquo;noopener&amp;rdquo;&amp;gt;Code Run (questo è davvero incredibile, si evincono chiaramente le potenzialità del Cloud Computing). Trattasi di un IDE Online, con cui è possibile sviluppare progetti .</description>
+    </item>
+    
+    <item>
+      <title>Come ottenere il nome del metodo chiamante dallo stack usando reflection</title>
+      <link>https://example.org/archive/2009/08/14/come-ottenere-il-nome-del-metodo-chiamante-dallo-stack-usando.aspx</link>
+      <pubDate>Fri, 14 Aug 2009 05:41:14 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/08/14/come-ottenere-il-nome-del-metodo-chiamante-dallo-stack-usando.aspx</guid>
+      <description>Cosi:
+Fonte: Tips &amp;amp; Tricks for ASP.NET, IIS, and Visual Web Developer</description>
+    </item>
+    
+    <item>
+      <title>Invocazione di store procedure oracle in .NET</title>
+      <link>https://example.org/archive/2009/02/16/invocazione-di-store-procedure-oracle-in-net.aspx</link>
+      <pubDate>Mon, 16 Feb 2009 07:50:39 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/02/16/invocazione-di-store-procedure-oracle-in-net.aspx</guid>
+      <description>Il Data Access Application Block, contenuto all’interno della Enterprise Library 4.1 consente di richiamare store procedures passando esclusivamente il valore dei singoli parametri richiesti (mediante l’utilizzo del metodo GetStorepProcCommand dell’oggetto DatabaseFactory), nello stesso ordine con cui questi sono espressi nella firma della procedura. Poichè ADO .NET richiede comunque che ogni informazione in merito ai parametri della store sia obbligatoria (quindi tipo di dato, dimensione, precisione, scala, ecc), il metodo effettua internamente una chiamata al metodo DeriveParameters di ADO .</description>
+    </item>
+    
+    <item>
+      <title>Le direttive using devono essere poste all’interno del namespace</title>
+      <link>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</link>
+      <pubDate>Tue, 22 Jul 2008 08:59:42 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/22/le-direttive-using-devono-essere-poste-all-interno-del-namespace.aspx</guid>
+      <description>Questo post inizia con una frase tratta da un post di Scott Hanselmann con cui mi trovo completamente d’accordo:
+Credo sia proprio vero, mai fidarsi ciecamente di quello che si legge in giro, soprattutto quando seri dubbi farebbero pensare il contrario.
+Il motivo è presto detto: utilizzo normalmente FxCop come strumento di analisi del codice sorgente, lo trovo molto completo e ben fatto. Spinto dalla curiosità ho voluto utilizzare Source Analysis, un tool gratuito fornito da Microsoft ed integrato nell’IDE di Visual Studio.</description>
+    </item>
+    
+    <item>
+      <title>Automatic properties in c# 3.0</title>
+      <link>https://example.org/archive/2008/07/20/automatic-properties-in-c-3-0.aspx</link>
+      <pubDate>Sun, 20 Jul 2008 15:27:31 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/20/automatic-properties-in-c-3-0.aspx</guid>
+      <description>Utilizzando C# 3.0 è possibile scrivere le proprietà di una classe in modo estremamente compatto, in questo modo:
+Questa modalità, chiamata “Automatic properties” permette quindi di omettere il riferimento al membro privato che normalmente viene “wrappato” dalla proprietà stessa.
+Sarà compito del compilatore autogenerare al volo il membro privato al momento della compilazione. Questa caratteristica impone che il codice della classe non può in nessun modo accedere alla variabile privata, appunto perchè al momento della stesura del codice essa non esiste ancora in quanto sarà autogenerata in fase di compilazione.</description>
+    </item>
+    
+    <item>
+      <title>Extentions Methods, come crearli</title>
+      <link>https://example.org/archive/2008/05/13/extentions-methods-come-crearli.aspx</link>
+      <pubDate>Tue, 13 May 2008 11:32:22 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/05/13/extentions-methods-come-crearli.aspx</guid>
+      <description>Una delle più interessanti feature disponibili con la versione 3.5 del .NET Framework sono, a mio avviso, gli Extention Methods, caratteristica legata al linguaggio di programmazione che permette di aggiungere metodi personalizzati a qualsiasi classe/interfaccia del .NET Framework, incluse le classi usate come classi di base (un esempio per tutte: la classe object), “estendendo” appunto il tipo originale.
+In tal modo è possibile estendere il contratto pubblico esposto dalla classe /interfaccia senza per questo ricorrere all’ereditarietà.</description>
+    </item>
+    
+    <item>
+      <title>101 LINQ Samples</title>
+      <link>https://example.org/archive/2008/04/23/101-linq-samples.aspx</link>
+      <pubDate>Wed, 23 Apr 2008 10:51:53 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/04/23/101-linq-samples.aspx</guid>
+      <description>Se lavorate con LINQ, questa pagina è utile averla sempre a portata di mouse. 101 LINQ Samples</description>
+    </item>
+    
+  </channel>
+</rss>

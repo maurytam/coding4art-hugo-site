@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.NET Framework 4.0 on My New Hugo Site</title>
+    <link>https://example.org/categories/.net-framework-4.0/</link>
+    <description>Recent content in .NET Framework 4.0 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2013 13:38:44 +0000</lastBuildDate><atom:link href="https://example.org/categories/.net-framework-4.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NHibernate QueryOver is not a Linq provider (that is how to do join with QueryOver API)</title>
+      <link>https://example.org/archive/2013/10/17/nhibernate-queryover-is-not-a-linq-provider-that-is-how.aspx</link>
+      <pubDate>Thu, 17 Oct 2013 13:38:44 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/10/17/nhibernate-queryover-is-not-a-linq-provider-that-is-how.aspx</guid>
+      <description>Starting from NHibernate 3.0 a new API was build as a wrapper around the ICriteria object.
+Obviously I’m talking about the powerful API called QueryOver. With this API you can build a wide range of query object, from the simplest to the more complicated one. But you need to remember that this API is not a Linq provider, and then you cannot apply those constructs typically applied in a Linq query.</description>
+    </item>
+    
+    <item>
+      <title>Pluralisation services in .Net Framework</title>
+      <link>https://example.org/archive/2013/10/07/pluralisation-services-in-net-framework.aspx</link>
+      <pubDate>Mon, 07 Oct 2013 14:12:04 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/10/07/pluralisation-services-in-net-framework.aspx</guid>
+      <description>Starting from .Net Framework version 4.0 developers have available a new service for converting a single word from singular to plural form, or from plural to singular form.
+I’m talking about the class PluralizationService contained in namespace System.Data.Entity.Design.PluralizationServices in assembly System.Data.Entity.Design.
+it’s very simple to use it:
+or
+I don’t know how reliable a translation service inside a framework can be, but it’s use can be very useful.
+Be careful because the only supported culture is “English” (so far).</description>
+    </item>
+    
+    <item>
+      <title>Dynamic build of generics types at runtime</title>
+      <link>https://example.org/archive/2013/10/07/dynamic-build-of-generics-types-at-runtime.aspx</link>
+      <pubDate>Mon, 07 Oct 2013 09:38:37 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2013/10/07/dynamic-build-of-generics-types-at-runtime.aspx</guid>
+      <description>How to create dynamically a type in .Net when it’s only known a string representation of that type, I think it’s an operation known to almost all .Net programmers, but what happened with types with type parameters (or generics) ?
+In .Net is possible to create dynamically both generics with a known type, i.e. List&amp;lt;&amp;gt;, and generics with type in turn dynamically built.
+Here’s an example:
+a) Dynamic generated both type parameter and type</description>
+    </item>
+    
+    <item>
+      <title>WCF 4.0 and its defaults</title>
+      <link>https://example.org/archive/2012/06/06/wcf-4-0-and-its-defaults.aspx</link>
+      <pubDate>Wed, 06 Jun 2012 13:41:35 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2012/06/06/wcf-4-0-and-its-defaults.aspx</guid>
+      <description>The default endpoint and default binding provided by WCF 4.0 are obviously great features that can save developing and testing time, but sometimes this conventional configuration don’t help in case you have some trouble with certain setting that doesn’t work.
+The setting I mean in this case concern the Windows Authentication over HTTP.
+To enable this setting you have only to configure the basic http bindings with a specified security mode, and then, obviously, configure the IIS authentication for the site/virtual directory that host your service to enable Windows Authentication and disable Anonymous access.</description>
+    </item>
+    
+    <item>
+      <title>AddessAccessDeniedException in WCF 4.0</title>
+      <link>https://example.org/archive/2011/06/28/addessaccessdeniedexception-in-wcf-4-0.aspx</link>
+      <pubDate>Tue, 28 Jun 2011 15:38:55 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/06/28/addessaccessdeniedexception-in-wcf-4-0.aspx</guid>
+      <description>If you host a WCF service on a machine with UAC enabled, Vista or Win7 for example, you might run into a seemingly strange exception:
+The reason is due to the fact that to host a WCF service you need to register its url, and this task requires administrator privileges, and this means as well that if you run Visual Studio as Administrator everything works fine, but what if you don’t have this possibility ?</description>
+    </item>
+    
+    <item>
+      <title>Default endpoints in WCF 4.0</title>
+      <link>https://example.org/archive/2011/06/28/default-endpoints-in-wcf-4-0.aspx</link>
+      <pubDate>Tue, 28 Jun 2011 14:55:52 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2011/06/28/default-endpoints-in-wcf-4-0.aspx</guid>
+      <description>Starting from WCF 4.0 it’s possible to use a default endpoint in absence of explicit configuration. This means that you can avoid to configure an explicit endpont because of a default mapping between protocol schema and bindings described in the configuration file machine.config.
+Here is the default content of that mapping:
+For example, in the case of presence of “http” in the protocol, it will be used the default binding “basicHttpBinding” without the need to configure an endpoint explicitly.</description>
+    </item>
+    
+    <item>
+      <title>Link utili della settimana #12</title>
+      <link>https://example.org/archive/2010/09/03/link-utili-della-settimana-12.aspx</link>
+      <pubDate>Fri, 03 Sep 2010 20:24:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/09/03/link-utili-della-settimana-12.aspx</guid>
+      <description>– Microsoft – Domain Oriented N-Layered .NET 4.0 App Sample
+Per gli amanti (come me) di DDD, ecco un progetto molto interessante riguardante un “DDD N-Layered Architecture Style”, ovvero una applicazione di esempio che mostra uno scenario di business molto semplice che include alcune implementazioni di DDD Design patterns (Repository, UoW, Entity, Aggregate, Value-Object, etc), facendo uso di .Net 4.0, EF 4.0, WCF 4.0, differenti client partendo da WPF e Silverlight.</description>
+    </item>
+    
+    <item>
+      <title>Metodo String.IsNullOrWhiteSpace, era ora!</title>
+      <link>https://example.org/archive/2010/08/02/metodo-string-isnullorwhitespace-era-ora.aspx</link>
+      <pubDate>Mon, 02 Aug 2010 19:18:08 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/08/02/metodo-string-isnullorwhitespace-era-ora.aspx</guid>
+      <description>Metodo String.IsNullOrWhiteSpace
+non capisco come si sia dovuto attendere la versione 4 della BLC per introdurre un metodo la cui funzionalità è sicuramente utilizzatissima dagli svluppatori, costringendo questi ultimi a scrivere helper class oppure, ma solo a partire dal Framework 3.5, extention methods ad hoc.
+Infatti, prima dell’introduzione di questo metodo, a meno ripeto di non scriversi un metodo ad hoc. erano necessari ben 2 passaggi per determinare se una stringa fosse uguale a null oppure vuota, includendo nel concetto di vuota anche lo spazio poichè esso è a tutti gli effetti un carattere.</description>
+    </item>
+    
+    <item>
+      <title>CLR &amp;ndash; Forwarding type</title>
+      <link>https://example.org/archive/2010/05/03/clr-ndash-forwarding-type.aspx</link>
+      <pubDate>Mon, 03 May 2010 00:36:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2010/05/03/clr-ndash-forwarding-type.aspx</guid>
+      <description>Il CLR consente di spostare il codice di una classe da un assembly ad un altro senza dover ricompilare il codice client che usa la classe in questione.
+Questa caratteristica è nota come Type Forwarding.
+Supponendo di avere la classe Class1 nell’assembly Ass1, se per questioni di refactory del codice sorgente la classe viene spostata nell’assembly Ass2, sembrerebbe a prima vista necessario ricompilare anche il codice che referenzia l’assembly Ass1 per aggiungere una reference all’assembly Ass2 e modificare la dichiarazione della classe Class1.</description>
+    </item>
+    
+  </channel>
+</rss>

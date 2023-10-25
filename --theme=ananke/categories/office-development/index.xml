@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Office development on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/office-development/</link>
+    <description>Recent content in Office development on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2008 10:09:09 +0000</lastBuildDate><atom:link href="https://example.org/categories/office-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xobni – il tool di cui si sentiva la mancanza</title>
+      <link>https://example.org/archive/2008/05/07/xobni-il-tool-di-cui-si-sentiva-la-mancanza.aspx</link>
+      <pubDate>Wed, 07 May 2008 10:09:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/05/07/xobni-il-tool-di-cui-si-sentiva-la-mancanza.aspx</guid>
+      <description>Per chi utilizza Outlook in modo intensivo questo è davvero un must-have tool. Sto parlando di Xobni, un add-in per Outlook 2003/2007 che permette di gestire i messaggi di posta in modo molto efficiente. Tra le sue caratteristiche segnalo:
+Efficientissimo motore di ricerca di messaggi e/o persone con nutrito numero di opzioni; Gestione dei messaggi in thread; Estrazione automatica del numero di telefono del mittente dal messaggio di posta (spettacolare); Ricerca istantanea degli allegati legati ad un particolare mittente; Creazione di mail di invito ad un evento con estrazione automatica dei periodi di disponibilità dal proprio calendario; Statistiche estremamente dettagliate sulle mail scambiate con ogni mittente; Navigazione della mailbox in base al profilo della persona; La feature che personalmente trovo estremamente comoda è la ricerca degli allegati legati ad una particolare persona.</description>
+    </item>
+    
+    <item>
+      <title>Diagramma Active Directory in Visio</title>
+      <link>https://example.org/archive/2006/01/24/diagramma-active-directory-in-visio.aspx</link>
+      <pubDate>Tue, 24 Jan 2006 07:41:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2006/01/24/diagramma-active-directory-in-visio.aspx</guid>
+      <description>Erika Ehrli mostra in questo articolo come implementare un add-in per Visio 2003, utilizzando Visual Studio .NET 2003, per effettuare una query LDAP sugli utenti in Active Directory e creare un diagramma in Visio suddiviso per dipartimento. Nonostante non sia un sistemista ma uno sviluppatore, penso che un add-in come questo mi tornerà utilissimo; in passato mi sono sempre chiesto se Visio non avesse tra i propri diagrammi qualcosa del genere.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WPF on My New Hugo Site</title>
+    <link>https://example.org/categories/wpf/</link>
+    <description>Recent content in WPF on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Aug 2008 16:22:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/wpf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creare una &#34;full trust&#34; xbap application</title>
+      <link>https://example.org/archive/2008/08/04/creare-una-quot-full-trust-quot-xbap-application.aspx</link>
+      <pubDate>Mon, 04 Aug 2008 16:22:00 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/08/04/creare-una-quot-full-trust-quot-xbap-application.aspx</guid>
+      <description>Come chi programma in WPF ben sa, una applicazione WPF browser, meglio nota come XBAP application, gira all’interno del browser in un ambiente partial trust, oppure in una sandbox di sicurezza, come meglio si preferisce, per evitare appunto che il codice di una tale applicazione possa accedere a informazioni confidenziali oppure effettuare azioni non autorizzate. In particolari scenari, tuttavia, ad esempio in applicazioni Intranet, può nascere l’esigenza di dotare tali applicazioni di un maggior numero di permessi, oppure addirittura farle girare in ambiente full trust.</description>
+    </item>
+    
+    <item>
+      <title>Mole, visualizer integrato per visual studio</title>
+      <link>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</link>
+      <pubDate>Thu, 31 Jul 2008 08:25:09 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/31/mole-visualizer-integrato-per-visual-studio.aspx</guid>
+      <description>Segnalo un gran bel Visualizer per Visual Studio 2005/2008. Trattasi di Mole v.4.2, un visualizer in grado di funzionare con diversi oggetti di diverse tipologie di progetto, che comprendono WinForms, WPF, WCF, WF, ASP.NET, XBAP. Io lo trovo molto utile soprattutto per progetti WCF, WPF, dove gli oggetti con cui si ha a che fare sono abbastanza complessi e strutturati. Uno strumento del genere, molto ben fatto e performante, può far risparmiare diversi “mal di testa” quando si effettua il debugging di progetti di questo tipo.</description>
+    </item>
+    
+  </channel>
+</rss>

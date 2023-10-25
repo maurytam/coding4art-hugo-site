@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refactoring on Maurizio Tammacco&#39;s blog 4.0</title>
+    <link>https://example.org/categories/refactoring/</link>
+    <description>Recent content in Refactoring on Maurizio Tammacco&#39;s blog 4.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2009 06:37:56 +0000</lastBuildDate><atom:link href="https://example.org/categories/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>refactoring del codice</title>
+      <link>https://example.org/archive/2009/03/06/refactoring-del-codice.aspx</link>
+      <pubDate>Fri, 06 Mar 2009 06:37:56 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2009/03/06/refactoring-del-codice.aspx</guid>
+      <description>Mi appunto questo post molto interessante di Luca Minudel a proposito della attività di refactoring sul codice sorgente, molto spesso sottovalutata o ignorata del tutto in progetti reali.
+Minudel elenca le seguenti 6 attività di refactoring che ritengo personalmente indispensabili ed utili.
+_* Estrae codice dai metodi troppo lunghi (&amp;raquo; 30 linee di codice)
+Cerca i commenti e modifica il codice in modo che si spieghi da solo Scorre i nomi di metodi e variabili e rinomina quelli poco chiari e quelli poco descrittivi Guarda i blocchi condizionali (If, switch, for, …) e vede se li può eliminare Trova parti di codice duplicate e le elimina Scopre cosa fa ogni metodo e si chiede se si trova sulla classe giusta Inizia ogni punto mostrando come fare e quindi lascia continuare al suo collega, interviene quando serve_ </description>
+    </item>
+    
+  </channel>
+</rss>

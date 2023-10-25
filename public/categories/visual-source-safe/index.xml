@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Source Safe on My New Hugo Site</title>
+    <link>https://example.org/categories/visual-source-safe/</link>
+    <description>Recent content in Visual Source Safe on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2008 16:20:43 +0000</lastBuildDate><atom:link href="https://example.org/categories/visual-source-safe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual source safe – troubleshooting</title>
+      <link>https://example.org/archive/2008/07/20/visual-source-safe-troubleshooting.aspx</link>
+      <pubDate>Sun, 20 Jul 2008 16:20:43 +0000</pubDate>
+      
+      <guid>https://example.org/archive/2008/07/20/visual-source-safe-troubleshooting.aspx</guid>
+      <description>Nel mio lavoro quotidiano come consulente uso spesso e volentieri Visual Source Safe (sigh!) come repository del codice sorgente. Come chi già lo usa sicuramente ben sa, Source Safe è un prodotto ormai datato che si porta dietro un pò di problemi di varia natura. Quindi, non è sempre facile “addomesticarlo” per ottenere quello che si vuole. Appunto un paio di workaround su come evitare certe situazioni che possono portare a problemi:</description>
+    </item>
+    
+  </channel>
+</rss>
